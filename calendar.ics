@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Williams Family Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:competition-judge-duty-20260406
+DTSTAMP:20260311T150000Z
+DTSTART:20260406T141500Z
+DTEND:20260406T180000Z
+SUMMARY:Competition Judge Duty
+LOCATION:Parkway Welcome Center, 760 Woods Mill Dr, Ballwin, MO
+DESCRIPTION:Parent judge meeting at 9:15 AM. Students arrive at 10:00 AM. Competition concludes around 1:00 PM.
+END:VEVENT
+END:VCALENDAR
