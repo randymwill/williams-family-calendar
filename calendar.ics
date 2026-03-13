@@ -97,4 +97,773 @@ DTEND;VALUE=DATE:20260517
 SUMMARY:Track Finals - Mary-Jean
 LOCATION:Lindenwood
 END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024399
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145828Z
+LAST-MODIFIED:20260211T160140Z
+SEQUENCE:1770825700
+DTSTART;TZID=America/Chicago:20260211T170000
+DTEND;TZID=America/Chicago:20260211T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (6E Split)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024400
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145828Z
+LAST-MODIFIED:20260206T145828Z
+SEQUENCE:1770389908
+DTSTART;TZID=America/Chicago:20260218T170000
+DTEND;TZID=America/Chicago:20260218T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918337
+DTSTAMP:20260307T172708Z
+CREATED:20260213T231856Z
+LAST-MODIFIED:20260213T231856Z
+SEQUENCE:1771024736
+DTSTART;TZID=America/Chicago:20260220T190000
+DTEND;TZID=America/Chicago:20260220T200000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018
+  Newcastle\nArrive by 6:30 PM\nSoccer Park 2D
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024401
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145828Z
+LAST-MODIFIED:20260206T145828Z
+SEQUENCE:1770389908
+DTSTART;TZID=America/Chicago:20260225T170000
+DTEND;TZID=America/Chicago:20260225T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918500
+DTSTAMP:20260307T172708Z
+CREATED:20260213T231942Z
+LAST-MODIFIED:20260213T231942Z
+SEQUENCE:1771024782
+DTSTART;TZID=America/Chicago:20260227T200000
+DTEND;TZID=America/Chicago:20260227T210000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 Lens at MO Girls 2017/2018 West Ham\nArrive
+  by 7:30 PM\nSoccer Park 2C
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024402
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145828Z
+LAST-MODIFIED:20260206T145828Z
+SEQUENCE:1770389908
+DTSTART;TZID=America/Chicago:20260304T170000
+DTEND;TZID=America/Chicago:20260304T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305173
+DTSTAMP:20260307T172708Z
+CREATED:20260213T164905Z
+LAST-MODIFIED:20260213T170222Z
+SEQUENCE:1771002142
+DTSTART;TZID=America/Chicago:20260307T090000
+DTEND;TZID=America/Chicago:20260307T101500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #1 - U9 to U14
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are off weeks
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186510
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172218Z
+LAST-MODIFIED:20260217T172218Z
+SEQUENCE:1771348938
+DTSTART;TZID=America/Chicago:20260309T170000
+DTEND;TZID=America/Chicago:20260309T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024403
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145828Z
+LAST-MODIFIED:20260206T145828Z
+SEQUENCE:1770389908
+DTSTART;TZID=America/Chicago:20260311T170000
+DTEND;TZID=America/Chicago:20260311T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186556
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172222Z
+LAST-MODIFIED:20260217T172222Z
+SEQUENCE:1771348942
+DTSTART;TZID=America/Chicago:20260316T170000
+DTEND;TZID=America/Chicago:20260316T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024404
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260318T170000
+DTEND;TZID=America/Chicago:20260318T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918687
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232051Z
+LAST-MODIFIED:20260213T232051Z
+SEQUENCE:1771024851
+DTSTART;TZID=America/Chicago:20260320T200000
+DTEND;TZID=America/Chicago:20260320T210000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 West Ham at IL Girls 2017 Nottingham Forest
+  White\nArrive by 7:30 PM\nSoccer Park 1D
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305185
+DTSTAMP:20260307T172708Z
+CREATED:20260213T165029Z
+LAST-MODIFIED:20260213T165728Z
+SEQUENCE:1771001848
+DTSTART;TZID=America/Chicago:20260321T090000
+DTEND;TZID=America/Chicago:20260321T101500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #2 - U9 to U14
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are weeks off
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186557
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172222Z
+LAST-MODIFIED:20260217T172222Z
+SEQUENCE:1771348942
+DTSTART;TZID=America/Chicago:20260323T170000
+DTEND;TZID=America/Chicago:20260323T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024405
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260325T170000
+DTEND;TZID=America/Chicago:20260325T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305189
+DTSTAMP:20260307T172708Z
+CREATED:20260213T165341Z
+LAST-MODIFIED:20260213T170302Z
+SEQUENCE:1771002182
+DTSTART;TZID=America/Chicago:20260328T090000
+DTEND;TZID=America/Chicago:20260328T221500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #3 - U9 to U14
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are off weeks
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186558
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172222Z
+LAST-MODIFIED:20260217T172222Z
+SEQUENCE:1771348942
+DTSTART;TZID=America/Chicago:20260330T170000
+DTEND;TZID=America/Chicago:20260330T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024406
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260401T170000
+DTEND;TZID=America/Chicago:20260401T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2193213
+DTSTAMP:20260307T172708Z
+CREATED:20251229T183227Z
+LAST-MODIFIED:20260225T181013Z
+SEQUENCE:1772043013
+DTSTART;TZID=America/Chicago:20260403T100000
+DTEND;TZID=America/Chicago:20260403T193000
+SUMMARY:MO Girls 2017/2018 West Ham - CHAMPIONS CUP
+DESCRIPTION:CHAMPIONS CUP<br>FRIDAY - 4/3/2026<br><br>SLSG Champions Cup:
+ <br>The Champions Cup is a celebration event of our Living Legacy
+  Foundation\, which helps provide scholarships for players in financial
+  need.  We will also be collecting used soccer gear.  Coaches and team
+  leaders are encouraged to help substitute\, but let the players coach
+  themselves on the field\, and let the game be the teacher. Players are
+  encouraged to RESPECT all aspects of the game.<br><br>SLSG SOCCER CLUB
+  MISSION STATEMENT:<br>To build the Best Club in the Country\, a Club that
+  positively impacts the development of our players on and off the field
+  and our community.<br><br>DETAILS:<br>• 5v5 - U6 to U12 - Friday 4/3 -
+  10 AM to 7:30 PM.<br>• Each team gets two 50-minute games\, consisting
+  of two twenty-five-minute halves. If the tournament runs on time\, you
+  should get 5 minutes to warm up. Some teams will receive a bonus (3rd)
+  crossover game to help balance the odd-numbered brackets. We try to
+  schedule brackets in a four-hour window.<br>• All weather-related issue
+  updates will be posted on http://twitter.com/SLSGfacilities.<br>• There
+  are no official bracket winners or prizes. This is a celebration event
+  for our Living Legacy Program. <br>• No Refs. Team Leaders and players
+  work together in unity to manage the game.<br>• 5v5 games (4 plus a
+  goalie).<br>• The home team wears white. The away team wears all dark.
+  Home and away are listed on the schedule.<br>• Kick-ins - no throw-ins
+ <br>• If your game starts late\, then you will be shorted. Please be
+  respectful to your opponent by showing up early and being ready to play
+  when the clock starts.<br><br>DATES:<br>• Double Check Schedule 3/12\,
+  3/19\, 3/28\, 4/2<br>• Gameday 4/3<br><br>RULES:<br>NO REFS - PLAYERS
+  AND TEAM LEADERS MANAGE THE GAME - FIFA RULES APPLY EXCEPT:<br>• 5v5
+  games (4 plus a goalie)<br>• Pass-ins instead of throw-ins<br><br>
+ LIVING LEGACY FOUNDATION:<br>The SLSG Living Legacy Fund is an endowment
+  that allows for scholarships to be awarded to deserving players who have
+  talent and passion but may not have the financial resources to join the
+  club. Scholarships are awarded by an endowment board made up of
+  individuals inside and outside the club\, who weigh criteria including
+  financial need\, character\, and passion for the game.<br><br>Donation
+  link:<br>&#34\;https://secure.qgiv.com/for/slsgf/&#34\;<br><br>UPPER 90
+  SHOE COLLECTION:<br>Used soccer shoes\, uniforms\, jerseys\, shorts\,
+  socks\, training shirts\, and ball collection will be donated to support
+  teams in Zambia\, Uganda\, Honduras\, Haiti\, and locally in St. Louis.
+  We will have drop-off bins on the North Patio between fields 1\, 2\, and
+  3.<br><br>ATTENDANCE EXPECTATIONS:<br>All players are to update their
+  attendance on Playmetrics. All SLSG teams from U6 to U12 are
+  automatically in the Champions Cup with no registration needed.  All
+  games will be played. If you need players\, fill out the Team Leaders
+  &amp\; Need Players form and tell us how many you need and we will find
+  you players.  We have many players looking to play. <br>
+ https://bit.ly/ChampionsCup-teamleader-needplayers-form<br><br>If you are
+  playing a team that&#39\;s short on players\, please give them your subs
+  so everyone plays and it&#39\;s still 5v5. If there still aren&#39\;t
+  enough players\, please shorten the field and play 4v4\, or even 3v3\,
+  depending on the number of players.<br><br>WANTING TO GUEST PLAY ON A 2ND
+  TEAM?<br>If you are interested in guest playing for a 2nd team in the
+  event\, please fill out this form\, and we will see if we can match you
+  up with a team needing a player.<br>
+ https://bit.ly/CHAMPIONScup-IwantTOguest<br><br>CHAMPIONS CUP - 2026 -
+  GENERAL INFORMATION<br>https://bit.ly/SLSG-ONEday-Generalinfo
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3988674
+DTSTAMP:20260307T172708Z
+CREATED:20260224T145650Z
+LAST-MODIFIED:20260307T172605Z
+SEQUENCE:1772904365
+DTSTART;TZID=America/Chicago:20260403T133000
+DTEND;TZID=America/Chicago:20260403T142000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017 Aston Villa Blue at MO Girls 2017/2018 West
+  Ham\nArrive by 1:00 PM\nSoccer Park 2A
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918781
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232134Z
+LAST-MODIFIED:20260213T232134Z
+SEQUENCE:1771024894
+DTSTART;TZID=America/Chicago:20260404T110000
+DTEND;TZID=America/Chicago:20260404T120000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017 Celtic\nArrive by
+  10:30 AM\nSoccer Park 5A
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186559
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172222Z
+LAST-MODIFIED:20260217T172222Z
+SEQUENCE:1771348942
+DTSTART;TZID=America/Chicago:20260406T170000
+DTEND;TZID=America/Chicago:20260406T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024407
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260408T170000
+DTEND;TZID=America/Chicago:20260408T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918813
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232151Z
+LAST-MODIFIED:20260213T232151Z
+SEQUENCE:1771024911
+DTSTART;TZID=America/Chicago:20260410T190000
+DTEND;TZID=America/Chicago:20260410T200000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:IL Girls 2017 Nottingham Forest Red at MO Girls 2017/2018 West
+  Ham\nArrive by 6:30 PM
+LOCATION:Field 2B
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186662
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172231Z
+LAST-MODIFIED:20260217T172231Z
+SEQUENCE:1771348951
+DTSTART;TZID=America/Chicago:20260413T170000
+DTEND;TZID=America/Chicago:20260413T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024408
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260415T170000
+DTEND;TZID=America/Chicago:20260415T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186663
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172231Z
+LAST-MODIFIED:20260217T172231Z
+SEQUENCE:1771348951
+DTSTART;TZID=America/Chicago:20260420T170000
+DTEND;TZID=America/Chicago:20260420T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024409
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260422T170000
+DTEND;TZID=America/Chicago:20260422T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918861
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232213Z
+LAST-MODIFIED:20260213T232213Z
+SEQUENCE:1771024933
+DTSTART;TZID=America/Chicago:20260424T193000
+DTEND;TZID=America/Chicago:20260424T203000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Lens\nArrive
+  by 7:00 PM\nSoccer Park 2C
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305204
+DTSTAMP:20260307T172708Z
+CREATED:20260213T170143Z
+LAST-MODIFIED:20260213T170206Z
+SEQUENCE:1771002126
+DTSTART;TZID=America/Chicago:20260425T090000
+DTEND;TZID=America/Chicago:20260425T101500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #4 - U9 to U12
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are off weeks
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10186664
+DTSTAMP:20260307T172708Z
+CREATED:20260217T172231Z
+LAST-MODIFIED:20260217T172231Z
+SEQUENCE:1771348951
+DTSTART;TZID=America/Chicago:20260427T170000
+DTEND;TZID=America/Chicago:20260427T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024410
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260429T170000
+DTEND;TZID=America/Chicago:20260429T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918911
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232236Z
+LAST-MODIFIED:20260213T232236Z
+SEQUENCE:1771024956
+DTSTART;TZID=America/Chicago:20260501T190000
+DTEND;TZID=America/Chicago:20260501T200000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017 Celtic at MO Girls 2017/2018 West Ham\nArrive by
+  6:30 PM\nSoccer Park 2C
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305210
+DTSTAMP:20260307T172708Z
+CREATED:20260213T170531Z
+LAST-MODIFIED:20260213T170531Z
+SEQUENCE:1771002331
+DTSTART;TZID=America/Chicago:20260502T090000
+DTEND;TZID=America/Chicago:20260502T101500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #5 - U9 to U12
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are off weeks
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024411
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260506T170000
+DTEND;TZID=America/Chicago:20260506T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918957
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232257Z
+LAST-MODIFIED:20260213T232257Z
+SEQUENCE:1771024977
+DTSTART;TZID=America/Chicago:20260506T173000
+DTEND;TZID=America/Chicago:20260506T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 Plymouth Argyle at MO Girls 2017/2018 West
+  Ham\nArrive by 5:00 PM\nSoccer Park 6D
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Game_3918993
+DTSTAMP:20260307T172708Z
+CREATED:20260213T232313Z
+LAST-MODIFIED:20260213T232313Z
+SEQUENCE:1771024993
+DTSTART;TZID=America/Chicago:20260508T193000
+DTEND;TZID=America/Chicago:20260508T203000
+SUMMARY:MO Girls 2017/2018 West Ham - Game
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Plymouth
+  Argyle\nArrive by 7:00 PM
+LOCATION:Field 2B
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024412
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260513T170000
+DTEND;TZID=America/Chicago:20260513T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GenericCalendarEvent_2305213
+DTSTAMP:20260307T172708Z
+CREATED:20260213T170811Z
+LAST-MODIFIED:20260213T201501Z
+SEQUENCE:1771013701
+DTSTART;TZID=America/Chicago:20260516T090000
+DTEND;TZID=America/Chicago:20260516T101500
+SUMMARY:MO Girls 2017/2018 West Ham - TECH #6 - U9 to U14
+DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>
+ Improve your touch\, creativity\, and technique! ‬  Tech Training is
+  individual-based player development training in an age-group setting. 
+  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
+  program.<br><br>- A technical training program for all SLSG Players.<br>-
+  Sign-up is by individual player\; it is not a team event.<br>- U6 to U14
+  age groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions
+  on Saturday mornings<br>- The times vary by facility (double check the
+  schedule on link below) <br>- Weather-related cancellations will be
+  posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG
+  players\, but all players need please to RSVP.<br>- There are off weeks
+  in the middle of the program due to SLSG Tournaments\, double check
+  schedule.<br><br>TECH TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park -
+  Field 6<br>Illinois - SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>
+ 9:00am - 10:15am (U9\, U10\, U11\, U12\, U13\, U14 - boys and girls)<br>
+ 10:15am - 11:30am (U6\, U7\, U8 - boys and girls)<br><br>SCHEDULE:<br>
+ https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE:<br>In order to staff the
+  session correctly\, we ask all players to RSVP on this Playmetrics event
+ <br>The cost is included in club dues. There are no make ups due to
+  facility plans.<br>Weather related cancellations will be posted on
+  twitter - @SLSGfacilities and if we we are able\, emailed through the
+  sign-up list (we are sometimes in the field and can not).<br><br>RSVP: 
+  https://bit.ly/TECH-rsvp
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024413
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260520T170000
+DTEND;TZID=America/Chicago:20260520T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Practice_10024414
+DTSTAMP:20260307T172708Z
+CREATED:20260206T145829Z
+LAST-MODIFIED:20260206T145829Z
+SEQUENCE:1770389909
+DTSTART;TZID=America/Chicago:20260527T170000
+DTEND;TZID=America/Chicago:20260527T183000
+SUMMARY:MO Girls 2017/2018 West Ham - Practice
+DESCRIPTION:Soccer Park 3 (3E)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://playmetrics.com
+END:VEVENT
 END:VCALENDAR
