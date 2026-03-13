@@ -4,7 +4,7 @@ from urllib.request import urlopen
 
 FEEDS = [
     {
-        "name": "PlayMetrics Soccer",
+        "name": "Scott Gallagher Soccer",
         "url": (
             "https://calendar.playmetrics.com/calendars/c225/t437623/p0/"
             "t6B69E936/f/calendar.ics"
