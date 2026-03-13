@@ -33,6 +33,7 @@ FEEDS = [
 
 SOURCE_PREFIX = "X-CODEX-SOURCE:"
 LEGACY_PLAYMETRICS_URL = "URL:https://playmetrics.com"
+WEST_HAM_PREFIX = "MO Girls 2017/2018 West Ham - "
 
 
 def normalize(text: str) -> str:
@@ -91,6 +92,33 @@ def set_property(block: str, key: str, value: str) -> str:
     return "\n".join(lines)
 
 
+def to_title_case(text: str) -> str:
+    return " ".join(word.capitalize() for word in text.split())
+
+
+def rewrite_summary(feed: dict[str, str], summary: str) -> str:
+    if feed["source_id"] != "playmetrics-soccer":
+        label = f"{feed['name']} - "
+        return summary if summary.startswith(label) else label + summary
+
+    old_label = f"{feed['name']} - "
+    if summary.startswith(old_label):
+        summary = summary[len(old_label) :]
+
+    if not summary.startswith(WEST_HAM_PREFIX):
+        return summary
+
+    detail = summary[len(WEST_HAM_PREFIX) :]
+    if detail == "Practice":
+        return "West Ham Practice - SG"
+    if detail == "Game":
+        return "West Ham Game - SG"
+    if detail.startswith("TECH"):
+        return "West Ham Tech Training - SG"
+
+    return f"West Ham {to_title_case(detail)} - SG"
+
+
 def tag_event(block: str, feed: dict[str, str]) -> str:
     uid_prefix = f"{feed['source_id']}--"
 
@@ -108,9 +136,7 @@ def tag_event(block: str, feed: dict[str, str]) -> str:
     )
     if summary_line is not None:
         summary = summary_line.split(":", 1)[1]
-        label = f"{feed['name']} - "
-        if not summary.startswith(label):
-            block = set_property(block, "SUMMARY", label + summary)
+        block = set_property(block, "SUMMARY", rewrite_summary(feed, summary))
 
     marker = source_marker(feed["source_id"])
     if marker not in block:
