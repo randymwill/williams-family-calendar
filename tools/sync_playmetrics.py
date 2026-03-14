@@ -40,8 +40,19 @@ def normalize(text: str) -> str:
     return text.replace("\r\n", "\n").replace("\r", "\n")
 
 
-def split_events(text: str) -> tuple[list[str], list[str], list[str]]:
+def unfold_ics(text: str) -> str:
     lines = normalize(text).split("\n")
+    unfolded: list[str] = []
+    for line in lines:
+        if line.startswith((" ", "\t")) and unfolded:
+            unfolded[-1] += line[1:]
+        else:
+            unfolded.append(line)
+    return "\n".join(unfolded)
+
+
+def split_events(text: str) -> tuple[list[str], list[str], list[str]]:
+    lines = unfold_ics(text).split("\n")
     begin = "BEGIN:VEVENT"
     end = "END:VEVENT"
 
@@ -97,6 +108,13 @@ def to_title_case(text: str) -> str:
 
 
 def rewrite_summary(feed: dict[str, str], summary: str) -> str:
+    if feed["source_id"] == "vetta-soccer":
+        label = f"{feed['name']} - "
+        if summary.startswith(label):
+            summary = summary[len(label) :]
+        summary = summary.replace("G2 2017 ", "")
+        return label + summary
+
     if feed["source_id"] != "playmetrics-soccer":
         label = f"{feed['name']} - "
         return summary if summary.startswith(label) else label + summary
