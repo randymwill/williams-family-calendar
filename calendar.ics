@@ -713,41 +713,9 @@ URL:https://playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260419T215000Z
-DTEND:20260419T224000Z
-DTSTAMP:20260315T071430Z
-UID:vetta-soccer--1695151.600565@vetta
-CLASS:PUBLIC
-CREATED:20260210T221928Z
-DESCRIPTION:Game
-LAST-MODIFIED:20260211T045559Z
-LOCATION:Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - Tigers (Crohn) 3 vs Rainbow Unicorns (Cunningham) 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260322T124500Z
-DTEND:20260322T133500Z
-DTSTAMP:20260315T071430Z
-UID:vetta-soccer--1694702.600565@vetta
-CLASS:PUBLIC
-CREATED:20260210T221928Z
-DESCRIPTION:Game
-LAST-MODIFIED:20260211T045559Z
-LOCATION:Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - Josh (Davison) 4 vs Rainbow Unicorns (Cunningham) 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260503T173500Z
 DTEND:20260503T182500Z
-DTSTAMP:20260315T071430Z
+DTSTAMP:20260315T131714Z
 UID:vetta-soccer--1695338.600565@vetta
 CLASS:PUBLIC
 CREATED:20260210T221928Z
@@ -761,9 +729,25 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:vetta-soccer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260419T215000Z
+DTEND:20260419T224000Z
+DTSTAMP:20260315T131714Z
+UID:vetta-soccer--1695151.600565@vetta
+CLASS:PUBLIC
+CREATED:20260210T221928Z
+DESCRIPTION:Game
+LAST-MODIFIED:20260211T045559Z
+LOCATION:Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vetta Soccer - Tigers (Crohn) 3 vs Rainbow Unicorns (Cunningham) 4
+TRANSP:OPAQUE
+X-CODEX-SOURCE:vetta-soccer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260308T211500Z
 DTEND:20260308T220000Z
-DTSTAMP:20260315T071430Z
+DTSTAMP:20260315T131714Z
 UID:vetta-soccer--1693093.600565@vetta
 CLASS:PUBLIC
 CREATED:20260308T232427Z
@@ -779,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T124500Z
 DTEND:20260411T133500Z
-DTSTAMP:20260315T071430Z
+DTSTAMP:20260315T131714Z
 UID:vetta-soccer--1694989.600565@vetta
 CLASS:PUBLIC
 CREATED:20260210T221928Z
@@ -793,9 +777,25 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:vetta-soccer
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260322T124500Z
+DTEND:20260322T133500Z
+DTSTAMP:20260315T131714Z
+UID:vetta-soccer--1694702.600565@vetta
+CLASS:PUBLIC
+CREATED:20260210T221928Z
+DESCRIPTION:Game
+LAST-MODIFIED:20260211T045559Z
+LOCATION:Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vetta Soccer - Josh (Davison) 4 vs Rainbow Unicorns (Cunningham) 4
+TRANSP:OPAQUE
+X-CODEX-SOURCE:vetta-soccer
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260329T193000Z
 DTEND:20260329T201500Z
-DTSTAMP:20260315T071430Z
+DTSTAMP:20260315T131714Z
 UID:vetta-soccer--1694863.600565@vetta
 CLASS:PUBLIC
 CREATED:20260210T221928Z
@@ -809,129 +809,9 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:vetta-soccer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260422T230000Z
-DTEND:20260423T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--cdb2a34d-44c5-40b6-9e0e-5c07a3f3ddea
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/cdb2a34d-44c5-40b6-9e0e-5c07a3f3ddea\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T000000Z
-DTEND:20260212T010000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--52ffcd51-785d-40e2-95ae-fae423361efd
-CREATED:20260112T000800Z
-DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/52ffcd51-785d-40e2-95ae-fae423361efd\n\nMap:
-LAST-MODIFIED:20260112T000850Z
-LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T210000Z
-DTEND:20260126T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--c011148d-128d-4f0e-93d4-c98ffa642d4a
-CREATED:20260125T220800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/c011148d-128d-4f0e-93d4-c98ffa642d4a\n\nMap:
-LAST-MODIFIED:20260125T220849Z
-LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games- Canceled (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260205T000000Z
-DTEND:20260205T010000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--a7b8878b-7f8c-4be4-b698-e04c16c37688
-CREATED:20260112T000800Z
-DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/a7b8878b-7f8c-4be4-b698-e04c16c37688\n\nMap:
-LAST-MODIFIED:20260112T000850Z
-LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260129T000000Z
-DTEND:20260129T010000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--2fc51183-e9d1-41da-aae8-d018787b6716
-CREATED:20260112T000800Z
-DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/2fc51183-e9d1-41da-aae8-d018787b6716\n\nMap:
-LAST-MODIFIED:20260112T000850Z
-LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260503T200000Z
-DTEND:20260503T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--6ed28fc9-28c3-4907-94e5-69d540c55193
-CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/6ed28fc9-28c3-4907-94e5-69d540c55193\n\nMap:
-LAST-MODIFIED:20260309T060856Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260419T200000Z
-DTEND:20260419T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--b0f29bd4-c096-46e1-bd70-f2c9b1a71b98
-CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/b0f29bd4-c096-46e1-bd70-f2c9b1a71b98\n\nMap:
-LAST-MODIFIED:20260309T060856Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T230000Z
-DTEND:20260528T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--0cf0edce-26e9-43fc-9f6b-005d6ac9beea
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/0cf0edce-26e9-43fc-9f6b-005d6ac9beea\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T230000Z
 DTEND:20260409T000000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--27c0d7eb-5d63-4219-bf1b-5d07aff55edf
 CREATED:20260309T060800Z
 DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/27c0d7eb-5d63-4219-bf1b-5d07aff55edf\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
@@ -944,9 +824,114 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T230000Z
+DTEND:20260521T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--5352be40-ae40-428f-a5c4-70ef00042f4d
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/5352be40-ae40-428f-a5c4-70ef00042f4d\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T230000Z
+DTEND:20260430T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--6530ae64-6028-433a-a83f-3b47dfcc1131
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/6530ae64-6028-433a-a83f-3b47dfcc1131\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T200000Z
+DTEND:20260531T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--1b010557-93e7-485d-8c0a-257e95b7f3da
+CREATED:20260309T060800Z
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/1b010557-93e7-485d-8c0a-257e95b7f3da\n\nMap:
+LAST-MODIFIED:20260309T060856Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260222T210000Z
+DTEND:20260223T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--59eddbc3-f444-4ca8-aee2-58315515a4b9
+CREATED:20260222T190800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/59eddbc3-f444-4ca8-aee2-58315515a4b9\n\nMap:
+LAST-MODIFIED:20260222T190849Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T200000Z
+DTEND:20260517T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--86e6267e-b0bf-41b9-80a6-1511079df47b
+CREATED:20260309T060800Z
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/86e6267e-b0bf-41b9-80a6-1511079df47b\n\nMap:
+LAST-MODIFIED:20260309T060856Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T230000Z
+DTEND:20260507T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--2f9811d3-d271-46c5-81ed-99fb7921fa8b
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/2f9811d3-d271-46c5-81ed-99fb7921fa8b\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T210000Z
+DTEND:20260126T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--c011148d-128d-4f0e-93d4-c98ffa642d4a
+CREATED:20260125T220800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/c011148d-128d-4f0e-93d4-c98ffa642d4a\n\nMap:
+LAST-MODIFIED:20260125T220849Z
+LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games- Canceled (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260215T210000Z
 DTEND:20260216T000000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--b113527c-e076-40b9-94d2-fb5a222a0493
 CREATED:20260215T190800Z
 DESCRIPTION:3-4PM PreK and K\,   \n4-5  1st grade boys\, 1st and 2nd grade girls\n5-6 2nd grade boys \nEvent Details on TeamBot: https://goteambot.com/e/b113527c-e076-40b9-94d2-fb5a222a0493\n\nMap:
@@ -961,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260122T000000Z
 DTEND:20260122T010000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--5acfe53e-b7dd-4d52-a79c-11098c8d96d0
 CREATED:20260112T000800Z
 DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/5acfe53e-b7dd-4d52-a79c-11098c8d96d0\n\nMap:
@@ -974,132 +959,12 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260517T200000Z
-DTEND:20260517T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--86e6267e-b0bf-41b9-80a6-1511079df47b
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--6ed28fc9-28c3-4907-94e5-69d540c55193
 CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/86e6267e-b0bf-41b9-80a6-1511079df47b\n\nMap:
-LAST-MODIFIED:20260309T060856Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260426T200000Z
-DTEND:20260426T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--b40a287f-25cd-4fe5-86f4-6dd3bb7fe546
-CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/b40a287f-25cd-4fe5-86f4-6dd3bb7fe546\n\nMap:
-LAST-MODIFIED:20260309T060856Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260222T210000Z
-DTEND:20260223T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--59eddbc3-f444-4ca8-aee2-58315515a4b9
-CREATED:20260222T190800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/59eddbc3-f444-4ca8-aee2-58315515a4b9\n\nMap:
-LAST-MODIFIED:20260222T190849Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260429T230000Z
-DTEND:20260430T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--6530ae64-6028-433a-a83f-3b47dfcc1131
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/6530ae64-6028-433a-a83f-3b47dfcc1131\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260201T210000Z
-DTEND:20260202T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--8f46a0ca-42aa-4d67-ab24-9da796bc96b9
-CREATED:20260131T230800Z
-DESCRIPTION:3-4PM PreK and K\,  \n4-5PM 1st grade boys and girls\, 2nd grade girls\,  \n5-6  2nd grade boys\nEvent Details on TeamBot: https://goteambot.com/e/8f46a0ca-42aa-4d67-ab24-9da796bc96b9\n\nMap:
-LAST-MODIFIED:20260131T230850Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260301T210000Z
-DTEND:20260302T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--391ec6b6-1787-4c54-a8d7-b25d85df4836
-CREATED:20260228T230800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/391ec6b6-1787-4c54-a8d7-b25d85df4836\n\nMap:
-LAST-MODIFIED:20260228T230851Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260506T230000Z
-DTEND:20260507T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--2f9811d3-d271-46c5-81ed-99fb7921fa8b
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/2f9811d3-d271-46c5-81ed-99fb7921fa8b\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260520T230000Z
-DTEND:20260521T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--5352be40-ae40-428f-a5c4-70ef00042f4d
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/5352be40-ae40-428f-a5c4-70ef00042f4d\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T200000Z
-DTEND:20260412T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--4d355b74-5e88-4772-8fb2-dda57f782d6a
-CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/4d355b74-5e88-4772-8fb2-dda57f782d6a\n\nMap:
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/6ed28fc9-28c3-4907-94e5-69d540c55193\n\nMap:
 LAST-MODIFIED:20260309T060856Z
 LOCATION:PRINCIPIA Field House
 SEQUENCE:0
@@ -1111,7 +976,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260607T200000Z
 DTEND:20260607T220000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--33b5c9b5-fb7d-49e1-9a88-04e3908d51eb
 CREATED:20260309T060800Z
 DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/33b5c9b5-fb7d-49e1-9a88-04e3908d51eb\n\nMap:
@@ -1124,54 +989,39 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260513T230000Z
-DTEND:20260514T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--111b4e20-ed59-48ef-b21c-acd735870400
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/111b4e20-ed59-48ef-b21c-acd735870400\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
+DTSTART:20260212T000000Z
+DTEND:20260212T010000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--52ffcd51-785d-40e2-95ae-fae423361efd
+CREATED:20260112T000800Z
+DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/52ffcd51-785d-40e2-95ae-fae423361efd\n\nMap:
+LAST-MODIFIED:20260112T000850Z
+LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
 TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T200000Z
-DTEND:20260531T220000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--1b010557-93e7-485d-8c0a-257e95b7f3da
-CREATED:20260309T060800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/1b010557-93e7-485d-8c0a-257e95b7f3da\n\nMap:
-LAST-MODIFIED:20260309T060856Z
-LOCATION:PRINCIPIA Field House
+DTSTART:20260201T210000Z
+DTEND:20260202T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--8f46a0ca-42aa-4d67-ab24-9da796bc96b9
+CREATED:20260131T230800Z
+DESCRIPTION:3-4PM PreK and K\,  \n4-5PM 1st grade boys and girls\, 2nd grade girls\,  \n5-6  2nd grade boys\nEvent Details on TeamBot: https://goteambot.com/e/8f46a0ca-42aa-4d67-ab24-9da796bc96b9\n\nMap:
+LAST-MODIFIED:20260131T230850Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260415T230000Z
-DTEND:20260416T000000Z
-DTSTAMP:20260315T071431Z
-UID:little-dribblers-basketball--fa6cf606-13cf-4ab9-b6ba-d79ba75a7af9
-CREATED:20260309T060800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/fa6cf606-13cf-4ab9-b6ba-d79ba75a7af9\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260309T060856Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
 TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T210000Z
 DTEND:20260119T000000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--6c628a4c-3f7d-420c-a70d-574c4c6ef1be
 CREATED:20260118T200800Z
 DESCRIPTION:3-4PM PreK and K\,  4-5PM 1st grade boys and girls\, 2nd grade girls\,  5-6PM  2nd grade boys\nEvent Details on TeamBot: https://goteambot.com/e/6c628a4c-3f7d-420c-a70d-574c4c6ef1be\n\nMap:
@@ -1184,9 +1034,54 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T210000Z
+DTEND:20260302T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--391ec6b6-1787-4c54-a8d7-b25d85df4836
+CREATED:20260228T230800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/391ec6b6-1787-4c54-a8d7-b25d85df4836\n\nMap:
+LAST-MODIFIED:20260228T230851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260412T200000Z
+DTEND:20260412T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--4d355b74-5e88-4772-8fb2-dda57f782d6a
+CREATED:20260309T060800Z
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/4d355b74-5e88-4772-8fb2-dda57f782d6a\n\nMap:
+LAST-MODIFIED:20260309T060856Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T230000Z
+DTEND:20260528T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--0cf0edce-26e9-43fc-9f6b-005d6ac9beea
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/0cf0edce-26e9-43fc-9f6b-005d6ac9beea\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260510T200000Z
 DTEND:20260510T220000Z
-DTSTAMP:20260315T071431Z
+DTSTAMP:20260315T131714Z
 UID:little-dribblers-basketball--86ae7aae-848b-48f6-8af2-144c9134d41c
 CREATED:20260309T060800Z
 DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/86ae7aae-848b-48f6-8af2-144c9134d41c\n\nMap:
@@ -1195,6 +1090,111 @@ LOCATION:PRINCIPIA Field House
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T000000Z
+DTEND:20260205T010000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--a7b8878b-7f8c-4be4-b698-e04c16c37688
+CREATED:20260112T000800Z
+DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/a7b8878b-7f8c-4be4-b698-e04c16c37688\n\nMap:
+LAST-MODIFIED:20260112T000850Z
+LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T230000Z
+DTEND:20260423T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--cdb2a34d-44c5-40b6-9e0e-5c07a3f3ddea
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/cdb2a34d-44c5-40b6-9e0e-5c07a3f3ddea\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T000000Z
+DTEND:20260129T010000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--2fc51183-e9d1-41da-aae8-d018787b6716
+CREATED:20260112T000800Z
+DESCRIPTION:Please bring your own ball \nEvent Details on TeamBot: https://goteambot.com/e/2fc51183-e9d1-41da-aae8-d018787b6716\n\nMap:
+LAST-MODIFIED:20260112T000850Z
+LOCATION:Priory - 500 S Mason Rd\, Saint Louis\, MO 63141
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T230000Z
+DTEND:20260416T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--fa6cf606-13cf-4ab9-b6ba-d79ba75a7af9
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/fa6cf606-13cf-4ab9-b6ba-d79ba75a7af9\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T200000Z
+DTEND:20260426T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--b40a287f-25cd-4fe5-86f4-6dd3bb7fe546
+CREATED:20260309T060800Z
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/b40a287f-25cd-4fe5-86f4-6dd3bb7fe546\n\nMap:
+LAST-MODIFIED:20260309T060856Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T200000Z
+DTEND:20260419T220000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--b0f29bd4-c096-46e1-bd70-f2c9b1a71b98
+CREATED:20260309T060800Z
+DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamBot: https://goteambot.com/e/b0f29bd4-c096-46e1-bd70-f2c9b1a71b98\n\nMap:
+LAST-MODIFIED:20260309T060856Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T230000Z
+DTEND:20260514T000000Z
+DTSTAMP:20260315T131714Z
+UID:little-dribblers-basketball--111b4e20-ed59-48ef-b21c-acd735870400
+CREATED:20260309T060800Z
+DESCRIPTION:PreK\, Kindergarten\, 1st grade boys\, 1st/2nd grade girls 6-7PM\,  2nd grade boys 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e/111b4e20-ed59-48ef-b21c-acd735870400\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
+LAST-MODIFIED:20260309T060856Z
+LOCATION:Westminister - Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
 TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
