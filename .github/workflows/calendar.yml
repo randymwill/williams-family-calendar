@@ -55,7 +55,8 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title,
-              body
+              body,
+              assignees: [context.repo.owner]
             });
 
       - name: Commit calendar changes if needed
