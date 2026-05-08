@@ -1,3 +1,5 @@
+import hashlib
+import json
 from pathlib import Path
 from urllib.request import urlopen
 
@@ -34,6 +36,8 @@ FEEDS = [
 SOURCE_PREFIX = "X-CODEX-SOURCE:"
 LEGACY_PLAYMETRICS_URL = "URL:https://playmetrics.com"
 WEST_HAM_PREFIX = "MO Girls 2017/2018 West Ham - "
+STATE_PATH = Path("calendar_state.json")
+CHANGE_REPORT_PATH = Path("calendar_changes.md")
 
 
 def normalize(text: str) -> str:
@@ -103,6 +107,11 @@ def set_property(block: str, key: str, value: str) -> str:
     return "\n".join(lines)
 
 
+def get_property(block: str, key: str) -> str:
+    prefix = f"{key}:"
+    return next((line[len(prefix) :] for line in block.split("\n") if line.startswith(prefix)), "")
+
+
 def to_title_case(text: str) -> str:
     return " ".join(word.capitalize() for word in text.split())
 
@@ -165,6 +174,138 @@ def tag_event(block: str, feed: dict[str, str]) -> str:
     return block
 
 
+def source_name(source_id: str) -> str:
+    return next(
+        (feed["name"] for feed in FEEDS if feed["source_id"] == source_id),
+        source_id,
+    )
+
+
+def event_source(block: str) -> str:
+    for feed in FEEDS:
+        if event_has_source(block, feed["source_id"]):
+            return feed["source_id"]
+    return ""
+
+
+def event_fingerprint(block: str) -> str:
+    ignored_prefixes = ("DTSTAMP:", "CREATED:", "LAST-MODIFIED:", "SEQUENCE:")
+    stable_lines = [
+        line
+        for line in block.split("\n")
+        if line and not line.startswith(ignored_prefixes)
+    ]
+    return hashlib.sha256("\n".join(stable_lines).encode("utf-8")).hexdigest()
+
+
+def event_snapshot(block: str) -> dict[str, str]:
+    return {
+        "summary": get_property(block, "SUMMARY"),
+        "dtstart": get_property(block, "DTSTART;TZID=America/Chicago")
+        or get_property(block, "DTSTART"),
+        "dtend": get_property(block, "DTEND;TZID=America/Chicago")
+        or get_property(block, "DTEND"),
+        "location": get_property(block, "LOCATION"),
+        "source": event_source(block),
+        "fingerprint": event_fingerprint(block),
+    }
+
+
+def imported_event_state(events: list[str]) -> dict[str, dict[str, str]]:
+    state: dict[str, dict[str, str]] = {}
+    for event in events:
+        source = event_source(event)
+        if not source:
+            continue
+        uid = get_property(event, "UID")
+        if uid:
+            state[uid] = event_snapshot(event)
+    return state
+
+
+def load_previous_state() -> dict[str, dict[str, str]]:
+    if not STATE_PATH.exists():
+        return {}
+    return json.loads(STATE_PATH.read_text(encoding="utf-8"))
+
+
+def write_state(state: dict[str, dict[str, str]]) -> None:
+    STATE_PATH.write_text(
+        json.dumps(state, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+
+def describe_event(event: dict[str, str]) -> str:
+    parts = [event["summary"] or "(No summary)"]
+    if event["dtstart"]:
+        parts.append(event["dtstart"])
+    if event["location"]:
+        parts.append(event["location"])
+    return " | ".join(parts)
+
+
+def changed_fields(before: dict[str, str], after: dict[str, str]) -> list[str]:
+    fields = ("summary", "dtstart", "dtend", "location")
+    return [
+        f"{field}: {before.get(field, '') or '(blank)'} -> {after.get(field, '') or '(blank)'}"
+        for field in fields
+        if before.get(field, "") != after.get(field, "")
+    ]
+
+
+def write_change_report(
+    previous: dict[str, dict[str, str]],
+    current: dict[str, dict[str, str]],
+) -> None:
+    added = sorted(set(current) - set(previous))
+    deleted = sorted(set(previous) - set(current))
+    updated = sorted(
+        uid
+        for uid in set(previous) & set(current)
+        if previous[uid]["fingerprint"] != current[uid]["fingerprint"]
+    )
+
+    if not added and not updated and not deleted:
+        CHANGE_REPORT_PATH.write_text("", encoding="utf-8")
+        return
+
+    lines = [
+        "# Calendar feed changes",
+        "",
+        f"Added: {len(added)}",
+        f"Updated: {len(updated)}",
+        f"Deleted: {len(deleted)}",
+        "",
+    ]
+
+    if added:
+        lines.extend(["## Added", ""])
+        for uid in added:
+            event = current[uid]
+            lines.append(f"- [{source_name(event['source'])}] {describe_event(event)}")
+        lines.append("")
+
+    if updated:
+        lines.extend(["## Updated", ""])
+        for uid in updated:
+            before = previous[uid]
+            after = current[uid]
+            lines.append(f"- [{source_name(after['source'])}] {describe_event(after)}")
+            for field in changed_fields(before, after):
+                lines.append(f"  - {field}")
+        lines.append("")
+
+    if deleted:
+        lines.extend(["## Deleted", ""])
+        for uid in deleted:
+            event = previous[uid]
+            lines.append(f"- [{source_name(event['source'])}] {describe_event(event)}")
+        lines.append("")
+
+    CHANGE_REPORT_PATH.write_text("\n".join(lines), encoding="utf-8")
+
+
 def should_import_event(block: str, feed: dict[str, str]) -> bool:
     if feed["source_id"] != "vetta-soccer":
         return True
@@ -212,6 +353,11 @@ def main() -> None:
     lines = header + merged_events + footer
     normalized = "\r\n".join(line.rstrip() for line in lines if line.strip()) + "\r\n"
     calendar_path.write_text(normalized, encoding="utf-8")
+
+    previous_state = load_previous_state()
+    current_state = imported_event_state(merged_events)
+    write_change_report(previous_state, current_state)
+    write_state(current_state)
 
     print(f"Kept {len(kept_events)} local events")
     for line in summary_lines:

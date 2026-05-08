@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   normalize-calendar:
@@ -26,18 +27,42 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Sync PlayMetrics calendar
+      - name: Sync sports calendars
         run: python tools/sync_playmetrics.py
 
       - name: Normalize calendar
         run: python tools/normalize_ics.py
+
+      - name: Open issue for calendar changes
+        if: ${{ hashFiles('calendar_changes.md') != '' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('calendar_changes.md', 'utf8').trim();
+            if (!body) {
+              core.info('No calendar changes to report.');
+              return;
+            }
+
+            const firstLine = body.split('\n').find(line => line.startsWith('Added:'));
+            const secondLine = body.split('\n').find(line => line.startsWith('Updated:'));
+            const thirdLine = body.split('\n').find(line => line.startsWith('Deleted:'));
+            const title = `Calendar changes detected (${firstLine}, ${secondLine}, ${thirdLine})`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body
+            });
 
       - name: Commit calendar changes if needed
         run: |
           if ! git diff --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add calendar.ics
+            git add calendar.ics calendar_state.json
             git commit -m "Sync calendar.ics"
             git push
           fi
