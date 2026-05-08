@@ -165,6 +165,14 @@ def tag_event(block: str, feed: dict[str, str]) -> str:
     return block
 
 
+def should_import_event(block: str, feed: dict[str, str]) -> bool:
+    if feed["source_id"] != "vetta-soccer":
+        return True
+
+    # Vetta/Google can briefly publish placeholder events while details settle.
+    return "SUMMARY:Default Description" not in block and "DESCRIPTION:Default Description" not in block
+
+
 def is_legacy_playmetrics_event(block: str) -> bool:
     return LEGACY_PLAYMETRICS_URL in block and SOURCE_PREFIX not in block
 
@@ -193,7 +201,11 @@ def main() -> None:
     for feed in FEEDS:
         source_text = fetch_source(feed["url"])
         _, source_events, _ = split_events(source_text)
-        tagged = [tag_event(event, feed) for event in source_events]
+        tagged = [
+            tag_event(event, feed)
+            for event in source_events
+            if should_import_event(event, feed)
+        ]
         merged_events.extend(tagged)
         summary_lines.append(f"{feed['name']}: {len(tagged)} events")
 
