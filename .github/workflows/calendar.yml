@@ -49,7 +49,7 @@ jobs:
             const firstLine = body.split('\n').find(line => line.startsWith('Added:'));
             const secondLine = body.split('\n').find(line => line.startsWith('Updated:'));
             const thirdLine = body.split('\n').find(line => line.startsWith('Deleted:'));
-            const title = `Calendar changes detected (${firstLine}, ${secondLine}, ${thirdLine})`;
+            const title = `Williams Family AI updated calendar changes detected (${firstLine}, ${secondLine}, ${thirdLine})`;
 
             await github.rest.issues.create({
               owner: context.repo.owner,
