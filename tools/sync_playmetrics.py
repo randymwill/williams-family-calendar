@@ -175,6 +175,8 @@ def tag_event(block: str, feed: dict[str, str]) -> str:
 
 
 def source_name(source_id: str) -> str:
+    if source_id == "manual":
+        return "Manual Calendar"
     return next(
         (feed["name"] for feed in FEEDS if feed["source_id"] == source_id),
         source_id,
@@ -211,15 +213,15 @@ def event_snapshot(block: str) -> dict[str, str]:
     }
 
 
-def imported_event_state(events: list[str]) -> dict[str, dict[str, str]]:
+def calendar_event_state(events: list[str]) -> dict[str, dict[str, str]]:
     state: dict[str, dict[str, str]] = {}
     for event in events:
-        source = event_source(event)
-        if not source:
-            continue
         uid = get_property(event, "UID")
         if uid:
-            state[uid] = event_snapshot(event)
+            snapshot = event_snapshot(event)
+            if not snapshot["source"]:
+                snapshot["source"] = "manual"
+            state[uid] = snapshot
     return state
 
 
@@ -355,7 +357,7 @@ def main() -> None:
     calendar_path.write_text(normalized, encoding="utf-8")
 
     previous_state = load_previous_state()
-    current_state = imported_event_state(merged_events)
+    current_state = calendar_event_state(merged_events)
     write_change_report(previous_state, current_state)
     write_state(current_state)
 

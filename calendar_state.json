@@ -1,4 +1,12 @@
 {
+  "competition-judge-duty-20260406": {
+    "dtend": "20260406T180000Z",
+    "dtstart": "20260406T141500Z",
+    "fingerprint": "1f1448a0f1c8d6fcbbcbb76b43bca75c177726046f3414b25081f188656de98b",
+    "location": "Parkway Welcome Center, 760 Woods Mill Dr, Ballwin, MO",
+    "source": "manual",
+    "summary": "Competition Judge Duty"
+  },
   "little-dribblers-basketball--0cf0edce-26e9-43fc-9f6b-005d6ac9beea": {
     "dtend": "20260528T000000Z",
     "dtstart": "20260527T230000Z",
@@ -126,6 +134,78 @@
     "location": "Westminister - Back Gym ",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
+  },
+  "mary-jean-track-1st-practice-20260301": {
+    "dtend": "20260301T163000",
+    "dtstart": "20260301T150000",
+    "fingerprint": "226149191caa4e33766caf09bfdf5fbaeb83763cce301bd025d087ee9724ad1e",
+    "location": "",
+    "source": "manual",
+    "summary": "Track 1st Practice - Mary-Jean"
+  },
+  "mary-jean-track-finals-20260516": {
+    "dtend": "",
+    "dtstart": "",
+    "fingerprint": "c44b1f322c28f407f00f3565cb1f9fad2a722e4b2964af926bb945d21557885b",
+    "location": "Lindenwood",
+    "source": "manual",
+    "summary": "Track Finals - Mary-Jean"
+  },
+  "mary-jean-track-practice-20260308": {
+    "dtend": "20260308T163000",
+    "dtstart": "20260308T150000",
+    "fingerprint": "9ab66e2e9237aa5f79e1b26fbafeb53d08f8c4134aa695301ba9a9e46ada13d0",
+    "location": "",
+    "source": "manual",
+    "summary": "Track Practice - Mary-Jean"
+  },
+  "mary-jean-track-practice-20260329": {
+    "dtend": "20260329T163000",
+    "dtstart": "20260329T150000",
+    "fingerprint": "e32629514f2074452e49b0d5873ae5bfd097e5e307b6c98aba04752bc6353798",
+    "location": "",
+    "source": "manual",
+    "summary": "Track Practice - Mary-Jean"
+  },
+  "mary-jean-track-practice-20260426": {
+    "dtend": "20260426T163000",
+    "dtstart": "20260426T150000",
+    "fingerprint": "92bb8106d373e6b31a091c3d9502fd2e03e6656b7b1cd89185b428df526ae26d",
+    "location": "",
+    "source": "manual",
+    "summary": "Track Practice - Mary-Jean"
+  },
+  "mary-jean-track-practice-20260503": {
+    "dtend": "20260503T163000",
+    "dtstart": "20260503T150000",
+    "fingerprint": "eec2837f0329303211e2a5f4e8ccb81c35c84e56edc9caaeda2fcd9eeb9f2976",
+    "location": "",
+    "source": "manual",
+    "summary": "Track Practice - Mary-Jean"
+  },
+  "mary-jean-track-practice-spring-break-ends-20260322": {
+    "dtend": "20260322T163000",
+    "dtstart": "20260322T150000",
+    "fingerprint": "bc2850efa6500787605a92559019f674e4d99849f8eb3f5b811e6b769d80bfeb",
+    "location": "",
+    "source": "manual",
+    "summary": "Track Practice (Spring Break Ends) - Mary-Jean"
+  },
+  "mary-jean-track-practice-tbd-location-20260412": {
+    "dtend": "20260412T163000",
+    "dtstart": "20260412T150000",
+    "fingerprint": "e54962b561891e151b709a69ff8a97077704adaf33398b5b1d6447e4374f6367",
+    "location": "TBD",
+    "source": "manual",
+    "summary": "Track Practice (TBD Location) - Mary-Jean"
+  },
+  "mary-jean-track-prelim-meet-4-20260509": {
+    "dtend": "",
+    "dtstart": "",
+    "fingerprint": "73722d088d8441d125f99ccde2bfed6873c61540b21ef0c772841e451cda09a1",
+    "location": "Chaminade",
+    "source": "manual",
+    "summary": "Track Prelim Meet 4 - Mary-Jean"
   },
   "playmetrics-soccer--Game_3918337": {
     "dtend": "20260220T200000",
