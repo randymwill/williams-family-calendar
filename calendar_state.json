@@ -543,6 +543,14 @@
     "source": "playmetrics-soccer",
     "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
   },
+  "science-center-camp-pickup-20260515": {
+    "dtend": "20260515T183000",
+    "dtstart": "20260515T163000",
+    "fingerprint": "31f6900799c2e1f0248d1bf1459a2971e94335c98c4ae5174a8b6bcbe3ec3056",
+    "location": "Saint Louis Science Center - Outside Main Entrance",
+    "source": "manual",
+    "summary": "Science Center Camp T-shirt and Dashboard Sign Pick-up"
+  },
   "science-center-camp-pickup-20260517": {
     "dtend": "20260517T150000",
     "dtstart": "20260517T110000",
