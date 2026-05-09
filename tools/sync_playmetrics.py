@@ -273,7 +273,7 @@ def write_change_report(
         return
 
     lines = [
-        "# Calendar feed changes",
+        "# Williams Family AI updated calendar changes detected",
         "",
         f"Added: {len(added)}",
         f"Updated: {len(updated)}",
