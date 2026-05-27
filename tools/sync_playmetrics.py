@@ -331,12 +331,10 @@ def main() -> None:
     header, current_events, footer = split_events(current_text)
 
     imported_source_ids = {feed["source_id"] for feed in FEEDS}
-    kept_events = [
-        event
-        for event in current_events
-        if not any(event_has_source(event, source_id) for source_id in imported_source_ids)
-        and not is_legacy_playmetrics_event(event)
-    ]
+    # This published Git calendar is now sports-feed only. Older manual/family
+    # events live in Google Calendar or Dashboard Notes and should not persist
+    # here between feed refreshes.
+    kept_events: list[str] = []
 
     merged_events = kept_events[:]
     summary_lines: list[str] = []
