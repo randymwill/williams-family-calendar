@@ -478,5 +478,61 @@
     "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
     "source": "vetta-soccer",
     "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 vs G2 2018 Vivettes (Backer) D/M/C 5"
+  },
+  "vetta-soccer--1730372.600565@vetta": {
+    "dtend": "20260614T173500Z",
+    "dtstart": "20260614T165000Z",
+    "fingerprint": "ad943894962fd7bf85f55d14574d6be41164ce34c4ecc2732387d7cfa902e4cc",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 vs G3 2017 Ice Queens (Ganousis) SM/D/C 5"
+  },
+  "vetta-soccer--1730381.600565@vetta": {
+    "dtend": "20260621T173500Z",
+    "dtstart": "20260621T165000Z",
+    "fingerprint": "286d32568e930b6312ea06c5a15d0c3d416bc03b1b223feacd487f8b4e95c491",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 vs G2 2018 Sparkling Kittens (Geyer) C/D/M 3"
+  },
+  "vetta-soccer--1730394.600565@vetta": {
+    "dtend": "20260711T202000Z",
+    "dtstart": "20260711T193000Z",
+    "fingerprint": "5beeb57515efcea5ff23361c87759b49dcd2d5c4ff08d1352ee1da1eb5be576b",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
+  },
+  "vetta-soccer--1730403.600565@vetta": {
+    "dtend": "20260718T211000Z",
+    "dtstart": "20260718T202000Z",
+    "fingerprint": "10edff3d22820d7e39892ef9bcca29580ccf4a5a767958485f6c4d48327e20c1",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 Pink Lionesses (Klapp) M/D/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
+  },
+  "vetta-soccer--1730556.600565@vetta": {
+    "dtend": "20260607T195000Z",
+    "dtstart": "20260607T190000Z",
+    "fingerprint": "00279dcbbff4e59a238460527dc5cedef8116d36c96d9d6f23b32502b8546d63",
+    "location": "Concord (South County) on Concord Field 3 12320 Old Tesson Rd  St. Louis MO 63128",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 vs G2/3 2017 Our Lady Warriors (Howerton) C/C/C 7"
+  },
+  "vetta-soccer--1730570.600565@vetta": {
+    "dtend": "20260628T195000Z",
+    "dtstart": "20260628T190000Z",
+    "fingerprint": "92712742285fc27e0b4814758bcc212f0e227f076db5461cf25672eaf0d92bfa",
+    "location": "Concord (South County) on Concord Field 3 12320 Old Tesson Rd  St. Louis MO 63128",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 Velociraptors (Ahrenbach) C/M/D 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
+  },
+  "vetta-soccer--1730647.600565@vetta": {
+    "dtend": "20260725T204500Z",
+    "dtstart": "20260725T200000Z",
+    "fingerprint": "17ab8c3242695296b279f05fb006215436d5a3de780c08f3b42011c1d2588867",
+    "location": "Soccerdome (Webster Groves) on Webster Groves Adult Field 220 East Avenue  St Louis MO 63119",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
   }
 }
