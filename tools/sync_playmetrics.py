@@ -31,6 +31,14 @@ FEEDS = [
         ),
         "source_id": "little-dribblers-basketball",
     },
+    {
+        "name": "Mid County Basketball",
+        "url": (
+            "https://www.quickscores.com/Orgs/DownloadICAL.php"
+            "?OrgDir=midcountyy&TeamID=15059605&TimeZone=CDT"
+        ),
+        "source_id": "mid-county-basketball",
+    },
 ]
 
 SOURCE_PREFIX = "X-CODEX-SOURCE:"
@@ -117,6 +125,12 @@ def to_title_case(text: str) -> str:
 
 
 def rewrite_summary(feed: dict[str, str], summary: str) -> str:
+    if feed["source_id"] == "mid-county-basketball":
+        summary = summary.replace("MidCo/KW 3/4 Basketball Girls Buckel", "").strip()
+        summary = summary.replace("Practice:", "Practice").strip()
+        summary = summary.strip(" -:")
+        return f"{feed['name']} - {summary or 'Event'}"
+
     if feed["source_id"] == "vetta-soccer":
         label = f"{feed['name']} - "
         if summary.startswith(label):
