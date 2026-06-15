@@ -647,21 +647,13 @@
     "source": "playmetrics-soccer",
     "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
   },
-  "vetta-soccer--1728232.600565@vetta": {
-    "dtend": "20260531T170500Z",
-    "dtstart": "20260531T161500Z",
-    "fingerprint": "7b43e2a507234c440ba719b1c4bd915c7e29bf1f04512c79a0dd1742ec88d91b",
-    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
-    "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 W 5-1 vs G2 2018 Vivettes (Backer) D/M/C 5"
-  },
   "vetta-soccer--1730372.600565@vetta": {
     "dtend": "20260614T173500Z",
     "dtstart": "20260614T165000Z",
-    "fingerprint": "ad943894962fd7bf85f55d14574d6be41164ce34c4ecc2732387d7cfa902e4cc",
+    "fingerprint": "7a51ccabb43a877d0cfad749e09a2029a8391fdffe5f14968c14918cab792253",
     "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
     "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 vs G3 2017 Ice Queens (Ganousis) SM/D/C 5"
+    "summary": "Vetta Soccer - G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4 L 2-5 vs G3 2017 Ice Queens (Ganousis) SM/D/C 5"
   },
   "vetta-soccer--1730381.600565@vetta": {
     "dtend": "20260621T173500Z",
