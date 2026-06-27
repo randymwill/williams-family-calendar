@@ -349,6 +349,12 @@ def main() -> None:
     # events live in Google Calendar or Dashboard Notes and should not persist
     # here between feed refreshes.
     kept_events: list[str] = []
+    existing_events_by_source = {
+        feed["source_id"]: [
+            event for event in current_events if event_has_source(event, feed["source_id"])
+        ]
+        for feed in FEEDS
+    }
 
     merged_events = kept_events[:]
     summary_lines: list[str] = []
@@ -356,6 +362,14 @@ def main() -> None:
     for feed in FEEDS:
         source_text = fetch_source(feed["url"])
         _, source_events, _ = split_events(source_text)
+        if not source_events and existing_events_by_source[feed["source_id"]]:
+            tagged = existing_events_by_source[feed["source_id"]]
+            summary_lines.append(
+                f"{feed['name']}: feed empty; preserved {len(tagged)} existing events"
+            )
+            merged_events.extend(tagged)
+            continue
+
         tagged = [
             tag_event(event, feed)
             for event in source_events
