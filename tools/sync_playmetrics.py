@@ -63,6 +63,38 @@ def unfold_ics(text: str) -> str:
     return "\n".join(unfolded)
 
 
+def fold_ics_line(line: str, limit: int = 75) -> list[str]:
+    if len(line) <= limit:
+        return [line]
+
+    folded: list[str] = []
+    remaining = line
+    first = True
+    while len(remaining) > limit:
+        chunk = remaining[:limit]
+        folded.append(chunk if first else f" {chunk}")
+        remaining = remaining[limit:]
+        first = False
+        limit = 74
+
+    folded.append(remaining if first else f" {remaining}")
+    return folded
+
+
+def fold_ics_lines(lines: list[str]) -> list[str]:
+    folded: list[str] = []
+    for line in lines:
+        folded.extend(fold_ics_line(line.rstrip()))
+    return folded
+
+
+def flatten_ics_segments(segments: list[str]) -> list[str]:
+    flat: list[str] = []
+    for segment in segments:
+        flat.extend(segment.split("\n"))
+    return flat
+
+
 def split_events(text: str) -> tuple[list[str], list[str], list[str]]:
     lines = unfold_ics(text).split("\n")
     begin = "BEGIN:VEVENT"
@@ -378,8 +410,9 @@ def main() -> None:
         merged_events.extend(tagged)
         summary_lines.append(f"{feed['name']}: {len(tagged)} events")
 
-    lines = header + merged_events + footer
-    normalized = "\r\n".join(line.rstrip() for line in lines if line.strip()) + "\r\n"
+    lines = flatten_ics_segments(header + merged_events + footer)
+    folded_lines = fold_ics_lines([line for line in lines if line.strip()])
+    normalized = "\r\n".join(folded_lines) + "\r\n"
     calendar_path.write_text(normalized, encoding="utf-8")
 
     previous_state = load_previous_state()
