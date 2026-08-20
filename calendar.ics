@@ -22,1220 +22,484 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024399
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145828Z
-LAST-MODIFIED:20260211T160140Z
-SEQUENCE:1770825700
-DTSTART;TZID=America/Chicago:20260211T170000
-DTEND;TZID=America/Chicago:20260211T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (6E Split)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024400
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145828Z
-LAST-MODIFIED:20260206T145828Z
-SEQUENCE:1770389908
-DTSTART;TZID=America/Chicago:20260218T170000
-DTEND;TZID=America/Chicago:20260218T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918337
-DTSTAMP:20260511T152536Z
-CREATED:20260213T231856Z
-LAST-MODIFIED:20260213T231856Z
-SEQUENCE:1771024736
-DTSTART;TZID=America/Chicago:20260220T190000
-DTEND;TZID=America/Chicago:20260220T200000
+UID:playmetrics-soccer--Game_4556537
+DTSTAMP:20260818T134420Z
+CREATED:20260724T212356Z
+LAST-MODIFIED:20260724T212356Z
+SEQUENCE:1784928236
+DTSTART;TZID=America/Chicago:20260808T133000
+DTEND;TZID=America/Chicago:20260808T142000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Newcastle\nAr
- rive by 6:30 PM\nSoccer Park 2D
+DESCRIPTION:Unity Cup Game 1 at MO Girls 2017/2018 West Ham\nArrive by 1:10
+  PM\nUniform: All White\nSoccer Park 2D
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024401
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145828Z
-LAST-MODIFIED:20260206T145828Z
-SEQUENCE:1770389908
-DTSTART;TZID=America/Chicago:20260225T170000
-DTEND;TZID=America/Chicago:20260225T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918500
-DTSTAMP:20260511T152536Z
-CREATED:20260213T231942Z
-LAST-MODIFIED:20260213T231942Z
-SEQUENCE:1771024782
-DTSTART;TZID=America/Chicago:20260227T200000
-DTEND;TZID=America/Chicago:20260227T210000
+UID:playmetrics-soccer--Game_4556547
+DTSTAMP:20260818T134420Z
+CREATED:20260724T212601Z
+LAST-MODIFIED:20260724T212601Z
+SEQUENCE:1784928361
+DTSTART;TZID=America/Chicago:20260808T150000
+DTEND;TZID=America/Chicago:20260808T155000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 Lens at MO Girls 2017/2018 West Ham\nArrive
- by 7:30 PM\nSoccer Park 2C
+DESCRIPTION:Unity Cup Game 2 at MO Girls 2017/2018 West Ham\nArrive by 2:50
+  PM\nUniform: All White\nSoccer Park 2D
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024402
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145828Z
-LAST-MODIFIED:20260206T145828Z
-SEQUENCE:1770389908
-DTSTART;TZID=America/Chicago:20260304T170000
-DTEND;TZID=America/Chicago:20260304T183000
+UID:playmetrics-soccer--Practice_12167209
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163323Z
+LAST-MODIFIED:20260811T021305Z
+SEQUENCE:1786414385
+DTSTART;TZID=America/Chicago:20260812T170000
+DTEND;TZID=America/Chicago:20260812T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305173
-DTSTAMP:20260511T152536Z
-CREATED:20260213T164905Z
-LAST-MODIFIED:20260213T170222Z
-SEQUENCE:1771002142
-DTSTART;TZID=America/Chicago:20260307T090000
-DTEND;TZID=America/Chicago:20260307T101500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>Impro
- ve your touch\, creativity\, and technique! ‬  Tech Training is individual
- -based player development training in an age-group setting.  Coach Zak Mat
- teoli\, Director of Youth Player Development\, leads the program.<br><br>-
-  A technical training program for all SLSG Players.<br>- Sign-up is by ind
- ividual player\; it is not a team event.<br>- U6 to U14 age groups<br>- Bo
- ys and Girls<br>- Missouri and Illinois<br>- 6 sessions on Saturday mornin
- gs<br>- The times vary by facility (double check the schedule on link belo
- w) <br>- Weather-related cancellations will be posted on Twitter (X) - @SL
- SGfacilities<br>- There is no cost for SLSG players\, but all players need
-  please to RSVP.<br>- There are off weeks in the middle of the program due
-  to SLSG Tournaments\, double check schedule.<br><br>TECH TRAINING LOCATIO
- NS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois - SLSG Collinsvill
- e - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U10\, U11\, U12\, U
- 13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\, U8 - boys and g
- irls)<br><br>SCHEDULE:<br>https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE
- :<br>In order to staff the session correctly\, we ask all players to RSVP
- on this Playmetrics event<br>The cost is included in club dues. There are
- no make ups due to facility plans.<br>Weather related cancellations will b
- e posted on twitter - @SLSGfacilities and if we we are able\, emailed thro
- ugh the sign-up list (we are sometimes in the field and can not).<br><br>R
- SVP:  https://bit.ly/TECH-rsvp
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186510
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172218Z
-LAST-MODIFIED:20260217T172218Z
-SEQUENCE:1771348938
-DTSTART;TZID=America/Chicago:20260309T170000
-DTEND;TZID=America/Chicago:20260309T183000
+UID:playmetrics-soccer--Practice_12167210
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163323Z
+LAST-MODIFIED:20260811T021305Z
+SEQUENCE:1786414385
+DTSTART;TZID=America/Chicago:20260819T170000
+DTEND;TZID=America/Chicago:20260819T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024403
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145828Z
-LAST-MODIFIED:20260206T145828Z
-SEQUENCE:1770389908
-DTSTART;TZID=America/Chicago:20260311T170000
-DTEND;TZID=America/Chicago:20260311T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186556
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172222Z
-LAST-MODIFIED:20260316T152609Z
-SEQUENCE:1773674769
-DTSTART;TZID=America/Chicago:20260316T170000
-DTEND;TZID=America/Chicago:20260316T183000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - Practice
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024404
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260318T170000
-DTEND;TZID=America/Chicago:20260318T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918687
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232051Z
-LAST-MODIFIED:20260213T232051Z
-SEQUENCE:1771024851
-DTSTART;TZID=America/Chicago:20260320T200000
-DTEND;TZID=America/Chicago:20260320T210000
+UID:playmetrics-soccer--Game_4618558
+DTSTAMP:20260818T134420Z
+CREATED:20260803T212656Z
+LAST-MODIFIED:20260818T134318Z
+SEQUENCE:1787060598
+DTSTART;TZID=America/Chicago:20260821T173000
+DTEND;TZID=America/Chicago:20260821T183000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 West Ham at IL Girls 2017 Nottingham Forest
- White\nArrive by 7:30 PM\nSoccer Park 1D
+DESCRIPTION:MO Girls 2017/2018 Rangers at MO Girls 2017/2018 West Ham\nArri
+ ve by 5:00 PM\nSoccer Park 1A
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305185
-DTSTAMP:20260511T152536Z
-CREATED:20260213T165029Z
-LAST-MODIFIED:20260213T165728Z
-SEQUENCE:1771001848
-DTSTART;TZID=America/Chicago:20260321T090000
-DTEND;TZID=America/Chicago:20260321T101500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>Impro
- ve your touch\, creativity\, and technique! ‬  Tech Training is individual
- -based player development training in an age-group setting.  Coach Zak Mat
- teoli\, Director of Youth Player Development\, leads the program.<br><br>-
-  A technical training program for all SLSG Players.<br>- Sign-up is by ind
- ividual player\; it is not a team event.<br>- U6 to U14 age groups<br>- Bo
- ys and Girls<br>- Missouri and Illinois<br>- 6 sessions on Saturday mornin
- gs<br>- The times vary by facility (double check the schedule on link belo
- w) <br>- Weather-related cancellations will be posted on Twitter (X) - @SL
- SGfacilities<br>- There is no cost for SLSG players\, but all players need
-  please to RSVP.<br>- There are weeks off in the middle of the program due
-  to SLSG Tournaments\, double check schedule.<br><br>TECH TRAINING LOCATIO
- NS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois - SLSG Collinsvill
- e - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U10\, U11\, U12\, U
- 13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\, U8 - boys and g
- irls)<br><br>SCHEDULE:<br>https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE
- :<br>In order to staff the session correctly\, we ask all players to RSVP
- on this Playmetrics event<br>The cost is included in club dues. There are
- no make ups due to facility plans.<br>Weather related cancellations will b
- e posted on twitter - @SLSGfacilities and if we we are able\, emailed thro
- ugh the sign-up list (we are sometimes in the field and can not).<br><br>R
- SVP:  https://bit.ly/TECH-rsvp
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186557
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172222Z
-LAST-MODIFIED:20260217T172222Z
-SEQUENCE:1771348942
-DTSTART;TZID=America/Chicago:20260323T170000
-DTEND;TZID=America/Chicago:20260323T183000
+UID:playmetrics-soccer--Practice_12167211
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163323Z
+LAST-MODIFIED:20260811T021305Z
+SEQUENCE:1786414385
+DTSTART;TZID=America/Chicago:20260826T170000
+DTEND;TZID=America/Chicago:20260826T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024405
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260325T170000
-DTEND;TZID=America/Chicago:20260325T183000
+UID:playmetrics-soccer--Practice_12167212
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163323Z
+LAST-MODIFIED:20260811T021305Z
+SEQUENCE:1786414385
+DTSTART;TZID=America/Chicago:20260902T170000
+DTEND;TZID=America/Chicago:20260902T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305189
-DTSTAMP:20260511T152536Z
-CREATED:20260213T165341Z
-LAST-MODIFIED:20260213T170302Z
-SEQUENCE:1771002182
-DTSTART;TZID=America/Chicago:20260328T090000
-DTEND;TZID=America/Chicago:20260328T221500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>Impro
- ve your touch\, creativity\, and technique! ‬  Tech Training is individual
- -based player development training in an age-group setting.  Coach Zak Mat
- teoli\, Director of Youth Player Development\, leads the program.<br><br>-
-  A technical training program for all SLSG Players.<br>- Sign-up is by ind
- ividual player\; it is not a team event.<br>- U6 to U14 age groups<br>- Bo
- ys and Girls<br>- Missouri and Illinois<br>- 6 sessions on Saturday mornin
- gs<br>- The times vary by facility (double check the schedule on link belo
- w) <br>- Weather-related cancellations will be posted on Twitter (X) - @SL
- SGfacilities<br>- There is no cost for SLSG players\, but all players need
-  please to RSVP.<br>- There are off weeks in the middle of the program due
-  to SLSG Tournaments\, double check schedule.<br><br>TECH TRAINING LOCATIO
- NS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois - SLSG Collinsvill
- e - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U10\, U11\, U12\, U
- 13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\, U8 - boys and g
- irls)<br><br>SCHEDULE:<br>https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE
- :<br>In order to staff the session correctly\, we ask all players to RSVP
- on this Playmetrics event<br>The cost is included in club dues. There are
- no make ups due to facility plans.<br>Weather related cancellations will b
- e posted on twitter - @SLSGfacilities and if we we are able\, emailed thro
- ugh the sign-up list (we are sometimes in the field and can not).<br><br>R
- SVP:  https://bit.ly/TECH-rsvp
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186558
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172222Z
-LAST-MODIFIED:20260217T172222Z
-SEQUENCE:1771348942
-DTSTART;TZID=America/Chicago:20260330T170000
-DTEND;TZID=America/Chicago:20260330T183000
+UID:playmetrics-soccer--Practice_12167371
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163333Z
+LAST-MODIFIED:20260811T021305Z
+SEQUENCE:1786414385
+DTSTART;TZID=America/Chicago:20260909T170000
+DTEND;TZID=America/Chicago:20260909T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024406
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260401T170000
-DTEND;TZID=America/Chicago:20260401T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2193213
-DTSTAMP:20260511T152536Z
-CREATED:20251229T183227Z
-LAST-MODIFIED:20260225T181013Z
-SEQUENCE:1772043013
-DTSTART;TZID=America/Chicago:20260403T100000
-DTEND;TZID=America/Chicago:20260403T193000
-SUMMARY:West Ham Champions Cup - SG
-DESCRIPTION:CHAMPIONS CUP<br>FRIDAY - 4/3/2026<br><br>SLSG Champions Cup:<b
- r>The Champions Cup is a celebration event of our Living Legacy Foundation
- \, which helps provide scholarships for players in financial need.  We wil
- l also be collecting used soccer gear.  Coaches and team leaders are encou
- raged to help substitute\, but let the players coach themselves on the fie
- ld\, and let the game be the teacher. Players are encouraged to RESPECT al
- l aspects of the game.<br><br>SLSG SOCCER CLUB MISSION STATEMENT:<br>To bu
- ild the Best Club in the Country\, a Club that positively impacts the deve
- lopment of our players on and off the field and our community.<br><br>DETA
- ILS:<br>• 5v5 - U6 to U12 - Friday 4/3 - 10 AM to 7:30 PM.<br>• Each team
- gets two 50-minute games\, consisting of two twenty-five-minute halves. If
-  the tournament runs on time\, you should get 5 minutes to warm up. Some t
- eams will receive a bonus (3rd) crossover game to help balance the odd-num
- bered brackets. We try to schedule brackets in a four-hour window.<br>• Al
- l weather-related issue updates will be posted on http://twitter.com/SLSGf
- acilities.<br>• There are no official bracket winners or prizes. This is a
-  celebration event for our Living Legacy Program. <br>• No Refs. Team Lead
- ers and players work together in unity to manage the game.<br>• 5v5 games
- (4 plus a goalie).<br>• The home team wears white. The away team wears all
-  dark. Home and away are listed on the schedule.<br>• Kick-ins - no throw-
- ins<br>• If your game starts late\, then you will be shorted. Please be re
- spectful to your opponent by showing up early and being ready to play when
-  the clock starts.<br><br>DATES:<br>• Double Check Schedule 3/12\, 3/19\,
- 3/28\, 4/2<br>• Gameday 4/3<br><br>RULES:<br>NO REFS - PLAYERS AND TEAM LE
- ADERS MANAGE THE GAME - FIFA RULES APPLY EXCEPT:<br>• 5v5 games (4 plus a
- goalie)<br>• Pass-ins instead of throw-ins<br><br>LIVING LEGACY FOUNDATION
- :<br>The SLSG Living Legacy Fund is an endowment that allows for scholarsh
- ips to be awarded to deserving players who have talent and passion but may
-  not have the financial resources to join the club. Scholarships are award
- ed by an endowment board made up of individuals inside and outside the clu
- b\, who weigh criteria including financial need\, character\, and passion
- for the game.<br><br>Donation link:<br>&#34\;https://secure.qgiv.com/for/s
- lsgf/&#34\;<br><br>UPPER 90 SHOE COLLECTION:<br>Used soccer shoes\, unifor
- ms\, jerseys\, shorts\, socks\, training shirts\, and ball collection will
-  be donated to support teams in Zambia\, Uganda\, Honduras\, Haiti\, and l
- ocally in St. Louis. We will have drop-off bins on the North Patio between
-  fields 1\, 2\, and 3.<br><br>ATTENDANCE EXPECTATIONS:<br>All players are
- to update their attendance on Playmetrics. All SLSG teams from U6 to U12 a
- re automatically in the Champions Cup with no registration needed.  All ga
- mes will be played. If you need players\, fill out the Team Leaders &amp\;
-  Need Players form and tell us how many you need and we will find you play
- ers.  We have many players looking to play. <br>https://bit.ly/ChampionsCu
- p-teamleader-needplayers-form<br><br>If you are playing a team that&#39\;s
-  short on players\, please give them your subs so everyone plays and it&#3
- 9\;s still 5v5. If there still aren&#39\;t enough players\, please shorten
-  the field and play 4v4\, or even 3v3\, depending on the number of players
- .<br><br>WANTING TO GUEST PLAY ON A 2ND TEAM?<br>If you are interested in
- guest playing for a 2nd team in the event\, please fill out this form\, an
- d we will see if we can match you up with a team needing a player.<br>http
- s://bit.ly/CHAMPIONScup-IwantTOguest<br><br>CHAMPIONS CUP - 2026 - GENERAL
-  INFORMATION<br>https://bit.ly/SLSG-ONEday-Generalinfo
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3988674
-DTSTAMP:20260511T152536Z
-CREATED:20260224T145650Z
-LAST-MODIFIED:20260307T172605Z
-SEQUENCE:1772904365
-DTSTART;TZID=America/Chicago:20260403T133000
-DTEND;TZID=America/Chicago:20260403T142000
+UID:playmetrics-soccer--Game_4618708
+DTSTAMP:20260818T134420Z
+CREATED:20260803T212817Z
+LAST-MODIFIED:20260804T211908Z
+SEQUENCE:1785878348
+DTSTART;TZID=America/Chicago:20260911T203000
+DTEND;TZID=America/Chicago:20260911T213000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017 Aston Villa Blue at MO Girls 2017/2018 West Ham\n
- Arrive by 1:00 PM\nSoccer Park 2A
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Rangers\nArri
+ ve by 8:00 PM\nSoccer Park 2C
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Game_4234643
-DTSTAMP:20260511T152536Z
-CREATED:20260402T233855Z
-LAST-MODIFIED:20260402T233855Z
-SEQUENCE:1775173135
-DTSTART;TZID=America/Chicago:20260403T150000
-DTEND;TZID=America/Chicago:20260403T160000
-SUMMARY:West Ham Game - SG
-DESCRIPTION:2017 IL Nottinham White at MO Girls 2017/2018 West Ham\nArrive
- by 2:30 PM\nSoccer Park 2A
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918781
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232134Z
-LAST-MODIFIED:20260404T124518Z
-SEQUENCE:1775306718
-DTSTART;TZID=America/Chicago:20260404T110000
-DTEND;TZID=America/Chicago:20260404T120000
-SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017 Celtic\nArrive by
- 10:30 AM\nSoccer Park 6A
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2416437
-DTSTAMP:20260511T152536Z
-CREATED:20260330T005817Z
-LAST-MODIFIED:20260401T143127Z
-SEQUENCE:1775053887
-DTSTART;TZID=America/Chicago:20260404T140000
-DTEND;TZID=America/Chicago:20260404T150000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - BONUS TECH TRAINING & FREE P
- LAY - AT THE WOODS (St. Charles)
-DESCRIPTION:TECH TRAINING IS INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SET
- TING.  <br><br>Improve your touch\, creativity\, and technique! ‬  Tech Tr
- aining is individual-based player development training in an age-group set
- ting.  There is no cost for this training session.<br><br>This is a BONUS
- TECH Training from 2 PM to 3 PM at our new facility in St. Charles (The Wo
- ods).  <br><br>NEW FACILITY: THE WOODS - ST. LOUIS SCOTT GALLAGHER - The W
- oods – St. Louis Scott Gallagher (formerly Vetta Woodlands) expands SLSG’s
-  training footprint and reflects the club’s long-term commitment to player
-  development across the St. Louis region. Located in Cottleville\, MO - Th
- e Woods provides critical space to support SLSG’s continued growth and yea
- r-round programming.  <br><br>2 Woodlands Pkwy\, Cottleville\, MO 63376.<b
- r><br>Activities after the TECH TRAINING:<br><br>3 PM to 4 PM - BREAK (Eas
- ter Egg Hunt for the littles)<br><br>4 PM to 5 PM - 4v4 FREE PLAY (U6 to U
- 14)<br><br>The facility includes:<br><br>Four (4) full-size 11v11 outdoor
- grass fields (planned turf conversion)<br>One (1) indoor turf field<br>On-
- site building with bar and concession space<br>Administrative offices to s
- upport daily operations<br><br>With both indoor and outdoor fields\, The W
- oods offers flexible\, all-season training and match opportunities for pla
- yers at every level. As development plans progress\, additional facility i
- mprovements will continue to enhance the experience for SLSG players and f
- amilies.<br><br>MORE ON TECH TRAINING:<br>- A technical training program f
- or all SLSG Players.<br>- Sign-up is by individual player\; it is not a te
- am event.  RSVP on this Playmetrics event<br>- U6 to U14 age groups<br>- B
- oys and Girls<br>- 6 sessions on Saturday mornings.  The Bonus Session at
- The Woods will make 7 sessions total. <br>- The times vary by facility (do
- uble check the schedule on link below) <br>- Weather-related cancellations
-  will be posted on Twitter (X) - @SLSGfacilities<br>- There is no cost for
-  SLSG players\, but all players need please to RSVP on this Playmetrics ev
- ent.<br>- There are off weeks in the middle of the program due to SLSG Tou
- rnaments\, double check schedule.<br><br>AGE GROUPS:<br>U6\, U7\, U8\, U9\
- , U10\, U11\, U12\, U13\, U14\, <br>(all at 2 PM to 3 PM for TECH TRAINING
-  at SLSG\, The Woods)<br><br>FULL TECH TRAINING SCHEDULE:<br>https://bit.l
- y/SLSG-trainingprograms-26spring<br><br>ITEMS TO NOTE:<br>In order to staf
- f the session correctly\, we ask all players to RSVP on this Playmetrics e
- vent<br>The cost is included in club dues. There are no make ups due to fa
- cility plans.<br>Weather related cancellations will be posted on twitter -
-  @SLSGfacilities and if we we are able\, emailed through the sign-up list
- (we are sometimes in the field and can not).
-LOCATION:2 Woodlands Pkwy\, Cottleville\, MO 63376\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186559
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172222Z
-LAST-MODIFIED:20260217T172222Z
-SEQUENCE:1771348942
-DTSTART;TZID=America/Chicago:20260406T170000
-DTEND;TZID=America/Chicago:20260406T183000
+UID:playmetrics-soccer--Practice_12167374
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163334Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20260916T170000
+DTEND;TZID=America/Chicago:20260916T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024407
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260408T170000
-DTEND;TZID=America/Chicago:20260408T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918813
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232151Z
-LAST-MODIFIED:20260408T180914Z
-SEQUENCE:1775671754
-DTSTART;TZID=America/Chicago:20260410T190000
-DTEND;TZID=America/Chicago:20260410T200000
+UID:playmetrics-soccer--Game_4618738
+DTSTAMP:20260818T134420Z
+CREATED:20260803T212834Z
+LAST-MODIFIED:20260803T212834Z
+SEQUENCE:1785792514
+DTSTART;TZID=America/Chicago:20260918T183000
+DTEND;TZID=America/Chicago:20260918T193000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:IL Girls 2017 Nottingham Forest Red at MO Girls 2017/2018 West
- Ham\nArrive by 6:30 PM\nSoccer Park 2B
+DESCRIPTION:MO Girls 2017/2018 Fiorentina at MO Girls 2017/2018 West Ham\nA
+ rrive by 6:00 PM\nSoccer Park 2A
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186662
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172231Z
-LAST-MODIFIED:20260217T172231Z
-SEQUENCE:1771348951
-DTSTART;TZID=America/Chicago:20260413T170000
-DTEND;TZID=America/Chicago:20260413T183000
+UID:playmetrics-soccer--Practice_12167377
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163334Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20260923T170000
+DTEND;TZID=America/Chicago:20260923T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024408
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260415T170000
-DTEND;TZID=America/Chicago:20260415T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186663
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172231Z
-LAST-MODIFIED:20260217T172231Z
-SEQUENCE:1771348951
-DTSTART;TZID=America/Chicago:20260420T170000
-DTEND;TZID=America/Chicago:20260420T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024409
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260422T170000
-DTEND;TZID=America/Chicago:20260422T183000
-SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918861
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232213Z
-LAST-MODIFIED:20260213T232213Z
-SEQUENCE:1771024933
-DTSTART;TZID=America/Chicago:20260424T193000
-DTEND;TZID=America/Chicago:20260424T203000
+UID:playmetrics-soccer--Game_4618793
+DTSTAMP:20260818T134420Z
+CREATED:20260803T212914Z
+LAST-MODIFIED:20260803T212914Z
+SEQUENCE:1785792554
+DTSTART;TZID=America/Chicago:20260925T190000
+DTEND;TZID=America/Chicago:20260925T200000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Lens\nArrive
- by 7:00 PM\nSoccer Park 2C
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Everton\nArri
+ ve by 6:30 PM\nSoccer Park 2
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305204
-DTSTAMP:20260511T152536Z
-CREATED:20260213T170143Z
-LAST-MODIFIED:20260213T170206Z
-SEQUENCE:1771002126
-DTSTART;TZID=America/Chicago:20260425T090000
-DTEND;TZID=America/Chicago:20260425T101500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>Impro
- ve your touch\, creativity\, and technique! ‬  Tech Training is individual
- -based player development training in an age-group setting.  Coach Zak Mat
- teoli\, Director of Youth Player Development\, leads the program.<br><br>-
-  A technical training program for all SLSG Players.<br>- Sign-up is by ind
- ividual player\; it is not a team event.<br>- U6 to U14 age groups<br>- Bo
- ys and Girls<br>- Missouri and Illinois<br>- 6 sessions on Saturday mornin
- gs<br>- The times vary by facility (double check the schedule on link belo
- w) <br>- Weather-related cancellations will be posted on Twitter (X) - @SL
- SGfacilities<br>- There is no cost for SLSG players\, but all players need
-  please to RSVP.<br>- There are off weeks in the middle of the program due
-  to SLSG Tournaments\, double check schedule.<br><br>TECH TRAINING LOCATIO
- NS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois - SLSG Collinsvill
- e - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U10\, U11\, U12\, U
- 13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\, U8 - boys and g
- irls)<br><br>SCHEDULE:<br>https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE
- :<br>In order to staff the session correctly\, we ask all players to RSVP
- on this Playmetrics event<br>The cost is included in club dues. There are
- no make ups due to facility plans.<br>Weather related cancellations will b
- e posted on twitter - @SLSGfacilities and if we we are able\, emailed thro
- ugh the sign-up list (we are sometimes in the field and can not).<br><br>R
- SVP:  https://bit.ly/TECH-rsvp
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CONFIRMED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10186664
-DTSTAMP:20260511T152536Z
-CREATED:20260217T172231Z
-LAST-MODIFIED:20260427T151140Z
-SEQUENCE:1777302700
-DTSTART;TZID=America/Chicago:20260427T170000
-DTEND;TZID=America/Chicago:20260427T183000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - Practice
-DESCRIPTION:Soccer Park 6 (CLUB TRAINING)
-LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
-X-CODEX-SOURCE:playmetrics-soccer
-END:VEVENT
-BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024410
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260206T145829Z
-SEQUENCE:1770389909
-DTSTART;TZID=America/Chicago:20260429T170000
-DTEND;TZID=America/Chicago:20260429T183000
+UID:playmetrics-soccer--Practice_12167380
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163334Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20260930T170000
+DTEND;TZID=America/Chicago:20260930T183000
 SUMMARY:West Ham Practice - SG
-DESCRIPTION:Soccer Park 3 (3E)
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918911
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232236Z
-LAST-MODIFIED:20260213T232236Z
-SEQUENCE:1771024956
-DTSTART;TZID=America/Chicago:20260501T190000
-DTEND;TZID=America/Chicago:20260501T200000
+UID:playmetrics-soccer--GenericCalendarEvent_2672339
+DTSTAMP:20260818T134420Z
+CREATED:20260717T221118Z
+LAST-MODIFIED:20260717T221118Z
+SEQUENCE:1784326278
+DTSTART;TZID=America/Chicago:20261002
+DTEND;TZID=America/Chicago:20261002
+SUMMARY:West Ham Carshield Surf Cup - SG
+LOCATION:530 North Eatherton Road\, Chesterfield\, MO 63005\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--GenericCalendarEvent_2672340
+DTSTAMP:20260818T134420Z
+CREATED:20260717T221118Z
+LAST-MODIFIED:20260717T221118Z
+SEQUENCE:1784326278
+DTSTART;TZID=America/Chicago:20261003
+DTEND;TZID=America/Chicago:20261003
+SUMMARY:West Ham Carshield Surf Cup - SG
+LOCATION:530 North Eatherton Road\, Chesterfield\, MO 63005\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--GenericCalendarEvent_2672341
+DTSTAMP:20260818T134420Z
+CREATED:20260717T221118Z
+LAST-MODIFIED:20260717T221118Z
+SEQUENCE:1784326278
+DTSTART;TZID=America/Chicago:20261004
+DTEND;TZID=America/Chicago:20261004
+SUMMARY:West Ham Carshield Surf Cup - SG
+LOCATION:530 North Eatherton Road\, Chesterfield\, MO 63005\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--Practice_12167503
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163345Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261007T170000
+DTEND;TZID=America/Chicago:20261007T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--Practice_12167504
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163345Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261014T170000
+DTEND;TZID=America/Chicago:20261014T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--Game_4618874
+DTSTAMP:20260818T134420Z
+CREATED:20260803T212959Z
+LAST-MODIFIED:20260803T212959Z
+SEQUENCE:1785792599
+DTSTART;TZID=America/Chicago:20261016T173000
+DTEND;TZID=America/Chicago:20261016T183000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017 Celtic at MO Girls 2017/2018 West Ham\nArrive by
- 6:30 PM\nSoccer Park 2C
+DESCRIPTION:MO Girls 2017/2018 Wrexham at MO Girls 2017/2018 West Ham\nArri
+ ve by 5:00 PM\nSoccer Park 1C
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305210
-DTSTAMP:20260511T152536Z
-CREATED:20260213T170531Z
-LAST-MODIFIED:20260502T023756Z
-SEQUENCE:1777689476
-DTSTART;TZID=America/Chicago:20260502T090000
-DTEND;TZID=America/Chicago:20260502T101500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:REMINDER!<br><br>INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SET
- TING<br><br>Improve your touch\, creativity\, and technique! ‬  Tech Train
- ing is individual-based player development training in an age-group settin
- g.  Coach Zak Matteoli\, Director of Youth Player Development\, leads the
- program.<br><br>- A technical training program for all SLSG Players.<br>-
- Sign-up is by individual player\; it is not a team event.<br>- U6 to U14 a
- ge groups<br>- Boys and Girls<br>- Missouri and Illinois<br>- 6 sessions o
- n Saturday mornings<br>- The times vary by facility (double check the sche
- dule on link below) <br>- Weather-related cancellations will be posted on
- Twitter (X) - @SLSGfacilities<br>- There is no cost for SLSG players\, but
-  all players need please to RSVP.<br>- There are off weeks in the middle o
- f the program due to SLSG Tournaments\, double check schedule.<br><br>TECH
-  TRAINING LOCATIONS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois -
-  SLSG Collinsville - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U1
- 0\, U11\, U12\, U13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\
- , U8 - boys and girls)<br><br>ITEMS TO NOTE:<br>In order to staff the sess
- ion correctly\, we ask all players to RSVP on this Playmetrics event<br>Th
- e cost is included in club dues. There are no make ups due to facility pla
- ns.<br>Weather related cancellations will be posted on twitter - @SLSGfaci
- lities and if we we are able\, emailed through the sign-up list (we are so
- metimes in the field and can not).<br><br>RSVP:  https://bit.ly/TECH-rsvp
+UID:playmetrics-soccer--Practice_12167505
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163345Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261021T170000
+DTEND;TZID=America/Chicago:20261021T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024411
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260501T211847Z
-SEQUENCE:1777670327
-DTSTART;TZID=America/Chicago:20260506T170000
-DTEND;TZID=America/Chicago:20260506T183000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - Practice
-DESCRIPTION:Soccer Park 3 (3E)
+UID:playmetrics-soccer--Practice_12167506
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163345Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261028T170000
+DTEND;TZID=America/Chicago:20261028T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918957
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232257Z
-LAST-MODIFIED:20260213T232257Z
-SEQUENCE:1771024977
-DTSTART;TZID=America/Chicago:20260506T173000
-DTEND;TZID=America/Chicago:20260506T183000
+UID:playmetrics-soccer--Game_4619001
+DTSTAMP:20260818T134420Z
+CREATED:20260803T213112Z
+LAST-MODIFIED:20260803T213112Z
+SEQUENCE:1785792672
+DTSTART;TZID=America/Chicago:20261030T200000
+DTEND;TZID=America/Chicago:20261030T210000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 Plymouth Argyle at MO Girls 2017/2018 West H
- am\nArrive by 5:00 PM\nSoccer Park 6D
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Plymouth Aryg
+ le White\nArrive by 7:30 PM\nSoccer Park 2D
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Game_3918993
-DTSTAMP:20260511T152536Z
-CREATED:20260213T232313Z
-LAST-MODIFIED:20260508T214653Z
-SEQUENCE:1778276813
-DTSTART;TZID=America/Chicago:20260508T193000
-DTEND;TZID=America/Chicago:20260508T203000
+UID:playmetrics-soccer--Practice_12167618
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163355Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261104T170000
+DTEND;TZID=America/Chicago:20261104T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
+LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
+END:VEVENT
+BEGIN:VEVENT
+UID:playmetrics-soccer--Game_4619033
+DTSTAMP:20260818T134420Z
+CREATED:20260803T213130Z
+LAST-MODIFIED:20260803T213130Z
+SEQUENCE:1785792690
+DTSTART;TZID=America/Chicago:20261106T190000
+DTEND;TZID=America/Chicago:20261106T200000
 SUMMARY:West Ham Game - SG
-DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Plymouth Argy
- le\nArrive by 7:00 PM\nSoccer Park 2B
+DESCRIPTION:IL Girls 2017/2018 Angel City at MO Girls 2017/2018 West Ham\nA
+ rrive by 6:30 PM\nSoccer Park 3C
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--GenericCalendarEvent_2305213
-DTSTAMP:20260511T152536Z
-CREATED:20260213T170811Z
-LAST-MODIFIED:20260505T125147Z
-SEQUENCE:1777985507
-DTSTART;TZID=America/Chicago:20260509T090000
-DTEND;TZID=America/Chicago:20260509T101500
-SUMMARY:West Ham Tech Training - SG
-DESCRIPTION:INDIVIDUAL PLAYER DEVELOPMENT IN AGE GROUP SETTING<br><br>Impro
- ve your touch\, creativity\, and technique! ‬  Tech Training is individual
- -based player development training in an age-group setting.  Coach Zak Mat
- teoli\, Director of Youth Player Development\, leads the program.<br><br>-
-  A technical training program for all SLSG Players.<br>- Sign-up is by ind
- ividual player\; it is not a team event.<br>- U6 to U14 age groups<br>- Bo
- ys and Girls<br>- Missouri and Illinois<br>- 6 sessions on Saturday mornin
- gs<br>- The times vary by facility (double check the schedule on link belo
- w) <br>- Weather-related cancellations will be posted on Twitter (X) - @SL
- SGfacilities<br>- There is no cost for SLSG players\, but all players need
-  please to RSVP.<br>- There are off weeks in the middle of the program due
-  to SLSG Tournaments\, double check schedule.<br><br>TECH TRAINING LOCATIO
- NS:<br>Missouri - WWT Soccer Park - Field 6<br>Illinois - SLSG Collinsvill
- e - Turf <br><br>AGE GROUPS:<br>9:00am - 10:15am (U9\, U10\, U11\, U12\, U
- 13\, U14 - boys and girls)<br>10:15am - 11:30am (U6\, U7\, U8 - boys and g
- irls)<br><br>SCHEDULE:<br>https://bit.ly/PDT-spring26<br><br>ITEMS TO NOTE
- :<br>In order to staff the session correctly\, we ask all players to RSVP
- on this Playmetrics event<br>The cost is included in club dues. There are
- no make ups due to facility plans.<br>Weather related cancellations will b
- e posted on twitter - @SLSGfacilities and if we we are able\, emailed thro
- ugh the sign-up list (we are sometimes in the field and can not).<br><br>R
- SVP:  https://bit.ly/TECH-rsvp
+UID:playmetrics-soccer--Practice_12167619
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163355Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261111T170000
+DTEND;TZID=America/Chicago:20261111T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
 STATUS:CONFIRMED
-URL:https://playmetrics.com
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024412
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260511T152434Z
-SEQUENCE:1778513074
-DTSTART;TZID=America/Chicago:20260513T170000
-DTEND;TZID=America/Chicago:20260513T183000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - Practice
-DESCRIPTION:Soccer Park 3 (3E)
+UID:playmetrics-soccer--Game_4619113
+DTSTAMP:20260818T134420Z
+CREATED:20260803T213212Z
+LAST-MODIFIED:20260804T211717Z
+SEQUENCE:1785878237
+DTSTART;TZID=America/Chicago:20261113T193000
+DTEND;TZID=America/Chicago:20261113T203000
+SUMMARY:West Ham Game - SG
+DESCRIPTION:MO Girls 2017/2018 West Ham at MO Girls 2017/2018 Rangers\nArri
+ ve by 7:00 PM\nSoccer Park 2A
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-UID:playmetrics-soccer--Practice_10024413
-DTSTAMP:20260511T152536Z
-CREATED:20260206T145829Z
-LAST-MODIFIED:20260511T152442Z
-SEQUENCE:1778513082
-DTSTART;TZID=America/Chicago:20260520T170000
-DTEND;TZID=America/Chicago:20260520T183000
-SUMMARY:CANCELED MO Girls 2017/2018 West Ham - Practice
-DESCRIPTION:Soccer Park 3 (3E)
+UID:playmetrics-soccer--Practice_12167620
+DTSTAMP:20260818T134420Z
+CREATED:20260730T163355Z
+LAST-MODIFIED:20260811T021306Z
+SEQUENCE:1786414386
+DTSTART;TZID=America/Chicago:20261118T170000
+DTEND;TZID=America/Chicago:20261118T183000
+SUMMARY:West Ham Practice - SG
+DESCRIPTION:Soccer Park 2 (2G)
 LOCATION:1 Soccer Park Rd\, Fenton\, MO 63026\, USA
-STATUS:CANCELLED
-URL:https://playmetrics.com
+STATUS:CONFIRMED
+URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260725T200000Z
-DTEND:20260725T204500Z
-DTSTAMP:20260708T084439Z
-UID:vetta-soccer--1730647.600565@vetta
-CLASS:PUBLIC
-CREATED:20260527T145559Z
-DESCRIPTION:YSL Game
-LAST-MODIFIED:20260527T185601Z
-LOCATION:Soccerdome (Webster Groves) on Webster Groves Adult Field 220 East
-  Avenue  St Louis MO 63119
-SEQUENCE:0
+UID:playmetrics-soccer--GenericCalendarEvent_2715402
+DTSTAMP:20260818T134420Z
+CREATED:20260724T180834Z
+LAST-MODIFIED:20260814T200824Z
+SEQUENCE:1786738104
+DTSTART;TZID=America/Chicago:20261128T100000
+DTEND;TZID=America/Chicago:20261128T193000
+SUMMARY:West Ham Turkey Bowl - 5v5 Freeplay Event - SG
+DESCRIPTION:It’s an SLSG tradition to wrap up the Fall Season and Kick Off
+ the Upper 90 Outreach Program with the TURKEY BOWL!	<br>	<br>The TURKEY BO
+ WL is a one-day\, 5v5 intra-club freeplay event designed to bring our play
+ ers together—uniting new teammates\, reuniting old friends\, and celebrate
+  our UPPER 90 community outreach program.	<br><br>8/8 - All teams will pla
+ y 2 games in a 3 hour window between 10 AM and 7:30 PM.<br>	<br>Key Detail
+ s &amp\; Expectations:	<br>The Turkey Bowl is a celebration event of our U
+ pper 90 Community Outreach Program\, which develops players off the field
+ and positively impacts our community. We will be collecting coats\, food\,
+  and used soccer gear. We will raise funds for our Holiday Adopt A Family
+ Program and the Southside Brian Corona Scholarship. 	<br>	<br>Let the Game
+  Be the Teacher: Coaches and team leaders are asked to step back\, handle
+ substitutions\, and let the players coach themselves on the field. 	<br>	<
+ br>All SLSG U6 to U12 Club Level Teams are automatically in the TURKEY BOW
+ L and gall games will be played.  If teams need players\, fill out the Tea
+ m Leaders &amp\; Guest Player form and tell us how many you need\, and we
+ will find you players - https://bit.ly/TURKEYbowl-26-NEEDguestPLAYERSform
+ <br>	<br>If you are interested in guest playing for a 2nd team in the even
+ t\, please fill out this form and we will see if we can match up to a team
+  needing a player.  I want to be a guest player link: https://bit.ly/TURKE
+ Ybowl-IwantTOguestPLAY	<br><br>UPPER 90 ADOPT A FAMILY PROGRAM:	<br>Remind
+ er that we are raising funds to buy holiday gifts for 90 soccer players fr
+ om our Southside City Soccer Program. The players will receive a long-slee
+ ve pullover training top\, a hat\, gloves\, and a backpack. We are also ra
+ ising funds to cover the program&#39\;s operational costs. Our goal is $12
+ \,000\, and the deadline is 12/1.<br>	<br>Donation link:<br>https://secure
+ .qgiv.com/for/slsgadoptafamily2026<br><br>TURKEY BOWL - 2026 - GENERAL INF
+ ORMATION	<br>https://bit.ly/SLSG-ONEday-Generalinfo
+LOCATION:World Wide Technology Soccer Park\, Soccer Park Road\, Fenton\, MO
+ \, USA
 STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unic
- orns (Cunningham) M/C/D 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260711T193000Z
-DTEND:20260711T202000Z
-DTSTAMP:20260708T084439Z
-UID:vetta-soccer--1730394.600565@vetta
-CLASS:PUBLIC
-CREATED:20260527T145559Z
-DESCRIPTION:YSL Game
-LAST-MODIFIED:20260527T185601Z
-LOCATION:Manchester (West County) on Manchester #2 [Upper Field] 150 Enchan
- ted Parkway  St. Louis MO 63021
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unic
- orns (Cunningham) M/C/D 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260718T202000Z
-DTEND:20260718T211000Z
-DTSTAMP:20260708T084439Z
-UID:vetta-soccer--1730403.600565@vetta
-CLASS:PUBLIC
-CREATED:20260527T145559Z
-DESCRIPTION:YSL Game
-LAST-MODIFIED:20260527T185601Z
-LOCATION:Manchester (West County) on Manchester #2 [Upper Field] 150 Enchan
- ted Parkway  St. Louis MO 63021
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - G3 2017 Pink Lionesses (Klapp) M/D/C 6 vs G3 2017 Ra
- inbow Unicorns (Cunningham) M/C/D 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260628T190000Z
-DTEND:20260628T195000Z
-DTSTAMP:20260708T084439Z
-UID:vetta-soccer--1730570.600565@vetta
-CLASS:PUBLIC
-CREATED:20260628T185559Z
-DESCRIPTION:YSL Game
-LAST-MODIFIED:20260628T225604Z
-LOCATION:Concord (South County) on Concord Field 3 12320 Old Tesson Rd  St.
-  Louis MO 63128
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Vetta Soccer - G3 2017 Velociraptors (Ahrenbach) C/M/D 6 W 3-1 vs G
- 3 2017 Rainbow Unicorns (Cunningham) M/C/D 4
-TRANSP:OPAQUE
-X-CODEX-SOURCE:vetta-soccer
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260527T230000Z
-DTEND:20260528T000000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--0cf0edce-26e9-43fc-9f6b-005d6ac9beea
-CREATED:20260528T020800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys and girls 6-7PM\,  2nd gra
- de boys and girls 7-8PM\nEvent Details on TeamBot: https://goteambot.com/e
- /0cf0edce-26e9-43fc-9f6b-005d6ac9beea\n\nMap: https://www.google.com/maps/
- dir//800+Maryville+Centre+Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.50
- 59542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc
- 666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260528T020850Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T230000Z
-DTEND:20260716T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--66e06a95-3361-41ae-8a56-ef153f56973a
-CREATED:20260703T050800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/66e06a95-33
- 61-41ae-8a56-ef153f56973a\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - DECLINED: Skills Training (Mary-Jean
- : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260510T200000Z
-DTEND:20260510T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--86ae7aae-848b-48f6-8af2-144c9134d41c
-CREATED:20260509T050800Z
-DESCRIPTION:PK and K 3-4PM\n1st and 2nd grade boys and girls 4-5PM\nEvent D
- etails on TeamBot: https://goteambot.com/e/86ae7aae-848b-48f6-8af2-144c913
- 4d41c\n\nMap:
-LAST-MODIFIED:20260509T050850Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260517T200000Z
-DTEND:20260517T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--86e6267e-b0bf-41b9-80a6-1511079df47b
-CREATED:20260517T000800Z
-DESCRIPTION:3-4pm for PK\, K \n4-5pm 1st and 2nd grade\nEvent Details on Te
- amBot: https://goteambot.com/e/86e6267e-b0bf-41b9-80a6-1511079df47b\n\nMap
- :
-LAST-MODIFIED:20260517T000850Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260802T200000Z
-DTEND:20260802T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--a909ab76-58f4-4005-93bc-0312bac73d59
-CREATED:20260703T050800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/a909ab76-58
- f4-4005-93bc-0312bac73d59\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260812T230000Z
-DTEND:20260813T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5
-CREATED:20260703T050800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/f5f0a4c5-e7
- 03-4b08-93c9-9a0ce30b1de5\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260607T200000Z
-DTEND:20260607T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--33b5c9b5-fb7d-49e1-9a88-04e3908d51eb
-CREATED:20260419T230800Z
-DESCRIPTION:Game times will either be 3PM or 4PM.  \nEvent Details on TeamB
- ot: https://goteambot.com/e/33b5c9b5-fb7d-49e1-9a88-04e3908d51eb\n\nMap:
-LAST-MODIFIED:20260419T230851Z
-LOCATION:PRINCIPIA Field House
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T230000Z
-DTEND:20260723T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--721eb680-7276-473b-9367-bf51f5d142e7
-CREATED:20260703T050800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/721eb680-72
- 76-473b-9367-bf51f5d142e7\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260628T200000Z
-DTEND:20260628T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--e3bf9186-85fe-430c-a4a5-953e15aa00e0
-CREATED:20260627T200800Z
-DESCRIPTION:3-4PM PreK and Kindergarten\n3-4PM 1st and 2nd grade girls\n4-5
- PM 1st and 2nd grade boys\nEvent Details on TeamBot: https://goteambot.com
- /e/e3bf9186-85fe-430c-a4a5-953e15aa00e0\n\nMap:
-LAST-MODIFIED:20260627T200850Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T230000Z
-DTEND:20260709T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--02a1ef6f-ac37-45ab-b4b1-3a51439f9714
-CREATED:20260703T050800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/02a1ef6f-ac
- 37-45ab-b4b1-3a51439f9714\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260729T230000Z
-DTEND:20260730T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--6bbbbd1d-c73a-4cf4-b616-f0260e4ed098
-CREATED:20260703T050800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/6bbbbd1d-c7
- 3a-4cf4-b616-f0260e4ed098\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260712T200000Z
-DTEND:20260712T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--f96a7767-eb4f-4bbd-a45b-2fa4aadfab2e
-CREATED:20260703T050800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/f96a7767-eb
- 4f-4bbd-a45b-2fa4aadfab2e\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - DECLINED: Games (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
+URL:https://app.playmetrics.com
+X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260823T200000Z
 DTEND:20260823T220000Z
-DTSTAMP:20260708T084439Z
+DTSTAMP:20260820T033859Z
 UID:little-dribblers-basketball--0c30592b-a137-4e26-8d8b-ca6097bd1f78
-CREATED:20260703T050800Z
+CREATED:20260813T220800Z
 DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/0c30592b-a1
  37-4e26-8d8b-ca6097bd1f78\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260701T230000Z
-DTEND:20260702T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--0a8bf845-b7d7-461f-ab48-250dc103fe04
-CREATED:20260531T200800Z
-DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/0a8bf845-b7
- d7-461f-ab48-250dc103fe04\n\nMap:
-LAST-MODIFIED:20260531T200851Z
-LOCATION:Westminster Christian Academy (back gym) Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260719T200000Z
-DTEND:20260719T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--0ad0aab1-3e26-465f-9c56-4e7d2aea1728
-CREATED:20260703T050800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/0ad0aab1-3e
- 26-465f-9c56-4e7d2aea1728\n\nMap:
-LAST-MODIFIED:20260703T050851Z
-LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T230000Z
-DTEND:20260514T000000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--111b4e20-ed59-48ef-b21c-acd735870400
-CREATED:20260513T210800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st graders 6-7PM.\n2nd graders 7-8PM.\nE
- vent Details on TeamBot: https://goteambot.com/e/111b4e20-ed59-48ef-b21c-a
- cd735870400\n\nMap: https://www.google.com/maps/dir//800+Maryville+Centre+
- Dr\,+Chesterfield\,+MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!
- 4m9!4m8!1m0!1m5!1m1!1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036
- 792!2d38.6371668!3e0
-LAST-MODIFIED:20260513T210850Z
-LOCATION:Westminister - Back Gym
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
- )
-TRANSP:OPAQUE
-X-CODEX-SOURCE:little-dribblers-basketball
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260816T200000Z
-DTEND:20260816T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--412d70fe-a48d-4f1a-acd4-9a682aac00c9
-CREATED:20260703T050800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/412d70fe-a4
- 8d-4f1a-acd4-9a682aac00c9\n\nMap:
-LAST-MODIFIED:20260703T050851Z
+LAST-MODIFIED:20260813T220851Z
 LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1246,12 +510,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260809T200000Z
 DTEND:20260809T220000Z
-DTSTAMP:20260708T084439Z
+DTSTAMP:20260820T033859Z
 UID:little-dribblers-basketball--66627282-2aa7-4c66-85c2-8f297ccfc7e1
-CREATED:20260703T050800Z
+CREATED:20260813T220800Z
 DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/66627282-2a
  a7-4c66-85c2-8f297ccfc7e1\n\nMap:
-LAST-MODIFIED:20260703T050851Z
+LAST-MODIFIED:20260813T220851Z
 LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1260,15 +524,15 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260805T230000Z
-DTEND:20260806T010000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--d896b686-0de6-49e5-b34e-80bc4af4e02a
-CREATED:20260703T050800Z
+DTSTART:20260722T230000Z
+DTEND:20260723T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--721eb680-7276-473b-9367-bf51f5d142e7
+CREATED:20260813T220800Z
 DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
- r own ball \nEvent Details on TeamBot: https://goteambot.com/e/d896b686-0d
- e6-49e5-b34e-80bc4af4e02a\n\nMap:
-LAST-MODIFIED:20260703T050851Z
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/721eb680-72
+ 76-473b-9367-bf51f5d142e7\n\nMap:
+LAST-MODIFIED:20260813T220851Z
 LOCATION:Westminster Christian Academy (back gym) Back Gym
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1278,19 +542,16 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260520T230000Z
-DTEND:20260521T000000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--5352be40-ae40-428f-a5c4-70ef00042f4d
-CREATED:20260520T170800Z
-DESCRIPTION:PreK\, Kindergarten\, 1st grade boys and girls 6-7PM\,  2nd gra
- de boys and girls 7-8PM\nPlease bring your own ball\nEvent Details on Team
- Bot: https://goteambot.com/e/5352be40-ae40-428f-a5c4-70ef00042f4d\n\nMap:
- https://www.google.com/maps/dir//800+Maryville+Centre+Dr\,+Chesterfield\,+
- MO+63017/@38.6371616\,-90.5059542\,854m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!
- 1s0x87d8d33939772f5b:0x332fc666eddc1cbe!2m2!1d-90.5036792!2d38.6371668!3e0
-LAST-MODIFIED:20260520T170850Z
-LOCATION:Westminister - Back Gym
+DTSTART:20260805T230000Z
+DTEND:20260806T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--d896b686-0de6-49e5-b34e-80bc4af4e02a
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/d896b686-0d
+ e6-49e5-b34e-80bc4af4e02a\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA Field House
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
@@ -1299,31 +560,33 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T200000Z
-DTEND:20260531T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--1b010557-93e7-485d-8c0a-257e95b7f3da
-CREATED:20260531T200800Z
-DESCRIPTION:PK and K 3-4PM\n1st and 2nd grades 4-5PM\nEvent Details on Team
- Bot: https://goteambot.com/e/1b010557-93e7-485d-8c0a-257e95b7f3da\n\nMap:
-LAST-MODIFIED:20260531T200851Z
-LOCATION:PRINCIPIA Field House
+DTSTART:20260804T140000Z
+DTEND:20260804T200000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--cadc0438-63ed-4b72-b586-b5581f8e5d4f
+CREATED:20260813T220800Z
+DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
+ ot: https://goteambot.com/e/cadc0438-63ed-4b72-b586-b5581f8e5d4f\n\nMap: h
+ ttps://maps.google.com/?cid=13896995793488358556
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Principia High School
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+SUMMARY:Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mar
+ y-Jean : Accepted)
 TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T230000Z
 DTEND:20260625T010000Z
-DTSTAMP:20260708T084439Z
+DTSTAMP:20260820T033859Z
 UID:little-dribblers-basketball--1dc845a3-fe21-437c-bd43-7fda5661369c
-CREATED:20260531T200800Z
+CREATED:20260813T220800Z
 DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
  r own ball \nEvent Details on TeamBot: https://goteambot.com/e/1dc845a3-fe
  21-437c-bd43-7fda5661369c\n\nMap:
-LAST-MODIFIED:20260531T200851Z
+LAST-MODIFIED:20260813T220851Z
 LOCATION:Westminster Christian Academy (back gym) Back Gym
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1332,14 +595,50 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260726T200000Z
-DTEND:20260726T220000Z
-DTSTAMP:20260708T084439Z
-UID:little-dribblers-basketball--b0d5ae2a-e294-4600-bfda-879814274875
-CREATED:20260703T050800Z
-DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/b0d5ae2a-e2
- 94-4600-bfda-879814274875\n\nMap:
-LAST-MODIFIED:20260703T050851Z
+DTSTART:20260729T230000Z
+DTEND:20260730T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--6bbbbd1d-c73a-4cf4-b616-f0260e4ed098
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/6bbbbd1d-c7
+ 3a-4cf4-b616-f0260e4ed098\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Westminster Christian Academy (back gym) Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
+ )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--66e06a95-3361-41ae-8a56-ef153f56973a
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/66e06a95-33
+ 61-41ae-8a56-ef153f56973a\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Westminster Christian Academy (back gym) Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - DECLINED: Skills Training (Mary-Jean
+ : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--a909ab76-58f4-4005-93bc-0312bac73d59
+CREATED:20260813T220800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/a909ab76-58
+ f4-4005-93bc-0312bac73d59\n\nMap:
+LAST-MODIFIED:20260813T220851Z
 LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1348,13 +647,219 @@ TRANSP:OPAQUE
 X-CODEX-SOURCE:little-dribblers-basketball
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260719T200000Z
+DTEND:20260719T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--0ad0aab1-3e26-465f-9c56-4e7d2aea1728
+CREATED:20260813T220800Z
+DESCRIPTION:3-4PM PreK and Kindergarten\n3-4PM 1st and 2nd grade girls\n4-5
+ PM 1st and 2nd grade boys\nEvent Details on TeamBot: https://goteambot.com
+ /e/0ad0aab1-3e26-465f-9c56-4e7d2aea1728\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T230000Z
+DTEND:20260813T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/f5f0a4c5-e7
+ 03-4b08-93c9-9a0ce30b1de5\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA Field House
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
+ )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260803T140000Z
+DTEND:20260803T200000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--1a2e7eca-01f2-4339-84c7-5066bc7c06ba
+CREATED:20260813T220800Z
+DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
+ ot: https://goteambot.com/e/1a2e7eca-01f2-4339-84c7-5066bc7c06ba\n\nMap: h
+ ttps://maps.google.com/?cid=13896995793488358556
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Principia High School
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mar
+ y-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260726T200000Z
+DTEND:20260726T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--b0d5ae2a-e294-4600-bfda-879814274875
+CREATED:20260813T220800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/b0d5ae2a-e2
+ 94-4600-bfda-879814274875\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260815T140000Z
+DTEND:20260815T150000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--ca351567-6763-4cb4-929e-a52ab1054fa5
+CREATED:20260813T220800Z
+DESCRIPTION:Please bring a ball\nEvent Details on TeamBot: https://goteambo
+ t.com/e/ca351567-6763-4cb4-929e-a52ab1054fa5\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\,  Town and Country\, MO 63131
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Tryout (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T140000Z
+DTEND:20260805T200000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--8195956e-203a-4b96-957d-86e0004ed148
+CREATED:20260813T220800Z
+DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
+ ot: https://goteambot.com/e/8195956e-203a-4b96-957d-86e0004ed148\n\nMap: h
+ ttps://maps.google.com/?cid=13896995793488358556
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Principia High School
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mar
+ y-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T230000Z
+DTEND:20260709T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--02a1ef6f-ac37-45ab-b4b1-3a51439f9714
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/02a1ef6f-ac
+ 37-45ab-b4b1-3a51439f9714\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Westminster Christian Academy (back gym) Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted
+ )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T230000Z
+DTEND:20260702T010000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--0a8bf845-b7d7-461f-ab48-250dc103fe04
+CREATED:20260813T220800Z
+DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
+ r own ball \nEvent Details on TeamBot: https://goteambot.com/e/0a8bf845-b7
+ d7-461f-ab48-250dc103fe04\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Westminster Christian Academy (back gym) Back Gym
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Skills Training (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T200000Z
+DTEND:20260628T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--e3bf9186-85fe-430c-a4a5-953e15aa00e0
+CREATED:20260813T220800Z
+DESCRIPTION:3-4PM PreK and Kindergarten\n3-4PM 1st and 2nd grade girls\n4-5
+ PM 1st and 2nd grade boys\nEvent Details on TeamBot: https://goteambot.com
+ /e/e3bf9186-85fe-430c-a4a5-953e15aa00e0\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260712T200000Z
+DTEND:20260712T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--f96a7767-eb4f-4bbd-a45b-2fa4aadfab2e
+CREATED:20260813T220800Z
+DESCRIPTION:3-4PM PreK\, Kindergarten\, 1st and 2nd grade girls\n4-5PM 1st
+ and 2nd grade boys.\nEvent Details on TeamBot: https://goteambot.com/e/f96
+ a7767-eb4f-4bbd-a45b-2fa4aadfab2e\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - DECLINED: Games (Mary-Jean : )
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260816T200000Z
+DTEND:20260816T220000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--412d70fe-a48d-4f1a-acd4-9a682aac00c9
+CREATED:20260813T220800Z
+DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/412d70fe-a4
+ 8d-4f1a-acd4-9a682aac00c9\n\nMap:
+LAST-MODIFIED:20260813T220851Z
+LOCATION:PRINCIPIA  13201 Clayton Rd\, Des Peres\, MO 63131 Fieldhouse
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - Games (Mary-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260806T140000Z
+DTEND:20260806T200000Z
+DTSTAMP:20260820T033859Z
+UID:little-dribblers-basketball--9fb1ff90-77de-440c-8973-771e398cdd1c
+CREATED:20260813T220800Z
+DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
+ ot: https://goteambot.com/e/9fb1ff90-77de-440c-8973-771e398cdd1c\n\nMap: h
+ ttps://maps.google.com/?cid=13896995793488358556
+LAST-MODIFIED:20260813T220851Z
+LOCATION:Principia High School
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mar
+ y-Jean : Accepted)
+TRANSP:OPAQUE
+X-CODEX-SOURCE:little-dribblers-basketball
+END:VEVENT
+BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317441-20260604T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260604T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1369,11 +874,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317442-20260611T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260611T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1388,11 +893,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317443-20260618T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260618T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1407,11 +912,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317444-20260625T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260625T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1426,11 +931,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317445-20260702T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260702T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1445,11 +950,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317446-20260709T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260709T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1464,11 +969,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317447-20260716T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260716T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1483,11 +988,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317448-20260723T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260723T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1502,11 +1007,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317449-20260730T173000@quickscores.
  com
-DTSTAMP:20260708T034400Z
+DTSTAMP:20260819T223900Z
 DTSTART;TZID=America/Chicago:20260730T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
-DESCRIPTION:Mid County/kirkwood 3/4 Grade Basketball Girls Practices - Mid-
+DESCRIPTION:Mid County/Kirkwood 3/4 Grade Basketball Girls Practices - Mid-
  County Family YMCA<BR>& Kirkwood YMCA
 LOCATION:Kirkwood - South Court
 CATEGORIES:QuickScores, Basketball - Youth Game
@@ -1517,5 +1022,207 @@ ACTION:DISPLAY
 DESCRIPTION:Practice: MidCo/KW 3/4 Basketball Girls Buckel
 END:VALARM
 X-CODEX-SOURCE:mid-county-basketball
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYC Soccer - Fall 2026 - Practice (SANS-S3FD1-Cunningham2)
+LOCATION:JV priory field \, Missouri
+UID:cyc-soccer-fall-2026--1787395.teamsideline.com
+DESCRIPTION: Staff Notes:
+DTSTART:20260818T231000Z
+DTEND:20260819T001000Z
+DTSTAMP:20260820T033900Z
+CLASS:PUBLIC
+X-CODEX-SOURCE:cyc-soccer-fall-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYC Soccer - Fall 2026 -  Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunn
+ ingham2)
+LOCATION:Incarnate Word Field - Fld 2\, 13416 Olive Boulevard\, Chesterfiel
+ d\, MO  63017
+UID:cyc-soccer-fall-2026---34683686.teamsideline.com
+DESCRIPTION: Staff Notes:
+DTSTART:20260822T190000Z
+DTEND:20260822T200000Z
+DTSTAMP:20260820T033900Z
+CLASS:PUBLIC
+X-CODEX-SOURCE:cyc-soccer-fall-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2
+ )
+LOCATION:St AnselmFld - Jr Sm\, K-3\, 500 S Mason Rd\, St. Louis\, MO  6341
+ 4
+UID:cyc-soccer-fall-2026---34683689.teamsideline.com
+DESCRIPTION: Staff Notes:
+DTSTART:20260829T170000Z
+DTEND:20260829T180000Z
+DTSTAMP:20260820T033900Z
+CLASS:PUBLIC
+X-CODEX-SOURCE:cyc-soccer-fall-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--22df1c0f-cc79-4be4-900b-de3c53bb2e8
+ 2
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20260827T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20260828T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--8db3929c-a42e-43ba-8fe6-ff6cfe3eebc
+ f
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20260903T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20260904T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--37b76c04-1dbf-47c7-bc9c-155bfd9c8b6
+ 9
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20260910T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20260911T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--8e1c0a77-b78d-4a66-9a26-cbbc04ec3d4
+ 9
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20260917T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20260918T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--14c961d8-95b7-4d65-87e7-9295edef54d
+ a
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20260924T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20260925T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--c86c1f35-2de6-4745-969d-49981b161c6
+ c
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261001T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261002T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--f498100a-bdab-44bc-a7b8-f9f7f8de1eb
+ 4
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261008T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261009T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--a020d4c6-ca23-42cf-b910-edea714dd29
+ 7
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261015T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261016T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--619e2a17-19b1-48e5-b604-be0e6e2e6a3
+ c
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261022T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261023T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--8f5bb94d-b0a6-4af5-bbf8-45b5185398b
+ 1
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261029T231500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261030T001500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:mustang-dream-team-volleyball-2026--7198c72d-2ac1-460f-b672-5697b04e366
+ a
+DTSTAMP:20260820T032530Z
+CREATED:20260817T233720Z
+LAST-MODIFIED:20260817T233720Z
+DTSTART:20261106T001500Z
+CLASS:PUBLIC
+SUMMARY:Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice
+GEO:38.6100135;-90.50725150000001
+LOCATION:Parkway South Middle School\nManchester\, MO\, United States
+STATUS:CONFIRMED
+DTEND:20261106T011500Z
+X-CODEX-SOURCE:mustang-dream-team-volleyball-2026
 END:VEVENT
 END:VCALENDAR

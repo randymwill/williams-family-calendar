@@ -1,4 +1,28 @@
 {
+  "cyc-soccer-fall-2026---34683686.teamsideline.com": {
+    "dtend": "20260822T200000Z",
+    "dtstart": "20260822T190000Z",
+    "fingerprint": "ad324dfd8f3f069a61430d8a8e65ae959d04334fd5421f079848229668263df3",
+    "location": "Incarnate Word Field - Fld 2\\, 13416 Olive Boulevard\\, Chesterfield\\, MO  63017",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683689.teamsideline.com": {
+    "dtend": "20260829T180000Z",
+    "dtstart": "20260829T170000Z",
+    "fingerprint": "d8531dfa9ce1dd65b09f2acdd451038add84771407bbb4bf39d4054d7af8706f",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026--1787395.teamsideline.com": {
+    "dtend": "20260819T001000Z",
+    "dtstart": "20260818T231000Z",
+    "fingerprint": "93deb64b612509c649382b3b83b8b0ff0166b64c10cbab643c3c0aa7a49ab244",
+    "location": "JV priory field \\, Missouri  ",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 - Practice (SANS-S3FD1-Cunningham2)"
+  },
   "little-dribblers-basketball--02a1ef6f-ac37-45ab-b4b1-3a51439f9714": {
     "dtend": "20260709T010000Z",
     "dtstart": "20260708T230000Z",
@@ -18,7 +42,7 @@
   "little-dribblers-basketball--0ad0aab1-3e26-465f-9c56-4e7d2aea1728": {
     "dtend": "20260719T220000Z",
     "dtstart": "20260719T200000Z",
-    "fingerprint": "464eab7c564cfaf450c9760cf0ab377c1e39beb423e4987d396552179e0364bb",
+    "fingerprint": "8ebdf6124c81c70d9f9116ee27795a7e48a16728f3a01b557cdd1a862e817ea3",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
@@ -31,29 +55,13 @@
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
   },
-  "little-dribblers-basketball--0cf0edce-26e9-43fc-9f6b-005d6ac9beea": {
-    "dtend": "20260528T000000Z",
-    "dtstart": "20260527T230000Z",
-    "fingerprint": "0d13895c38a26589c4d42c150be52096e4e9d1f196f3dc1141dc9cabc162387a",
-    "location": "Westminister - Back Gym ",
+  "little-dribblers-basketball--1a2e7eca-01f2-4339-84c7-5066bc7c06ba": {
+    "dtend": "20260803T200000Z",
+    "dtstart": "20260803T140000Z",
+    "fingerprint": "f2a4cb4f942e391195caf5f63ba06b0b28e917412e03a72dbec3a744c44569ab",
+    "location": "Principia High School ",
     "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
-  },
-  "little-dribblers-basketball--111b4e20-ed59-48ef-b21c-acd735870400": {
-    "dtend": "20260514T000000Z",
-    "dtstart": "20260513T230000Z",
-    "fingerprint": "c517222e3d7b3d3f7796d8f2f51da6912f96b18729724fd2807bc61b7490ec16",
-    "location": "Westminister - Back Gym ",
-    "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
-  },
-  "little-dribblers-basketball--1b010557-93e7-485d-8c0a-257e95b7f3da": {
-    "dtend": "20260531T220000Z",
-    "dtstart": "20260531T200000Z",
-    "fingerprint": "4743e00ca570056e0262025bd0e457e67d7efb8f256fe76042360f0eae2c78e3",
-    "location": "PRINCIPIA Field House ",
-    "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
+    "summary": "Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
   },
   "little-dribblers-basketball--1dc845a3-fe21-437c-bd43-7fda5661369c": {
     "dtend": "20260625T010000Z",
@@ -63,14 +71,6 @@
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : )"
   },
-  "little-dribblers-basketball--33b5c9b5-fb7d-49e1-9a88-04e3908d51eb": {
-    "dtend": "20260607T220000Z",
-    "dtstart": "20260607T200000Z",
-    "fingerprint": "d9ea73412d968ea0ad6ebec9b7fabcd92e11ce8e0cafe3a778abc7d1e3ffe677",
-    "location": "PRINCIPIA Field House ",
-    "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
-  },
   "little-dribblers-basketball--412d70fe-a48d-4f1a-acd4-9a682aac00c9": {
     "dtend": "20260816T220000Z",
     "dtstart": "20260816T200000Z",
@@ -78,14 +78,6 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
-  },
-  "little-dribblers-basketball--5352be40-ae40-428f-a5c4-70ef00042f4d": {
-    "dtend": "20260521T000000Z",
-    "dtstart": "20260520T230000Z",
-    "fingerprint": "0600f93a081d0a13e7c5554bdf7286484dc886e26a34abe9d14a4f24406b1fce",
-    "location": "Westminister - Back Gym ",
-    "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
   },
   "little-dribblers-basketball--66627282-2aa7-4c66-85c2-8f297ccfc7e1": {
     "dtend": "20260809T220000Z",
@@ -119,21 +111,21 @@
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
   },
-  "little-dribblers-basketball--86ae7aae-848b-48f6-8af2-144c9134d41c": {
-    "dtend": "20260510T220000Z",
-    "dtstart": "20260510T200000Z",
-    "fingerprint": "cbfd621dcf35847ec931617fbeaaaaa5f74c1d27df558606a89620881ae57a7e",
-    "location": "PRINCIPIA Field House ",
+  "little-dribblers-basketball--8195956e-203a-4b96-957d-86e0004ed148": {
+    "dtend": "20260805T200000Z",
+    "dtstart": "20260805T140000Z",
+    "fingerprint": "ba1db130f0de063d395c03ce9b1c684b417a19e8313ad291dcdb62e159c8c31e",
+    "location": "Principia High School ",
     "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
+    "summary": "Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
   },
-  "little-dribblers-basketball--86e6267e-b0bf-41b9-80a6-1511079df47b": {
-    "dtend": "20260517T220000Z",
-    "dtstart": "20260517T200000Z",
-    "fingerprint": "13477b26cf5cb0d26e477d0ea239128ea565a9b55b35557b487c377a710d5897",
-    "location": "PRINCIPIA Field House ",
+  "little-dribblers-basketball--9fb1ff90-77de-440c-8973-771e398cdd1c": {
+    "dtend": "20260806T200000Z",
+    "dtstart": "20260806T140000Z",
+    "fingerprint": "bd2551115ce041a1f6de10e4dfcf3a01aadb78ed6c927a3e1f705a3a88a1c132",
+    "location": "Principia High School ",
     "source": "little-dribblers-basketball",
-    "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
+    "summary": "Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
   },
   "little-dribblers-basketball--a909ab76-58f4-4005-93bc-0312bac73d59": {
     "dtend": "20260802T220000Z",
@@ -151,11 +143,27 @@
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Games (Mary-Jean : Accepted)"
   },
+  "little-dribblers-basketball--ca351567-6763-4cb4-929e-a52ab1054fa5": {
+    "dtend": "20260815T150000Z",
+    "dtstart": "20260815T140000Z",
+    "fingerprint": "2f2cfff6d9123bdd2ea7d6254e1928fc81c259ee7cacccba8aaf22d532c2bb3c",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 ",
+    "source": "little-dribblers-basketball",
+    "summary": "Little Dribblers Basketball - Tryout (Mary-Jean : Accepted)"
+  },
+  "little-dribblers-basketball--cadc0438-63ed-4b72-b586-b5581f8e5d4f": {
+    "dtend": "20260804T200000Z",
+    "dtstart": "20260804T140000Z",
+    "fingerprint": "ffc7c7e6af53d6848b9fb8be8fef8ae36bb484aa2428bd285be31473a1862691",
+    "location": "Principia High School ",
+    "source": "little-dribblers-basketball",
+    "summary": "Little Dribblers Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
+  },
   "little-dribblers-basketball--d896b686-0de6-49e5-b34e-80bc4af4e02a": {
     "dtend": "20260806T010000Z",
     "dtstart": "20260805T230000Z",
-    "fingerprint": "22bad9a0e3ee2260bcf02efebce24a378b824849534435a69d46a9cb5fc5628e",
-    "location": "Westminster Christian Academy (back gym) Back Gym",
+    "fingerprint": "b93183a66caeec66b88d594f2667a8af1e20a2d3b36f779bb7f3777fdd5851a1",
+    "location": "PRINCIPIA Field House ",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
   },
@@ -170,15 +178,15 @@
   "little-dribblers-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5": {
     "dtend": "20260813T010000Z",
     "dtstart": "20260812T230000Z",
-    "fingerprint": "7a7a309bb7995918b6273f8e1053c9c82977881c29dc01449eb12cffe5154cd0",
-    "location": "Westminster Christian Academy (back gym) Back Gym",
+    "fingerprint": "6b1543303a9c5320a393cc058b91bfa509cff3396e856bccfa505b79301e80fc",
+    "location": "PRINCIPIA Field House ",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - Skills Training (Mary-Jean : Accepted)"
   },
   "little-dribblers-basketball--f96a7767-eb4f-4bbd-a45b-2fa4aadfab2e": {
     "dtend": "20260712T220000Z",
     "dtstart": "20260712T200000Z",
-    "fingerprint": "5c13c0659299d2be4119a4e5e355e92dd86de4a895834fdb1d82aa8145d340ee",
+    "fingerprint": "64989a62c397f685ab79c7e3756f7f0d814dc2c11758da2ee48fdf4248a46ef5",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "little-dribblers-basketball",
     "summary": "Little Dribblers Basketball - DECLINED: Games (Mary-Jean : )"
@@ -186,7 +194,7 @@
   "mid-county-basketball--midcountyy-75317441-20260604T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260604T173000",
-    "fingerprint": "138c730fc01c62c5956dd3d41d8380a542fceac11085317ba73b02b51227dab2",
+    "fingerprint": "f62172177f53c17f34a159d8d7c83498e58f1e285202ecb22c6e93e424b751e6",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -194,7 +202,7 @@
   "mid-county-basketball--midcountyy-75317442-20260611T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260611T173000",
-    "fingerprint": "f76a6c6a92b66b3286aaa1b80ae464ef929af164a582a119952d802e24be9595",
+    "fingerprint": "c6ef255e42d658bc0b036edc38fdc0a120194024a71263f105b62f55bfdd07cc",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -202,7 +210,7 @@
   "mid-county-basketball--midcountyy-75317443-20260618T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260618T173000",
-    "fingerprint": "1bf18e12c052a26949ebc3f76447085f4f2301281a3c29fa2a4e066e7c84d599",
+    "fingerprint": "67f887583bdef5597793aa4ef96d2a93362c5f8ba8eac2763b84335a4d06d4c9",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -210,7 +218,7 @@
   "mid-county-basketball--midcountyy-75317444-20260625T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260625T173000",
-    "fingerprint": "a6502e493f5361999de1fbc9a0419ff040e61603d184e6cb7d145b819a6889a0",
+    "fingerprint": "761677e59b02f55f60bf3bbe6350595f0b1834eb845e9ef5d76201594c677492",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -218,7 +226,7 @@
   "mid-county-basketball--midcountyy-75317445-20260702T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260702T173000",
-    "fingerprint": "b568697c93abeb192123705f4002cd3a10c88865ff5b9567f38fd085dfaac134",
+    "fingerprint": "b2c375dcd375cc4a3d98db90d30753a28fe7fcd164926a55534e555968928ab6",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -226,7 +234,7 @@
   "mid-county-basketball--midcountyy-75317446-20260709T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260709T173000",
-    "fingerprint": "6f8a077358084ab82ab0c0dafe97c84f087398ee02d207df63f0a88d3c567854",
+    "fingerprint": "20f170535599cfdb0fd64a6c9370abcdc2590124f683d14c9f5032c430285cd1",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -234,7 +242,7 @@
   "mid-county-basketball--midcountyy-75317447-20260716T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260716T173000",
-    "fingerprint": "f36d9c366e30f3274ea1fa1d68b4959fa9fa5b25b61297fb014da3c72dccef33",
+    "fingerprint": "ef34afbb30c32799ab726e823d410a100a925ba0dc005d8036b4b2897f1b8174",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -242,7 +250,7 @@
   "mid-county-basketball--midcountyy-75317448-20260723T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260723T173000",
-    "fingerprint": "23e081177b54a762552bce9382288a1665df4f994732fafea95c8f4ed7416096",
+    "fingerprint": "2c1905f6463d437376ed83435463af1d4d4da90c7c477034b4d89319c3afe27b",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
@@ -250,377 +258,329 @@
   "mid-county-basketball--midcountyy-75317449-20260730T173000@quickscores.com": {
     "dtend": "",
     "dtstart": "20260730T173000",
-    "fingerprint": "635da7a0f0b57bede77d22420c00274fea536f7acd7ffbda044f2a2a77520f8b",
+    "fingerprint": "75e3f070800fe15f3105a19e511b160e4a45c5bf665ba0fa159b43f545051c4c",
     "location": "Kirkwood - South Court",
     "source": "mid-county-basketball",
     "summary": "Mid County Basketball - Practice"
   },
-  "playmetrics-soccer--Game_3918337": {
-    "dtend": "20260220T200000",
-    "dtstart": "20260220T190000",
-    "fingerprint": "b7d95badf10886d57aef2dfab096fa6c8f50945f88891c2fc3d293b134587246",
+  "mustang-dream-team-volleyball-2026--14c961d8-95b7-4d65-87e7-9295edef54da": {
+    "dtend": "20260925T001500Z",
+    "dtstart": "20260924T231500Z",
+    "fingerprint": "737a8ce8d6078939731be01306d0cd48b1e71e22c2faf2d064322968df78d2c0",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--22df1c0f-cc79-4be4-900b-de3c53bb2e82": {
+    "dtend": "20260828T001500Z",
+    "dtstart": "20260827T231500Z",
+    "fingerprint": "770a3e5c8564e5b3eb8bda5f0dbd4e8d708bbe465c1d0c140eb8576426c8fe48",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--37b76c04-1dbf-47c7-bc9c-155bfd9c8b69": {
+    "dtend": "20260911T001500Z",
+    "dtstart": "20260910T231500Z",
+    "fingerprint": "af32a78e2448cdaca3e3a7b38221b28f88bd9d206f028694ef2505feb2b19d17",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--619e2a17-19b1-48e5-b604-be0e6e2e6a3c": {
+    "dtend": "20261023T001500Z",
+    "dtstart": "20261022T231500Z",
+    "fingerprint": "b4ec397a8d20a51a36b6b3b3640fd2db12927fc1dd619d66192cb195745cf514",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--7198c72d-2ac1-460f-b672-5697b04e366a": {
+    "dtend": "20261106T011500Z",
+    "dtstart": "20261106T001500Z",
+    "fingerprint": "93eefa4b21a51c51ba82bd940ccc1fcc837256ac10a78c4175b219c1de8439af",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--8db3929c-a42e-43ba-8fe6-ff6cfe3eebcf": {
+    "dtend": "20260904T001500Z",
+    "dtstart": "20260903T231500Z",
+    "fingerprint": "89eeae307c468a5ee6811c13ca57e2f742adfeafc77e9bcc677743983eb27836",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--8e1c0a77-b78d-4a66-9a26-cbbc04ec3d49": {
+    "dtend": "20260918T001500Z",
+    "dtstart": "20260917T231500Z",
+    "fingerprint": "2ad7c87c05268a5de79bf4c6e89685dece704112bc7240cf08b5b00bd9d5c853",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--8f5bb94d-b0a6-4af5-bbf8-45b5185398b1": {
+    "dtend": "20261030T001500Z",
+    "dtstart": "20261029T231500Z",
+    "fingerprint": "f293ca394016bea0cd52380422412e3d10ed37c03ca54e75c5f66e6ea6b3e112",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--a020d4c6-ca23-42cf-b910-edea714dd297": {
+    "dtend": "20261016T001500Z",
+    "dtstart": "20261015T231500Z",
+    "fingerprint": "c3506d1a32306a8fecbb18238195da93efe331ffa3c37f41da777bbe95b0eca1",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--c86c1f35-2de6-4745-969d-49981b161c6c": {
+    "dtend": "20261002T001500Z",
+    "dtstart": "20261001T231500Z",
+    "fingerprint": "d54e0493bbb0ff9faebeddd0cc2fbb241bd97abd7ca0efb9a3ca2d51b346c2d8",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "mustang-dream-team-volleyball-2026--f498100a-bdab-44bc-a7b8-f9f7f8de1eb4": {
+    "dtend": "20261009T001500Z",
+    "dtstart": "20261008T231500Z",
+    "fingerprint": "eb002071e40d97f48a6a27dad8de2f83b28983867f4e32cecdb6d71f806449cb",
+    "location": "Parkway South Middle School\\nManchester\\, MO\\, United States",
+    "source": "mustang-dream-team-volleyball-2026",
+    "summary": "Mustang Dream Team - Volleyball 2026 - Mustang Dream Team Practice"
+  },
+  "playmetrics-soccer--Game_4556537": {
+    "dtend": "20260808T142000",
+    "dtstart": "20260808T133000",
+    "fingerprint": "8064c1ba7e33a4b6cf5fdda459e879308c0a366c5de324b2a231d406633d159b",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918500": {
-    "dtend": "20260227T210000",
-    "dtstart": "20260227T200000",
-    "fingerprint": "6f984148e6cbfbfc6f8cb2cb964690a7755b43baf346f6f2f70c1ab0c711d0be",
+  "playmetrics-soccer--Game_4556547": {
+    "dtend": "20260808T155000",
+    "dtstart": "20260808T150000",
+    "fingerprint": "9c4193c1c2ded1a483cf906c9c12bbe9dd10ede1341a2a6ea7ab517f5907e323",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918687": {
-    "dtend": "20260320T210000",
-    "dtstart": "20260320T200000",
-    "fingerprint": "938da87ff3f7c77a97a4aba092413f0f7b87ec200046ae48d0e30f41a098c801",
+  "playmetrics-soccer--Game_4618558": {
+    "dtend": "20260821T183000",
+    "dtstart": "20260821T173000",
+    "fingerprint": "50b01554e0f8d311513ef765a6b2a44dc5e7b5ba3b020b460986a619df2b850e",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918781": {
-    "dtend": "20260404T120000",
-    "dtstart": "20260404T110000",
-    "fingerprint": "364e2db40a613f0adccb70f10395345008f2e86ab6e8ed7bbb85101b2b804ebd",
+  "playmetrics-soccer--Game_4618708": {
+    "dtend": "20260911T213000",
+    "dtstart": "20260911T203000",
+    "fingerprint": "d657ef9766c8dad5e1542dcb9c17df00bb1a8812e708fc9e19096603a182efc5",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918813": {
-    "dtend": "20260410T200000",
-    "dtstart": "20260410T190000",
-    "fingerprint": "fb040984f72676c86df40293c418f436108a3bc090f0838a8e1546037fe65379",
+  "playmetrics-soccer--Game_4618738": {
+    "dtend": "20260918T193000",
+    "dtstart": "20260918T183000",
+    "fingerprint": "1f9a170b5d03d8f7cd9d0d0577eddb007a40d16dca767754ffbbff4bb9057bb3",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918861": {
-    "dtend": "20260424T203000",
-    "dtstart": "20260424T193000",
-    "fingerprint": "016cda3a2c1b645ed25256315a09998b91c9ebfaf4e6c1e14a592396a5f6a3ca",
+  "playmetrics-soccer--Game_4618793": {
+    "dtend": "20260925T200000",
+    "dtstart": "20260925T190000",
+    "fingerprint": "6741fb0ed35251499c3db9a0b563057da18a5c1751598cd2b288fa0a0b7596b6",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918911": {
-    "dtend": "20260501T200000",
-    "dtstart": "20260501T190000",
-    "fingerprint": "8b3422dd8efb7e7244c254d112d6781ef87c98e26f5507b29beae8c9dcf193cd",
+  "playmetrics-soccer--Game_4618874": {
+    "dtend": "20261016T183000",
+    "dtstart": "20261016T173000",
+    "fingerprint": "3d970aad919f30b01ca4aada92b65e811387c469197814ce8fc5f477be786c16",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918957": {
-    "dtend": "20260506T183000",
-    "dtstart": "20260506T173000",
-    "fingerprint": "fec0e7f7eed60d28b6d5ded8d5d56c9df65899d5664b393b476973328a42a518",
+  "playmetrics-soccer--Game_4619001": {
+    "dtend": "20261030T210000",
+    "dtstart": "20261030T200000",
+    "fingerprint": "681c87a70707332bbe33af7827241157c370283659dccd5deca9754a73edf7a6",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3918993": {
-    "dtend": "20260508T203000",
-    "dtstart": "20260508T193000",
-    "fingerprint": "cb5f2588c8913c75b186288a71e898fd4b10aad71fbcefd2af0814afb6aff5ad",
+  "playmetrics-soccer--Game_4619033": {
+    "dtend": "20261106T200000",
+    "dtstart": "20261106T190000",
+    "fingerprint": "61f6ed01b5c39a3888a8013ef09692471b47c8bfe01feb56dc0362d7860fd547",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_3988674": {
-    "dtend": "20260403T142000",
-    "dtstart": "20260403T133000",
-    "fingerprint": "cda9cd175c407ab03360d0238d7acdc30a9d6bcfc28e6c799cd396b11bce16a8",
+  "playmetrics-soccer--Game_4619113": {
+    "dtend": "20261113T203000",
+    "dtstart": "20261113T193000",
+    "fingerprint": "fd0262c2f4bcac0f92889c1bda39b943a2dd6b913ee85c57b45ea637623248c3",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--Game_4234643": {
-    "dtend": "20260403T160000",
-    "dtstart": "20260403T150000",
-    "fingerprint": "f8116f4af18e531a22ceee55e2935936d373f92593037731801a104fae87271b",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+  "playmetrics-soccer--GenericCalendarEvent_2672339": {
+    "dtend": "20261002",
+    "dtstart": "20261002",
+    "fingerprint": "51e7828339ecfdd656845e5eb91faaddf1f63453c2cb7dee532005be677d1e86",
+    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Game - SG"
+    "summary": "West Ham Carshield Surf Cup - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2193213": {
-    "dtend": "20260403T193000",
-    "dtstart": "20260403T100000",
-    "fingerprint": "93932a3eb31a9ee215eeb7659e71ae2ba99c42761eba2180de035182a8452ddf",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+  "playmetrics-soccer--GenericCalendarEvent_2672340": {
+    "dtend": "20261003",
+    "dtstart": "20261003",
+    "fingerprint": "4cb4382f4d1ef7fc9b16373761e7e911a676ce612de243a1bec5b794c019631c",
+    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Champions Cup - SG"
+    "summary": "West Ham Carshield Surf Cup - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2305173": {
-    "dtend": "20260307T101500",
-    "dtstart": "20260307T090000",
-    "fingerprint": "fcc00f1053a21fb1354595a06f8ec9cd336f77ad61f7ccf4704a77c85562d27b",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+  "playmetrics-soccer--GenericCalendarEvent_2672341": {
+    "dtend": "20261004",
+    "dtstart": "20261004",
+    "fingerprint": "8c190ca442a027c7e77dd8b236a5e0d6855d336a5a5015739b5127c280d7158d",
+    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
+    "summary": "West Ham Carshield Surf Cup - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2305185": {
-    "dtend": "20260321T101500",
-    "dtstart": "20260321T090000",
-    "fingerprint": "88814e3add0d3ec8aef30996f47ed216dc4e0f362d1faa9708fc74548ca6e572",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+  "playmetrics-soccer--GenericCalendarEvent_2715402": {
+    "dtend": "20261128T193000",
+    "dtstart": "20261128T100000",
+    "fingerprint": "843ca1cf1d7706eed25d6191b31704b976aa3c119296566c76c2eb6f10ac15ca",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
+    "summary": "West Ham Turkey Bowl - 5v5 Freeplay Event - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2305189": {
-    "dtend": "20260328T221500",
-    "dtstart": "20260328T090000",
-    "fingerprint": "25b7c8984256122d670ce6f099573a2fc1e9dc57ec2addaa7dc9410af32e09b8",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
-  },
-  "playmetrics-soccer--GenericCalendarEvent_2305204": {
-    "dtend": "20260425T101500",
-    "dtstart": "20260425T090000",
-    "fingerprint": "f1b9448c9ced70dd69ad37baea749b8cc7997a79c38952be8ccf33d2b1c6f03a",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
-  },
-  "playmetrics-soccer--GenericCalendarEvent_2305210": {
-    "dtend": "20260502T101500",
-    "dtstart": "20260502T090000",
-    "fingerprint": "4ca58ca0ed00cc494801a769d131e3ab00da5e59aa2d9659bfe49efe4037444d",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
-  },
-  "playmetrics-soccer--GenericCalendarEvent_2305213": {
-    "dtend": "20260509T101500",
-    "dtstart": "20260509T090000",
-    "fingerprint": "da8de87e91a13373d77433d7a1f6600b559cd6a7d057e31578efa5c6eff56499",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Tech Training - SG"
-  },
-  "playmetrics-soccer--GenericCalendarEvent_2416437": {
-    "dtend": "20260404T150000",
-    "dtstart": "20260404T140000",
-    "fingerprint": "f2ba88d689de79144b88d90f4a5c10ca64eafb9da2e8cd507f40dbedb21d2920",
-    "location": "2 Woodlands Pkwy\\, Cottleville\\, MO 63376\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - BONUS TECH TRAINING & FREE PLAY - AT THE WOODS (St. Charles)"
-  },
-  "playmetrics-soccer--Practice_10024399": {
-    "dtend": "20260211T183000",
-    "dtstart": "20260211T170000",
-    "fingerprint": "ca999afcdbd0516ff4451df0a68018ad8727674f203aa512441907d4b2030f16",
+  "playmetrics-soccer--Practice_12167209": {
+    "dtend": "20260812T183000",
+    "dtstart": "20260812T170000",
+    "fingerprint": "d68ed7037069d73d1998fdda6c7bf3756f5d47e6cf653419c3bc35a215627d75",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024400": {
-    "dtend": "20260218T183000",
-    "dtstart": "20260218T170000",
-    "fingerprint": "3349f0b14d8006507d3b141adc704a35e7c6b0912b6f2640dad72325d3a62334",
+  "playmetrics-soccer--Practice_12167210": {
+    "dtend": "20260819T183000",
+    "dtstart": "20260819T170000",
+    "fingerprint": "810c3dd54617965dca6ef6dec6261b50f60e8ba4b5eeedb81f9bad7c633c5001",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024401": {
-    "dtend": "20260225T183000",
-    "dtstart": "20260225T170000",
-    "fingerprint": "c6d2df93bfd1aa3908358166b10fd409c87462dc79e342b6db84dba505b7e82e",
+  "playmetrics-soccer--Practice_12167211": {
+    "dtend": "20260826T183000",
+    "dtstart": "20260826T170000",
+    "fingerprint": "a4227f02aeb89bc3d72c60d86c33f9649144aaa68fe851cef888255612e79bc9",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024402": {
-    "dtend": "20260304T183000",
-    "dtstart": "20260304T170000",
-    "fingerprint": "09c519e95127b76dd2765386875a3afeb885a52292675d3ba972e350505ae3ef",
+  "playmetrics-soccer--Practice_12167212": {
+    "dtend": "20260902T183000",
+    "dtstart": "20260902T170000",
+    "fingerprint": "7a95c6b76fc975283f2eb41f8c80b5c601773eb79fe73ee286db78357698ffdf",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024403": {
-    "dtend": "20260311T183000",
-    "dtstart": "20260311T170000",
-    "fingerprint": "89028d4b36de019f6fddfa8f004483222073e48e8549a3293a698502369c46e4",
+  "playmetrics-soccer--Practice_12167371": {
+    "dtend": "20260909T183000",
+    "dtstart": "20260909T170000",
+    "fingerprint": "684b0bcffbb283969f54f32800da331ef68dbd7c6841a1ce75cc5df32a8fbe69",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024404": {
-    "dtend": "20260318T183000",
-    "dtstart": "20260318T170000",
-    "fingerprint": "7fd044d04b8310fe0259c673a4d2a2c512afab623678559f63baf31acec913c9",
+  "playmetrics-soccer--Practice_12167374": {
+    "dtend": "20260916T183000",
+    "dtstart": "20260916T170000",
+    "fingerprint": "27ab4397b03d0ad647e67cc9b3136e39ed4ce9bce93c85e41f449f1ee1f2adb6",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024405": {
-    "dtend": "20260325T183000",
-    "dtstart": "20260325T170000",
-    "fingerprint": "7ac64d5422e307feff0eeab9810c864c767c214ce20d4eac12576a6cfd1db5f6",
+  "playmetrics-soccer--Practice_12167377": {
+    "dtend": "20260923T183000",
+    "dtstart": "20260923T170000",
+    "fingerprint": "79b5255ca4b6ba8d393b81c0f5b5a35ff7e9bf88d305e4f56cdc551f9cf02840",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024406": {
-    "dtend": "20260401T183000",
-    "dtstart": "20260401T170000",
-    "fingerprint": "90d6d949c19f1362de48a54dd65c52e81d30a804b55d97c2016dce706ee0f061",
+  "playmetrics-soccer--Practice_12167380": {
+    "dtend": "20260930T183000",
+    "dtstart": "20260930T170000",
+    "fingerprint": "9f478ba832119c2b4571bc0e54b1542c9008f3cb1a9f0567b7e44299e951abd2",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024407": {
-    "dtend": "20260408T183000",
-    "dtstart": "20260408T170000",
-    "fingerprint": "f86bfacbb9fdae667452ad0b9028917026155bcc727b2bc7cc5d4f9b3d4ec4d3",
+  "playmetrics-soccer--Practice_12167503": {
+    "dtend": "20261007T183000",
+    "dtstart": "20261007T170000",
+    "fingerprint": "d003778e3a91208cea0c812db7b1a23c491910913ec6b73aebc432bfc2605479",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024408": {
-    "dtend": "20260415T183000",
-    "dtstart": "20260415T170000",
-    "fingerprint": "2e8aef86ca354487bea50782076ae554d99e8cbb30976b009ef7bd9c78b5c72e",
+  "playmetrics-soccer--Practice_12167504": {
+    "dtend": "20261014T183000",
+    "dtstart": "20261014T170000",
+    "fingerprint": "3821b4ac852141cf989573c788419519e8ac6c70416ae1267673f98464784b4d",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024409": {
-    "dtend": "20260422T183000",
-    "dtstart": "20260422T170000",
-    "fingerprint": "0a8a129e151623c9a1a6be52849170e0dc93938ad15e2ab59d70e437a8dae14c",
+  "playmetrics-soccer--Practice_12167505": {
+    "dtend": "20261021T183000",
+    "dtstart": "20261021T170000",
+    "fingerprint": "45d8a04fc1fc208b09dcdfff17cb13f8af067bc7e7bbc552509592c04793056e",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024410": {
-    "dtend": "20260429T183000",
-    "dtstart": "20260429T170000",
-    "fingerprint": "30f69fc923587c5dff54683d8ddaff79d311e495ccbecf1484a88ad39a1b8780",
+  "playmetrics-soccer--Practice_12167506": {
+    "dtend": "20261028T183000",
+    "dtstart": "20261028T170000",
+    "fingerprint": "9d3ad78c5615b909d5a99a3ac12a76777f77d2c2cc10fb5e95f04a7af7d34d71",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10024411": {
-    "dtend": "20260506T183000",
-    "dtstart": "20260506T170000",
-    "fingerprint": "279df79c59a9ee2dd76b7535a7a874d133462acc5697bfadc19674d9396cf9b3",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
-  },
-  "playmetrics-soccer--Practice_10024412": {
-    "dtend": "20260513T183000",
-    "dtstart": "20260513T170000",
-    "fingerprint": "71f990af27afc081ffac940239122beb50f8f5975d9136009b598bf02ae8ed48",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
-  },
-  "playmetrics-soccer--Practice_10024413": {
-    "dtend": "20260520T183000",
-    "dtstart": "20260520T170000",
-    "fingerprint": "150f1889c4cabc757ea7da744be182fe8c0f639d2e97fcdfaab580bd0f5d300c",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
-  },
-  "playmetrics-soccer--Practice_10186510": {
-    "dtend": "20260309T183000",
-    "dtstart": "20260309T170000",
-    "fingerprint": "2f1254c87ef64d8f1c3f255036855b5fce6b6f017692fac957e0d069e1c5f23f",
+  "playmetrics-soccer--Practice_12167618": {
+    "dtend": "20261104T183000",
+    "dtstart": "20261104T170000",
+    "fingerprint": "42a7994f7a85a27bcc98dd36878354176c742d875cbee7bb0809a80810746c3e",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10186556": {
-    "dtend": "20260316T183000",
-    "dtstart": "20260316T170000",
-    "fingerprint": "0ff05d7dd48c260317479a3633cc21da9f11178122a78117a356938880c5f91c",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
-  },
-  "playmetrics-soccer--Practice_10186557": {
-    "dtend": "20260323T183000",
-    "dtstart": "20260323T170000",
-    "fingerprint": "37e5bd1fbf6a4ee3742175c2eee248fc0a7bac23baf40c6be4310c42bd2a7c74",
+  "playmetrics-soccer--Practice_12167619": {
+    "dtend": "20261111T183000",
+    "dtstart": "20261111T170000",
+    "fingerprint": "8713a4fd04ff59d8574c996581323f9c6d5afba403bd4f76c458f5b72bc181c1",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
   },
-  "playmetrics-soccer--Practice_10186558": {
-    "dtend": "20260330T183000",
-    "dtstart": "20260330T170000",
-    "fingerprint": "01909ab26a6a701bb4a5633cdf8d48a37049a24e613165c2c2fb6e25913c7f8f",
+  "playmetrics-soccer--Practice_12167620": {
+    "dtend": "20261118T183000",
+    "dtstart": "20261118T170000",
+    "fingerprint": "da9cef42b70faa530594e37b610d12ceaff44f7087f4ef54800e9ef491622e8d",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
-  },
-  "playmetrics-soccer--Practice_10186559": {
-    "dtend": "20260406T183000",
-    "dtstart": "20260406T170000",
-    "fingerprint": "142b3b49a12297677be5c2e15848fdc4caf160576f4d4c76ebd7d0bdb93fcba2",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Practice - SG"
-  },
-  "playmetrics-soccer--Practice_10186662": {
-    "dtend": "20260413T183000",
-    "dtstart": "20260413T170000",
-    "fingerprint": "23a2cb69b7b2f878008ef7a32c7e8225a0040babfe906c41102d33dbbbe720e5",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Practice - SG"
-  },
-  "playmetrics-soccer--Practice_10186663": {
-    "dtend": "20260420T183000",
-    "dtstart": "20260420T170000",
-    "fingerprint": "650fbeeb9c685e9b6ff2acd39608f072311780980dc3da0e18a8743e4cc3f4e6",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Practice - SG"
-  },
-  "playmetrics-soccer--Practice_10186664": {
-    "dtend": "20260427T183000",
-    "dtstart": "20260427T170000",
-    "fingerprint": "285effb7cffac3f061ee6f6994da81d2066ecdf404bad9f59319d3d848398cc5",
-    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
-    "source": "playmetrics-soccer",
-    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
-  },
-  "vetta-soccer--1730394.600565@vetta": {
-    "dtend": "20260711T202000Z",
-    "dtstart": "20260711T193000Z",
-    "fingerprint": "5beeb57515efcea5ff23361c87759b49dcd2d5c4ff08d1352ee1da1eb5be576b",
-    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
-    "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
-  },
-  "vetta-soccer--1730403.600565@vetta": {
-    "dtend": "20260718T211000Z",
-    "dtstart": "20260718T202000Z",
-    "fingerprint": "10edff3d22820d7e39892ef9bcca29580ccf4a5a767958485f6c4d48327e20c1",
-    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
-    "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 Pink Lionesses (Klapp) M/D/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
-  },
-  "vetta-soccer--1730570.600565@vetta": {
-    "dtend": "20260628T195000Z",
-    "dtstart": "20260628T190000Z",
-    "fingerprint": "66b4ac9071d264a9c41bb967fa89fb16517d09284521fdcbc96125ccff66c0f7",
-    "location": "Concord (South County) on Concord Field 3 12320 Old Tesson Rd  St. Louis MO 63128",
-    "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 Velociraptors (Ahrenbach) C/M/D 6 W 3-1 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
-  },
-  "vetta-soccer--1730647.600565@vetta": {
-    "dtend": "20260725T204500Z",
-    "dtstart": "20260725T200000Z",
-    "fingerprint": "17ab8c3242695296b279f05fb006215436d5a3de780c08f3b42011c1d2588867",
-    "location": "Soccerdome (Webster Groves) on Webster Groves Adult Field 220 East Avenue  St Louis MO 63119",
-    "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 2017 (Cracchiolo) D/M/C 6 vs G3 2017 Rainbow Unicorns (Cunningham) M/C/D 4"
   }
 }
