@@ -1,15 +1,15 @@
 import hashlib
 import json
 from pathlib import Path
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 
 
 FEEDS = [
     {
         "name": "Scott Gallagher Soccer",
         "url": (
-            "https://calendar.playmetrics.com/calendars/c225/t437623/p0/"
-            "t6B69E936/f/calendar.ics"
+            "https://calendar.playmetrics.com/calendars/c225/t539099/p0/"
+            "t60D2CBE8/f/calendar.ics"
         ),
         "source_id": "playmetrics-soccer",
     },
@@ -38,6 +38,24 @@ FEEDS = [
             "?OrgDir=midcountyy&TeamID=15059605&TimeZone=CDT"
         ),
         "source_id": "mid-county-basketball",
+    },
+    {
+        "name": "CYC Soccer - Fall 2026",
+        "url": (
+            "webcal://www.teamsideline.com/Common/Calendar_ical.aspx"
+            "?d=vseBS5X6j9rHlQ%2bsuRfgXWjT98vRaJGThzuqRoy47gVTahpLrSwHzRmL1TxzySFM"
+        ),
+        "source_id": "cyc-soccer-fall-2026",
+    },
+    {
+        "name": "Mustang Dream Team - Volleyball 2026",
+        "url": (
+            "webcal://api.team-manager.gc.com/ics-calendar-documents/user/"
+            "32c4eb6a-f3da-4fc5-8f25-1813a7f62ca0.ics"
+            "?teamId=40beef76-f34d-4f9f-8585-641cbea35530"
+            "&token=7c4331886111e02305f5a17b8007f05b0725d5c7ae434201ca105d60411cb032"
+        ),
+        "source_id": "mustang-dream-team-volleyball-2026",
     },
 ]
 
@@ -367,7 +385,16 @@ def is_legacy_playmetrics_event(block: str) -> bool:
 
 
 def fetch_source(url: str) -> str:
-    with urlopen(url) as response:
+    if url.startswith("webcal://"):
+        url = "https://" + url[len("webcal://") :]
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Codex Calendar Sync)",
+            "Accept": "text/calendar,text/plain,application/octet-stream,*/*",
+        },
+    )
+    with urlopen(request) as response:
         return response.read().decode("utf-8", errors="replace")
 
 
@@ -376,17 +403,10 @@ def main() -> None:
     current_text = calendar_path.read_text(encoding="utf-8", errors="replace")
     header, current_events, footer = split_events(current_text)
 
-    imported_source_ids = {feed["source_id"] for feed in FEEDS}
     # This published Git calendar is now sports-feed only. Older manual/family
     # events live in Google Calendar or Dashboard Notes and should not persist
     # here between feed refreshes.
     kept_events: list[str] = []
-    existing_events_by_source = {
-        feed["source_id"]: [
-            event for event in current_events if event_has_source(event, feed["source_id"])
-        ]
-        for feed in FEEDS
-    }
 
     merged_events = kept_events[:]
     summary_lines: list[str] = []
@@ -396,25 +416,9 @@ def main() -> None:
             source_text = fetch_source(feed["url"])
             _, source_events, _ = split_events(source_text)
         except Exception as exc:
-            preserved = existing_events_by_source[feed["source_id"]]
-            if preserved:
-                merged_events.extend(preserved)
-                summary_lines.append(
-                    f"{feed['name']}: fetch failed ({exc}); preserved {len(preserved)} existing events"
-                )
-                continue
-
             summary_lines.append(
-                f"{feed['name']}: fetch failed ({exc}); no existing events to preserve"
+                f"{feed['name']}: fetch failed ({exc}); skipped feed and removed prior events"
             )
-            continue
-
-        if not source_events and existing_events_by_source[feed["source_id"]]:
-            tagged = existing_events_by_source[feed["source_id"]]
-            summary_lines.append(
-                f"{feed['name']}: feed empty; preserved {len(tagged)} existing events"
-            )
-            merged_events.extend(tagged)
             continue
 
         tagged = [
