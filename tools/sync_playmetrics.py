@@ -23,15 +23,6 @@ FEEDS = [
         "source_id": "vetta-soccer",
     },
     {
-        "name": "Little Dribblers Basketball",
-        "url": (
-            "https://calendar.google.com/calendar/ical/"
-            "u5ilugnl0g96040h0ar5au92eh2v0c69%40import.calendar.google.com/"
-            "public/basic.ics"
-        ),
-        "source_id": "little-dribblers-basketball",
-    },
-    {
         "name": "Mid County Basketball",
         "url": (
             "https://www.quickscores.com/Orgs/DownloadICAL.php"
