@@ -457,23 +457,23 @@ SEQUENCE:1786738104
 DTSTART;TZID=America/Chicago:20261128T100000
 DTEND;TZID=America/Chicago:20261128T193000
 SUMMARY:West Ham Turkey Bowl - 5v5 Freeplay Event - SG
-DESCRIPTION:It’s an SLSG tradition to wrap up the Fall Season and Kick Off 
+DESCRIPTION:It’s an SLSG tradition to wrap up the Fall Season and Kick Off
  the Upper 90 Outreach Program with the TURKEY BOWL!	<br>	<br>The TURKEY BO
  WL is a one-day\, 5v5 intra-club freeplay event designed to bring our play
  ers together—uniting new teammates\, reuniting old friends\, and celebrate
   our UPPER 90 community outreach program.	<br><br>8/8 - All teams will pla
  y 2 games in a 3 hour window between 10 AM and 7:30 PM.<br>	<br>Key Detail
  s &amp\; Expectations:	<br>The Turkey Bowl is a celebration event of our U
- pper 90 Community Outreach Program\, which develops players off the field 
+ pper 90 Community Outreach Program\, which develops players off the field
  and positively impacts our community. We will be collecting coats\, food\,
-  and used soccer gear. We will raise funds for our Holiday Adopt A Family 
+  and used soccer gear. We will raise funds for our Holiday Adopt A Family
  Program and the Southside Brian Corona Scholarship. 	<br>	<br>Let the Game
-  Be the Teacher: Coaches and team leaders are asked to step back\, handle 
+  Be the Teacher: Coaches and team leaders are asked to step back\, handle
  substitutions\, and let the players coach themselves on the field. 	<br>	<
  br>All SLSG U6 to U12 Club Level Teams are automatically in the TURKEY BOW
  L and gall games will be played.  If teams need players\, fill out the Tea
- m Leaders &amp\; Guest Player form and tell us how many you need\, and we 
- will find you players - https://bit.ly/TURKEYbowl-26-NEEDguestPLAYERSform	
+ m Leaders &amp\; Guest Player form and tell us how many you need\, and we
+ will find you players - https://bit.ly/TURKEYbowl-26-NEEDguestPLAYERSform
  <br>	<br>If you are interested in guest playing for a 2nd team in the even
  t\, please fill out this form and we will see if we can match up to a team
   needing a player.  I want to be a guest player link: https://bit.ly/TURKE
@@ -494,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317441-20260604T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260604T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -513,7 +513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317442-20260611T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260611T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -532,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317443-20260618T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260618T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -551,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317444-20260625T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260625T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -570,7 +570,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317445-20260702T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260702T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -589,7 +589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317446-20260709T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260709T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -608,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317447-20260716T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260716T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -627,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317448-20260723T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260723T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -646,7 +646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mid-county-basketball--midcountyy-75317449-20260730T173000@quickscores.
  com
-DTSTAMP:20260820T071800Z
+DTSTAMP:20260820T071900Z
 DTSTART;TZID=America/Chicago:20260730T173000
 DURATION:PT1H0M0S
 SUMMARY:Mid County Basketball - Practice
@@ -669,7 +669,7 @@ UID:cyc-soccer-fall-2026--1787395.teamsideline.com
 DESCRIPTION: Staff Notes:
 DTSTART:20260818T231000Z
 DTEND:20260819T001000Z
-DTSTAMP:20260820T115425Z
+DTSTAMP:20260820T121911Z
 CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
@@ -682,7 +682,7 @@ UID:cyc-soccer-fall-2026---34683686.teamsideline.com
 DESCRIPTION: Staff Notes:
 DTSTART:20260822T190000Z
 DTEND:20260822T200000Z
-DTSTAMP:20260820T115425Z
+DTSTAMP:20260820T121911Z
 CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
@@ -695,7 +695,7 @@ UID:cyc-soccer-fall-2026---34683689.teamsideline.com
 DESCRIPTION: Staff Notes:
 DTSTART:20260829T170000Z
 DTEND:20260829T180000Z
-DTSTAMP:20260820T115425Z
+DTSTAMP:20260820T121911Z
 CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
