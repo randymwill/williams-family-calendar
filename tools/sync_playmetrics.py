@@ -392,8 +392,23 @@ def main() -> None:
     summary_lines: list[str] = []
 
     for feed in FEEDS:
-        source_text = fetch_source(feed["url"])
-        _, source_events, _ = split_events(source_text)
+        try:
+            source_text = fetch_source(feed["url"])
+            _, source_events, _ = split_events(source_text)
+        except Exception as exc:
+            preserved = existing_events_by_source[feed["source_id"]]
+            if preserved:
+                merged_events.extend(preserved)
+                summary_lines.append(
+                    f"{feed['name']}: fetch failed ({exc}); preserved {len(preserved)} existing events"
+                )
+                continue
+
+            summary_lines.append(
+                f"{feed['name']}: fetch failed ({exc}); no existing events to preserve"
+            )
+            continue
+
         if not source_events and existing_events_by_source[feed["source_id"]]:
             tagged = existing_events_by_source[feed["source_id"]]
             summary_lines.append(
