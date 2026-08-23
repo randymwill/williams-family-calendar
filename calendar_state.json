@@ -478,5 +478,69 @@
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843124": {
+    "dtend": "20260914T183000",
+    "dtstart": "20260914T170000",
+    "fingerprint": "51e6bc19910e76807a6b73993b0aac59d4cbc8cc9113b0c666bf5e977474ff06",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843125": {
+    "dtend": "20260921T183000",
+    "dtstart": "20260921T170000",
+    "fingerprint": "9e7b5866174dfe8fd5cde3fbd6868587597fe51212fb85217bf253d7da969803",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843126": {
+    "dtend": "20260928T183000",
+    "dtstart": "20260928T170000",
+    "fingerprint": "f1430278d0211c09f5d418f08188d8da8b0fb558be2b70470e45169de2c26551",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843127": {
+    "dtend": "20261005T183000",
+    "dtstart": "20261005T170000",
+    "fingerprint": "9bd9527834c17893cf17e865730114034d0c93f73e7a23c227d173ce5be465ad",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843186": {
+    "dtend": "20261012T183000",
+    "dtstart": "20261012T170000",
+    "fingerprint": "e41d5ab577bd7b5feae601925e44e8e7dbc8d607f2552bfd06dc43d7e3ef3094",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843187": {
+    "dtend": "20261019T183000",
+    "dtstart": "20261019T170000",
+    "fingerprint": "9b33bbe8ca0359837ff3f85895bbbfaf337c092b9478068e03d96f922fc9f137",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843188": {
+    "dtend": "20261026T183000",
+    "dtstart": "20261026T170000",
+    "fingerprint": "2b0a50b2e48314b88895abef174d5587d27dfd940e0214b3a17e53fcd3b28096",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
+  },
+  "playmetrics-soccer--Practice_12843230": {
+    "dtend": "20261102T183000",
+    "dtstart": "20261102T170000",
+    "fingerprint": "bb1cd9ee5bd74a9928c011b80b422de2a284ca2d2343c78c86f5d9b72bb330e8",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Practice - SG"
   }
 }
