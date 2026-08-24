@@ -359,6 +359,14 @@
     "source": "playmetrics-soccer",
     "summary": "West Ham Turkey Bowl - 5v5 Freeplay Event - SG"
   },
+  "playmetrics-soccer--GenericCalendarEvent_2879588": {
+    "dtend": "20260826T173000",
+    "dtstart": "20260826T171500",
+    "fingerprint": "6d43e85b0cb8bc5eea0b510aba190a1751d4c78d36eb2b4c69bc0d84212c05d4",
+    "location": "1 Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Team Photos - SG"
+  },
   "playmetrics-soccer--Practice_12167209": {
     "dtend": "20260812T183000",
     "dtstart": "20260812T170000",
