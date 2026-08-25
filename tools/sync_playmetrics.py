@@ -4,57 +4,51 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 
 
-FEEDS = [
-    {
-        "name": "Scott Gallagher Soccer",
-        "url": (
-            "https://calendar.playmetrics.com/calendars/c225/t539099/p0/"
-            "t60D2CBE8/f/calendar.ics"
-        ),
-        "source_id": "playmetrics-soccer",
-    },
-    {
-        "name": "Vetta Soccer",
-        "url": (
-            "https://calendar.google.com/calendar/ical/"
-            "b40olq2kjdejp7utk1hqavko3uk0or52%40import.calendar.google.com/"
-            "public/basic.ics"
-        ),
-        "source_id": "vetta-soccer",
-    },
-    {
-        "name": "CYC Soccer - Fall 2026",
-        "url": (
-            "webcal://www.teamsideline.com/Common/Calendar_ical.aspx"
-            "?d=vseBS5X6j9rHlQ%2bsuRfgXWjT98vRaJGThzuqRoy47gVTahpLrSwHzRmL1TxzySFM"
-        ),
-        "source_id": "cyc-soccer-fall-2026",
-    },
-    {
-        "name": "Knights Basketball",
-        "url": (
-            "webcal://goteambot.com/user/ical/"
-            "526679f8-43a8-4921-978d-1864c25e6cc3.ics"
-        ),
-        "source_id": "knights-basketball",
-    },
-    {
-        "name": "Mustang Dream Team - Volleyball 2026",
-        "url": (
-            "webcal://api.team-manager.gc.com/ics-calendar-documents/user/"
-            "32c4eb6a-f3da-4fc5-8f25-1813a7f62ca0.ics"
-            "?teamId=40beef76-f34d-4f9f-8585-641cbea35530"
-            "&token=7c4331886111e02305f5a17b8007f05b0725d5c7ae434201ca105d60411cb032"
-        ),
-        "source_id": "mustang-dream-team-volleyball-2026",
-    },
-]
-
 SOURCE_PREFIX = "X-CODEX-SOURCE:"
 LEGACY_PLAYMETRICS_URL = "URL:https://playmetrics.com"
 WEST_HAM_PREFIX = "MO Girls 2017/2018 West Ham - "
+REPO_ROOT = Path(__file__).resolve().parent.parent
+FEEDS_PATH = REPO_ROOT / "feeds.json"
 STATE_PATH = Path("calendar_state.json")
 CHANGE_REPORT_PATH = Path("calendar_changes.md")
+
+
+def load_feeds() -> list[dict[str, str]]:
+    feeds = json.loads(FEEDS_PATH.read_text(encoding="utf-8"))
+    if not isinstance(feeds, list):
+        raise ValueError("feeds.json must contain a list of feeds")
+
+    required_keys = {"name", "url", "source_id"}
+    cleaned: list[dict[str, str]] = []
+
+    for index, feed in enumerate(feeds, start=1):
+        if not isinstance(feed, dict):
+            raise ValueError(f"Feed #{index} must be an object")
+
+        missing = sorted(required_keys - set(feed))
+        if missing:
+            raise ValueError(f"Feed #{index} is missing required keys: {', '.join(missing)}")
+
+        cleaned_feed = {
+            "name": str(feed["name"]).strip(),
+            "url": str(feed["url"]).strip(),
+            "source_id": str(feed["source_id"]).strip(),
+        }
+
+        if not all(cleaned_feed.values()):
+            raise ValueError(f"Feed #{index} has blank required values")
+
+        cleaned.append(cleaned_feed)
+
+    source_ids = [feed["source_id"] for feed in cleaned]
+    duplicates = sorted({source_id for source_id in source_ids if source_ids.count(source_id) > 1})
+    if duplicates:
+        raise ValueError(f"Duplicate source_id values in feeds.json: {', '.join(duplicates)}")
+
+    return cleaned
+
+
+FEEDS = load_feeds()
 
 
 def normalize(text: str) -> str:

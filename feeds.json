@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Scott Gallagher Soccer",
+    "url": "https://calendar.playmetrics.com/calendars/c225/t539099/p0/t60D2CBE8/f/calendar.ics",
+    "source_id": "playmetrics-soccer"
+  },
+  {
+    "name": "Vetta Soccer",
+    "url": "https://calendar.google.com/calendar/ical/b40olq2kjdejp7utk1hqavko3uk0or52%40import.calendar.google.com/public/basic.ics",
+    "source_id": "vetta-soccer"
+  },
+  {
+    "name": "CYC Soccer - Fall 2026",
+    "url": "webcal://www.teamsideline.com/Common/Calendar_ical.aspx?d=vseBS5X6j9rHlQ%2bsuRfgXWjT98vRaJGThzuqRoy47gVTahpLrSwHzRmL1TxzySFM",
+    "source_id": "cyc-soccer-fall-2026"
+  },
+  {
+    "name": "Knights Basketball",
+    "url": "webcal://goteambot.com/user/ical/526679f8-43a8-4921-978d-1864c25e6cc3.ics",
+    "source_id": "knights-basketball"
+  },
+  {
+    "name": "Mustang Dream Team - Volleyball 2026",
+    "url": "webcal://api.team-manager.gc.com/ics-calendar-documents/user/32c4eb6a-f3da-4fc5-8f25-1813a7f62ca0.ics?teamId=40beef76-f34d-4f9f-8585-641cbea35530&token=7c4331886111e02305f5a17b8007f05b0725d5c7ae434201ca105d60411cb032",
+    "source_id": "mustang-dream-team-volleyball-2026"
+  }
+]
