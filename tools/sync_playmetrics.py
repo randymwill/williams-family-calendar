@@ -23,14 +23,6 @@ FEEDS = [
         "source_id": "vetta-soccer",
     },
     {
-        "name": "Mid County Basketball",
-        "url": (
-            "https://www.quickscores.com/Orgs/DownloadICAL.php"
-            "?OrgDir=midcountyy&TeamID=15059605&TimeZone=CDT"
-        ),
-        "source_id": "mid-county-basketball",
-    },
-    {
         "name": "CYC Soccer - Fall 2026",
         "url": (
             "webcal://www.teamsideline.com/Common/Calendar_ical.aspx"
