@@ -31,6 +31,14 @@ FEEDS = [
         "source_id": "cyc-soccer-fall-2026",
     },
     {
+        "name": "Knights Basketball",
+        "url": (
+            "webcal://goteambot.com/user/ical/"
+            "526679f8-43a8-4921-978d-1864c25e6cc3.ics"
+        ),
+        "source_id": "knights-basketball",
+    },
+    {
         "name": "Mustang Dream Team - Volleyball 2026",
         "url": (
             "webcal://api.team-manager.gc.com/ics-calendar-documents/user/"
