@@ -15,6 +15,54 @@
     "source": "cyc-soccer-fall-2026",
     "summary": "CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)"
   },
+  "cyc-soccer-fall-2026---34683693.teamsideline.com": {
+    "dtend": "20260912T190000Z",
+    "dtstart": "20260912T180000Z",
+    "fingerprint": "31dee936c1aa2466585e887e1ce6c09d9ba79fdb4afee73133525965444a47c2",
+    "location": "CPOP Fld - Fld North\\, 417 Weidman Road\\, Ballwin\\, MO  63011",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs CPOP-S3FD1-Wagner (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683697.teamsideline.com": {
+    "dtend": "20260919T180000Z",
+    "dtstart": "20260919T170000Z",
+    "fingerprint": "046d50292ad5b0403a4c5255a3040c37abd85cf138a0eb2625f037b48e631c5e",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SJM-S3FD1-Harter (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683703.teamsideline.com": {
+    "dtend": "20261003T210000Z",
+    "dtstart": "20261003T200000Z",
+    "fingerprint": "d7146dcca964b346d5447ad3de2eaa311fbda51f2ee21e1638811346a3291283",
+    "location": "St Clement Fld - Fld K-3\\, 1510 Bopp Rd\\, Des Peres\\, MO  63131",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCLM-S3FD1-Schenk (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683705.teamsideline.com": {
+    "dtend": "20260926T180000Z",
+    "dtstart": "20260926T170000Z",
+    "fingerprint": "68facf18cb428ee6e0e4e22927e0fcf95878f4c3c0244b0bee85861cd734a825",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SHFL-S3FD1-Meredith1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683707.teamsideline.com": {
+    "dtend": "20261017T180000Z",
+    "dtstart": "20261017T170000Z",
+    "fingerprint": "410b9d043f4fe3093dce5392372397327e44e0365c354daae9f025a798077bca",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683710.teamsideline.com": {
+    "dtend": "20261024T150000Z",
+    "dtstart": "20261024T140000Z",
+    "fingerprint": "e43e9d25385a15712711ad0662e03ba8e44ff6a50d2c2581d2948bba5d8c3a3f",
+    "location": "CVAC-SCA Fld - Fld B7 SCA\\, 17925 North Outer 40 Road\\, Chesterfield\\, MO  63005",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)"
+  },
   "cyc-soccer-fall-2026--1787395.teamsideline.com": {
     "dtend": "20260819T001000Z",
     "dtstart": "20260818T231000Z",
