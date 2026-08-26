@@ -1,5 +1,6 @@
 import hashlib
 import json
+import re
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -159,7 +160,14 @@ def to_title_case(text: str) -> str:
     return " ".join(word.capitalize() for word in text.split())
 
 
+def strip_participant_status(text: str) -> str:
+    cleaned = re.sub(r"\s+\([^)]*:\s*[^)]*\)\s*$", "", text).strip()
+    return re.sub(r"\s{2,}", " ", cleaned)
+
+
 def rewrite_summary(feed: dict[str, str], summary: str) -> str:
+    summary = strip_participant_status(summary)
+
     if feed["source_id"] == "mid-county-basketball":
         summary = summary.replace("MidCo/KW 3/4 Basketball Girls Buckel", "").strip()
         summary = summary.replace("Practice:", "Practice").strip()
