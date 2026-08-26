@@ -1,8 +1,80 @@
 {
+  "cyc-soccer-fall-2026---34683686.teamsideline.com": {
+    "dtend": "20260822T200000Z",
+    "dtstart": "20260822T190000Z",
+    "fingerprint": "ad324dfd8f3f069a61430d8a8e65ae959d04334fd5421f079848229668263df3",
+    "location": "Incarnate Word Field - Fld 2\\, 13416 Olive Boulevard\\, Chesterfield\\, MO  63017",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683689.teamsideline.com": {
+    "dtend": "20260829T180000Z",
+    "dtstart": "20260829T170000Z",
+    "fingerprint": "d8531dfa9ce1dd65b09f2acdd451038add84771407bbb4bf39d4054d7af8706f",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683693.teamsideline.com": {
+    "dtend": "20260912T190000Z",
+    "dtstart": "20260912T180000Z",
+    "fingerprint": "31dee936c1aa2466585e887e1ce6c09d9ba79fdb4afee73133525965444a47c2",
+    "location": "CPOP Fld - Fld North\\, 417 Weidman Road\\, Ballwin\\, MO  63011",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs CPOP-S3FD1-Wagner (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683697.teamsideline.com": {
+    "dtend": "20260919T180000Z",
+    "dtstart": "20260919T170000Z",
+    "fingerprint": "046d50292ad5b0403a4c5255a3040c37abd85cf138a0eb2625f037b48e631c5e",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SJM-S3FD1-Harter (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683703.teamsideline.com": {
+    "dtend": "20261003T210000Z",
+    "dtstart": "20261003T200000Z",
+    "fingerprint": "d7146dcca964b346d5447ad3de2eaa311fbda51f2ee21e1638811346a3291283",
+    "location": "St Clement Fld - Fld K-3\\, 1510 Bopp Rd\\, Des Peres\\, MO  63131",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCLM-S3FD1-Schenk (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683705.teamsideline.com": {
+    "dtend": "20260926T180000Z",
+    "dtstart": "20260926T170000Z",
+    "fingerprint": "68facf18cb428ee6e0e4e22927e0fcf95878f4c3c0244b0bee85861cd734a825",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SHFL-S3FD1-Meredith1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683707.teamsideline.com": {
+    "dtend": "20261017T180000Z",
+    "dtstart": "20261017T170000Z",
+    "fingerprint": "410b9d043f4fe3093dce5392372397327e44e0365c354daae9f025a798077bca",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026---34683710.teamsideline.com": {
+    "dtend": "20261024T150000Z",
+    "dtstart": "20261024T140000Z",
+    "fingerprint": "e43e9d25385a15712711ad0662e03ba8e44ff6a50d2c2581d2948bba5d8c3a3f",
+    "location": "CVAC-SCA Fld - Fld B7 SCA\\, 17925 North Outer 40 Road\\, Chesterfield\\, MO  63005",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 -  Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)"
+  },
+  "cyc-soccer-fall-2026--1787395.teamsideline.com": {
+    "dtend": "20260819T001000Z",
+    "dtstart": "20260818T231000Z",
+    "fingerprint": "93deb64b612509c649382b3b83b8b0ff0166b64c10cbab643c3c0aa7a49ab244",
+    "location": "JV priory field \\, Missouri  ",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer - Fall 2026 - Practice (SANS-S3FD1-Cunningham2)"
+  },
   "knights-basketball--02a1ef6f-ac37-45ab-b4b1-3a51439f9714": {
     "dtend": "20260708T200000",
     "dtstart": "20260708T180000",
-    "fingerprint": "530f3e122bb76611d1fae2efdcd573338d3e47fd2e793c32dffa5e36c666e0b6",
+    "fingerprint": "b94d0d27ce5a5b251ef0727dfb38d07c5e2939cc9d59f8eb9dd36ac3a38d2db1",
     "location": "Westminster Christian Academy (back gym) Back Gym",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : Accepted)"
@@ -10,7 +82,7 @@
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
-    "fingerprint": "567f2ee0b208c2e4cd8bfcc7d5c0d77e0b646e57fb46b6aeebd89e88e9f61e3b",
+    "fingerprint": "ca5f3aa39458c362078de6097d468ceb3a52f0c21df51ddf39dc601d72bc1604",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games  (Mary-Jean : Accepted)"
@@ -18,7 +90,7 @@
   "knights-basketball--0a12d2c0-b289-456d-bf9a-4e4bbdbb47ef": {
     "dtend": "20260921T190000",
     "dtstart": "20260921T180000",
-    "fingerprint": "cd89ef4bf231d9db13a9ef1dac76050af7795a06f370cb54677f10dbb891d38a",
+    "fingerprint": "d2700f05b1a562689fbb4de7fa9b7471e09a5a4e922400a86cca0a9864c32b6c",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
@@ -26,7 +98,7 @@
   "knights-basketball--0a8bf845-b7d7-461f-ab48-250dc103fe04": {
     "dtend": "20260701T200000",
     "dtstart": "20260701T180000",
-    "fingerprint": "07a70e550a429d7a700168cf70ed9414619cc196fb5dbf77eff5a18fba89ced2",
+    "fingerprint": "af5ccfc772b533fe73bee20c5baf29e54d96c9443f3c4c9fd0cc5f9006a18c35",
     "location": "Westminster Christian Academy (back gym) Back Gym",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : )"
@@ -34,7 +106,7 @@
   "knights-basketball--0ad0aab1-3e26-465f-9c56-4e7d2aea1728": {
     "dtend": "20260719T170000",
     "dtstart": "20260719T150000",
-    "fingerprint": "adafcbe2c2d00c4adf4b7af5f75ae6a6664f35ddc41763e9ef67467b15d47e84",
+    "fingerprint": "b497661a4b17476e958005184a37ec63a77743cb61eb58a7084f89a00e0151d3",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -42,7 +114,7 @@
   "knights-basketball--0c30592b-a137-4e26-8d8b-ca6097bd1f78": {
     "dtend": "20260823T170000",
     "dtstart": "20260823T150000",
-    "fingerprint": "17f6e744af44d2e4ca2fbaea63097d0398fdf69bf51cd9e36dc86dfb27e26b5e",
+    "fingerprint": "133a3b2da1ceead1b79b864a61b596026554331a8324174abfd2b2ad5db731a4",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -50,7 +122,7 @@
   "knights-basketball--1967640e-ef38-411f-a1a3-b414cdc5e4fa": {
     "dtend": "20261031T100000",
     "dtstart": "20261031T090000",
-    "fingerprint": "bad9728f36a3a52fd590746d3fa398f26147c1fa6a94b829f73dfe4d5c349f03",
+    "fingerprint": "cb1bf01b265c7cdd1d4209f22971055deeea83f94df817d2b10176408ca8f82d",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games  (Mary-Jean : No Response)"
@@ -58,7 +130,7 @@
   "knights-basketball--1a2e7eca-01f2-4339-84c7-5066bc7c06ba": {
     "dtend": "20260803T150000",
     "dtstart": "20260803T090000",
-    "fingerprint": "334f005fdc430e691edad05c9540defff5c0d8f0bbf7c9377f98c69e12c5a022",
+    "fingerprint": "51132c6ade97b6547ccbf4ae770e6469600497d849570b99396294ef9a31bfdf",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
@@ -66,7 +138,7 @@
   "knights-basketball--412d70fe-a48d-4f1a-acd4-9a682aac00c9": {
     "dtend": "20260816T170000",
     "dtstart": "20260816T150000",
-    "fingerprint": "b6143cdc68f52b481b643aac86ce8f98d1075e73c15510485f4093e4e0e86baf",
+    "fingerprint": "67e52e4d74196f8430f65ddd4251b16409a41d33be497b8ce4ee02a924c9f281",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -74,7 +146,7 @@
   "knights-basketball--52bb2735-bc96-4e73-a578-78c5428cbe23": {
     "dtend": "20261018T140000",
     "dtstart": "20261018T090000",
-    "fingerprint": "64515bb69c148ea141589a8eeb1c3239600e10618587b4146f09e6d28aa8c972",
+    "fingerprint": "55f6dc27ad9dad71f22ac9de2b05cdd37f7677f426327612898bd8322d0c9489",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League  (Mary-Jean : Accepted)"
@@ -82,7 +154,7 @@
   "knights-basketball--5a81c72d-8f29-45b3-a1ea-5400f5942466": {
     "dtend": "20260927T140000",
     "dtstart": "20260927T090000",
-    "fingerprint": "9cb56ab9c690f1328b8b01f578aa4d617dcc2a3d617a53a247aa515f9a9aefec",
+    "fingerprint": "03f940d191eb29231fbd3b972de2e639241d80e02b59b6912b29ee3cf3cca3c6",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League  (Mary-Jean : Accepted)"
@@ -90,7 +162,7 @@
   "knights-basketball--5fb7a18a-d23a-4a64-920a-6ddd312d846e": {
     "dtend": "20260914T190000",
     "dtstart": "20260914T180000",
-    "fingerprint": "852508632cc8c0707aadf9458822d429f9fb37c5989f204270b77c6b04ee3aa2",
+    "fingerprint": "0dd38432e91a4dcbc7c4dcefc346f9ef04cd2feba9f4cdbcf0fba3e0e9037737",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
@@ -98,7 +170,7 @@
   "knights-basketball--66627282-2aa7-4c66-85c2-8f297ccfc7e1": {
     "dtend": "20260809T170000",
     "dtstart": "20260809T150000",
-    "fingerprint": "54c8b72dbdac915805809b1f69e3b8a25a183e65d1779311a31c517d2c509b81",
+    "fingerprint": "a424809876ce721f5410cd83edb7f6749f8be5c28277e6fd2e700622c87c6ae3",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -106,7 +178,7 @@
   "knights-basketball--66e06a95-3361-41ae-8a56-ef153f56973a": {
     "dtend": "20260715T200000",
     "dtstart": "20260715T180000",
-    "fingerprint": "f8d0fb3f0a3b7bb7a4f73dbb4d339d19ee3ba0c41eb3c948fefcd7c9d0458c32",
+    "fingerprint": "387451b80c68d05b48729d02e582e9066178fa55d6e8654336b0c68c6512d16c",
     "location": "Westminster Christian Academy (back gym) Back Gym",
     "source": "knights-basketball",
     "summary": "Knights Basketball - DECLINED: Skills Training (Mary-Jean : )"
@@ -114,7 +186,7 @@
   "knights-basketball--6bbbbd1d-c73a-4cf4-b616-f0260e4ed098": {
     "dtend": "20260729T200000",
     "dtstart": "20260729T180000",
-    "fingerprint": "c4e96ecdbebf07c1fce05340c915255c78136b9477c6253f1b9751e7e04ea123",
+    "fingerprint": "14e06d21a9472233038c3cafe7ca85e6feee4851e21741519a71993a794129fd",
     "location": "Westminster Christian Academy (back gym) Back Gym",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : Accepted)"
@@ -122,7 +194,7 @@
   "knights-basketball--721eb680-7276-473b-9367-bf51f5d142e7": {
     "dtend": "20260722T200000",
     "dtstart": "20260722T180000",
-    "fingerprint": "2cdfd4340b2ee7f74612e0352fb755fb69338c219395d0a3f4f765db343a4416",
+    "fingerprint": "1768fa6bd1f42d181b47f4ce0ed49fcc8c8e6bb40ba609c85923c919bdcff886",
     "location": "Westminster Christian Academy (back gym) Back Gym",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : Accepted)"
@@ -130,7 +202,7 @@
   "knights-basketball--8195956e-203a-4b96-957d-86e0004ed148": {
     "dtend": "20260805T150000",
     "dtstart": "20260805T090000",
-    "fingerprint": "3a4191187427d2927df168bd9812a5782091bee8f3967d330af4a72e38f83f1f",
+    "fingerprint": "37959a441c929b23c432898b1bb2812cba544afeb4fe4db67ff72c32a9e7abd3",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
@@ -138,7 +210,7 @@
   "knights-basketball--841c6288-9c57-4d32-9055-c474ba454685": {
     "dtend": "20260920T140000",
     "dtstart": "20260920T090000",
-    "fingerprint": "8d2587d0c6967b2c7bb40feda6300f66e8ab9d74d50cf5177cb3e7a57c5ec660",
+    "fingerprint": "44e731960751cba1a0c8de6a8bde5cafda29c4be5ce8a70bbaa2916421063d17",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League  (Mary-Jean : Accepted)"
@@ -146,7 +218,7 @@
   "knights-basketball--84f573ed-672d-4fd1-86aa-9830a39e52ea": {
     "dtend": "20260919T100000",
     "dtstart": "20260919T090000",
-    "fingerprint": "4d4f623cb361237c4d51227dacf21403e3ea7892ed5a29649a4137cd50630a1c",
+    "fingerprint": "ba6be0ac73c51a89fd0845925e91489cf5ef47305c118bb78520c35c58c2a2ff",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games  (Mary-Jean : Accepted)"
@@ -154,7 +226,7 @@
   "knights-basketball--89fd6668-fe89-4465-b0c6-1dbda0e9defa": {
     "dtend": "20260928T190000",
     "dtstart": "20260928T180000",
-    "fingerprint": "6a639c70340ebbe7462fe8ed0e91097b1585425893154f2d70fb9f8afbbad4c2",
+    "fingerprint": "73a0c323e632adb5d2cca4545a8a7fdc2be83dcdaf35ce0099b4cd89296b047d",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
@@ -162,7 +234,7 @@
   "knights-basketball--967e9d22-a2f8-405e-9fd8-28273d7e00f8": {
     "dtend": "20261017T100000",
     "dtstart": "20261017T090000",
-    "fingerprint": "885b27b4fd8d50abf3a04862a27385121a182096195d47e242447cbe1d8a6edc",
+    "fingerprint": "de7f97b19c9e7816f83c5ee3ff2be9802af31e48e4b804c71243f3bc376fc2a2",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games  (Mary-Jean : Accepted)"
@@ -170,7 +242,7 @@
   "knights-basketball--9fb1ff90-77de-440c-8973-771e398cdd1c": {
     "dtend": "20260806T150000",
     "dtstart": "20260806T090000",
-    "fingerprint": "cc49e99381c412871c9b59191d58d96a60d64c57844a2b353eaf63f6a8fa833d",
+    "fingerprint": "273eb4bf882f53608fd523f04356663ce30721baa32d3d2d83000c5e59894c7b",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
@@ -178,7 +250,7 @@
   "knights-basketball--9fccbf24-4757-4076-9e77-710ddfe37135": {
     "dtend": "20261004T140000",
     "dtstart": "20261004T090000",
-    "fingerprint": "5680f7ef3dfc0ed293aa2813af652a644e100aa7e3f8e279db39d7e5c9895bdc",
+    "fingerprint": "d17721cc5a809695cdca2f8ab16c84c7eda100531d6816af42acdc3a18ca5635",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League  (Mary-Jean : No Response)"
@@ -186,7 +258,7 @@
   "knights-basketball--a909ab76-58f4-4005-93bc-0312bac73d59": {
     "dtend": "20260802T170000",
     "dtstart": "20260802T150000",
-    "fingerprint": "49b8f2d3ac400190bf9e648497c32a0475407fca1d6a3b7a681a6b277c1d9316",
+    "fingerprint": "da8f06256bd071a24bd51a812b42ea72d95195d9af4c9deaf82528ee2ae7e0b6",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -194,7 +266,7 @@
   "knights-basketball--b0d5ae2a-e294-4600-bfda-879814274875": {
     "dtend": "20260726T170000",
     "dtstart": "20260726T150000",
-    "fingerprint": "d0076f02d5e59c588e4992d2e0299f6552420e94411868f251db1e8ce4929f28",
+    "fingerprint": "3ddf0a0a97568f9f4458bf363ad27d4abebe2a9a988066856e9f1eabba78b14a",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : Accepted)"
@@ -202,7 +274,7 @@
   "knights-basketball--b86c4fab-ae35-4d7d-911b-84858b4a0085": {
     "dtend": "20261012T190000",
     "dtstart": "20261012T180000",
-    "fingerprint": "781d741a98724ce780a738f68555ca0deeca79b75967ce5376fd8a1e43a42064",
+    "fingerprint": "3a41fa1c9beeee9d58508d3a7580e30755c2c0875971e50c007e71da173043ed",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
@@ -210,7 +282,7 @@
   "knights-basketball--c1dce988-4816-455a-9a1c-e49ad9253930": {
     "dtend": "20261019T190000",
     "dtstart": "20261019T180000",
-    "fingerprint": "f058a98feaac4332a7012aa3d24eda205aa5ee5cbc77fc233271a46839930472",
+    "fingerprint": "1921712bfcd90371f01dc79a0e66ad46282e23a5546632fa037ed658f8abc13f",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
@@ -218,7 +290,7 @@
   "knights-basketball--ca351567-6763-4cb4-929e-a52ab1054fa5": {
     "dtend": "20260815T100000",
     "dtstart": "20260815T090000",
-    "fingerprint": "70a35a3ca26966725ad5831289ed178bcdb452be2f5bcca40a18aacc6ff6f74c",
+    "fingerprint": "1f912ef9aa3360ccb7d2957712e0f56d6554229e5ccede96dae39a7c565e799d",
     "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Tryout (Mary-Jean : Accepted)"
@@ -226,7 +298,7 @@
   "knights-basketball--cadc0438-63ed-4b72-b586-b5581f8e5d4f": {
     "dtend": "20260804T150000",
     "dtstart": "20260804T090000",
-    "fingerprint": "833b01df34a1117d8d635868a999671021149e58f78bbe4f2c924e66f8b5449f",
+    "fingerprint": "e4a65a056fd3054d6aedbfed133f3d7768413ef422ab3afdd89f7ce4a1d0c129",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Girls Summer Camp session 3  (Mary-Jean : Accepted)"
@@ -234,7 +306,7 @@
   "knights-basketball--ce009e69-e751-457c-84df-b08bd2cf5380": {
     "dtend": "20261024T100000",
     "dtstart": "20261024T090000",
-    "fingerprint": "03b8aafaad001d392059e3446cb9deb0e90d587ca13898289ce1c96279d05fca",
+    "fingerprint": "116b35c1cd47c38092209c73aff1ce71218269ea9ae1ae51c2eaf290e1edb8b1",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Jamboree games/Pictures (Mary-Jean : Accepted)"
@@ -242,7 +314,7 @@
   "knights-basketball--d896b686-0de6-49e5-b34e-80bc4af4e02a": {
     "dtend": "20260805T200000",
     "dtstart": "20260805T180000",
-    "fingerprint": "0b9fa86cda9b31505803b7d34ccb9e5e66de5cfcd72d225fd6c88b3085eb0c6b",
+    "fingerprint": "9a8508e79d97badcfaef635364c34374f84196bc031f8e3f6ec9b86208fad4e5",
     "location": "PRINCIPIA Field House ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : Accepted)"
@@ -250,7 +322,7 @@
   "knights-basketball--d91ded38-054b-4b7d-bbb2-f2be989fd9cc": {
     "dtend": "20261003T100000",
     "dtstart": "20261003T090000",
-    "fingerprint": "4e735e49a1a48e46d6ccc87aff66a0c3dc592e634d46feeea0db40d1bbc28ad8",
+    "fingerprint": "31b80d8fd6c151391c5464b4de32037f7ff9d78206bb28a4e6444e5ff47d385b",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games  (Mary-Jean : Accepted)"
@@ -258,7 +330,7 @@
   "knights-basketball--e3bf9186-85fe-430c-a4a5-953e15aa00e0": {
     "dtend": "20260628T170000",
     "dtstart": "20260628T150000",
-    "fingerprint": "8490b82a32ae9cd94ddc9095f1103f28a90bcb0b05489170ab694a9e67f338d6",
+    "fingerprint": "ab5c09dce4318a43a26649a8d0259fc2d43daa33f9dcc0314db9f5355136182c",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games (Mary-Jean : )"
@@ -266,7 +338,7 @@
   "knights-basketball--eafbcb77-11e1-48c6-9f8d-7839ff4111d3": {
     "dtend": "20261011T140000",
     "dtstart": "20261011T090000",
-    "fingerprint": "5714bb10dfb0ca0154202ee803d13d0ff52597c31a5453bd2443719bd136741b",
+    "fingerprint": "ebd90d1fcdc87fa293febd8f37c4f7c1273122a34636e5a6c1f1d170dd89d523",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League  (Mary-Jean : Accepted)"
@@ -274,7 +346,7 @@
   "knights-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5": {
     "dtend": "20260812T200000",
     "dtstart": "20260812T180000",
-    "fingerprint": "d910ee1306e61d87cbf1e55e8f56b9304e42fb72a60b1f39d2890f85814b3adc",
+    "fingerprint": "3f5a43cc8ee96617543c33a3b8215a069c4bec422bd88bfbf08243f564befd44",
     "location": "PRINCIPIA Field House ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training (Mary-Jean : Accepted)"
@@ -282,7 +354,7 @@
   "knights-basketball--f96a7767-eb4f-4bbd-a45b-2fa4aadfab2e": {
     "dtend": "20260712T170000",
     "dtstart": "20260712T150000",
-    "fingerprint": "998ccac05a07ba8e334bce5caae849a595275b5cdf406f79242e5e67c584f82a",
+    "fingerprint": "346bbbd69af6c2c21a81a339eb55b8711580880f9c9b8c6acd9c55e694f91d69",
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - DECLINED: Games (Mary-Jean : )"
@@ -290,7 +362,7 @@
   "knights-basketball--ff5668b5-af4a-4ed9-8a28-53e0a7a035c3": {
     "dtend": "20261005T190000",
     "dtstart": "20261005T180000",
-    "fingerprint": "68e45c6334144ffe46210a394dbc6358aa7ff997266849b1c1e8908a9018252d",
+    "fingerprint": "bb5dc2f97bd37ded80cfe3e29f891ea12876627d7489fa721abbc55493205442",
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills  (Mary-Jean : Accepted)"
