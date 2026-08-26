@@ -165,6 +165,20 @@ def strip_participant_status(text: str) -> str:
     return re.sub(r"\s{2,}", " ", cleaned)
 
 
+def rewrite_mustang_volleyball_summary(summary: str) -> str:
+    prefix = "Mustang Dream Team - Volleyball 2026 - "
+    if summary.startswith(prefix):
+        summary = summary[len(prefix) :].strip()
+
+    if summary == "Mustang Dream Team Practice":
+        return "Mustang Dream Team Practice (Vball)"
+    if summary.startswith("Mustang Dream Team vs "):
+        return f"{summary} (Vball)"
+    if summary.startswith("Mustang Dream Team @ "):
+        return f"{summary} (Vball)"
+    return summary
+
+
 def rewrite_summary(feed: dict[str, str], summary: str) -> str:
     summary = strip_participant_status(summary)
 
@@ -180,6 +194,9 @@ def rewrite_summary(feed: dict[str, str], summary: str) -> str:
             summary = summary[len(label) :]
         summary = summary.replace("G2 2017 ", "")
         return label + summary
+
+    if feed["source_id"] == "mustang-dream-team-volleyball-2026":
+        return rewrite_mustang_volleyball_summary(summary)
 
     if feed["source_id"] != "playmetrics-soccer":
         label = f"{feed['name']} - "
