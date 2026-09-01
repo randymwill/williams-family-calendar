@@ -8,6 +8,7 @@ on:
     paths:
       - "calendar.ics"
       - "calendar_state.json"
+      - "feeds.json"
       - ".github/workflows/calendar.yml"
       - "tools/**"
 

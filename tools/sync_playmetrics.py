@@ -223,6 +223,15 @@ def rewrite_summary(feed: dict[str, str], summary: str) -> str:
 def tag_event(block: str, feed: dict[str, str]) -> str:
     uid_prefix = f"{feed['source_id']}--"
 
+    # The combined calendar is public. Source calendars sometimes include a
+    # roster and organizer email addresses that do not belong in the feed.
+    public_only_lines = [
+        line
+        for line in block.split("\n")
+        if not line.startswith(("ATTENDEE", "ORGANIZER", "CONTACT"))
+    ]
+    block = "\n".join(public_only_lines)
+
     uid_line = next((line for line in block.split("\n") if line.startswith("UID:")), None)
     if uid_line is None:
         raise ValueError("VEVENT block missing UID")
