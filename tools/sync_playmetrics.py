@@ -179,7 +179,28 @@ def rewrite_mustang_volleyball_summary(summary: str) -> str:
     return summary
 
 
-def rewrite_summary(feed: dict[str, str], summary: str) -> str:
+def rewrite_cyc_soccer_summary(summary: str, location: str, description: str) -> str:
+    opponent = re.sub(r"\s*\([^)]*\)\s*$", "", summary).strip()
+    opponent = re.sub(r"^(?:vs\.?|@|at)\s*", "", opponent, flags=re.IGNORECASE).strip()
+
+    if opponent.lower() == "practice":
+        return "CYC Soccer Practice"
+
+    if "tournament" in description.lower():
+        return f"CYC Soccer vs. {opponent} (tournament game)"
+
+    is_home = "st anselm" in location.lower()
+    if is_home:
+        return f"CYC Soccer vs. {opponent} (home game)"
+    return f"CYC Soccer at {opponent} (away game)"
+
+
+def rewrite_summary(
+    feed: dict[str, str],
+    summary: str,
+    location: str = "",
+    description: str = "",
+) -> str:
     summary = strip_participant_status(summary)
 
     if feed["source_id"] == "mid-county-basketball":
@@ -197,6 +218,9 @@ def rewrite_summary(feed: dict[str, str], summary: str) -> str:
 
     if feed["source_id"] == "mustang-dream-team-volleyball-2026":
         return rewrite_mustang_volleyball_summary(summary)
+
+    if feed["source_id"] == "cyc-soccer-fall-2026":
+        return rewrite_cyc_soccer_summary(summary, location, description)
 
     if feed["source_id"] != "playmetrics-soccer":
         label = f"{feed['name']} - "
@@ -246,7 +270,16 @@ def tag_event(block: str, feed: dict[str, str]) -> str:
     )
     if summary_line is not None:
         summary = summary_line.split(":", 1)[1]
-        block = set_property(block, "SUMMARY", rewrite_summary(feed, summary))
+        block = set_property(
+            block,
+            "SUMMARY",
+            rewrite_summary(
+                feed,
+                summary,
+                get_property(block, "LOCATION"),
+                get_property(block, "DESCRIPTION"),
+            ),
+        )
 
     marker = source_marker(feed["source_id"])
     if marker not in block:

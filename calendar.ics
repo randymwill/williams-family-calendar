@@ -627,7 +627,7 @@ URL:https://app.playmetrics.com
 X-CODEX-SOURCE:playmetrics-soccer
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Practice (SANS-S3FD1-Cunningham2)
+SUMMARY:CYC Soccer Practice
 LOCATION:JV priory field \, Missouri
 UID:cyc-soccer-fall-2026--1787395.teamsideline.com
 DESCRIPTION: Staff Notes:
@@ -638,8 +638,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunni
- ngham2)
+SUMMARY:CYC Soccer at IW-S3FD1-Schwartzman1 (away game)
 LOCATION:Incarnate Word Field - Fld 2\, 13416 Olive Boulevard\, Chesterfiel
  d\, MO  63017
 UID:cyc-soccer-fall-2026---34683686.teamsideline.com
@@ -651,7 +650,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)
+SUMMARY:CYC Soccer vs. SCA-S3FD1-Ford (home game)
 LOCATION:St AnselmFld - Jr Sm\, K-3\, 500 S Mason Rd\, St. Louis\, MO  6341
  4
 UID:cyc-soccer-fall-2026---34683689.teamsideline.com
@@ -663,8 +662,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Blessed Teresa of Calcutta (SANS-S3FD1-Cun
- ningham2)
+SUMMARY:CYC Soccer vs. Blessed Teresa of Calcutta (tournament game)
 LOCATION:St. Ann of Normandy School\, 7532 Natural Bridge Rd.\, Normandy\,
  MO  63121
 UID:cyc-soccer-fall-2026--1818888.teamsideline.com
@@ -677,8 +675,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs CPOP-S3FD1-Wagner (SANS-S3FD1-Cunningha
- m2)
+SUMMARY:CYC Soccer at CPOP-S3FD1-Wagner (away game)
 LOCATION:CPOP Fld - Fld North\, 417 Weidman Road\, Ballwin\, MO  63011
 UID:cyc-soccer-fall-2026---34683693.teamsideline.com
 DESCRIPTION: Staff Notes:
@@ -689,7 +686,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Sacred Heart (SANS-S3FD1-Cunningham2)
+SUMMARY:CYC Soccer vs. Sacred Heart (tournament game)
 LOCATION:St. Ann of Normandy School\, 7532 Natural Bridge Rd.\, Normandy\,
  MO  63121
 UID:cyc-soccer-fall-2026--1818894.teamsideline.com
@@ -702,8 +699,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs SJM-S3FD1-Harter (SANS-S3FD1-Cunningham
- 2)
+SUMMARY:CYC Soccer vs. SJM-S3FD1-Harter (home game)
 LOCATION:St AnselmFld - Jr Sm\, K-3\, 500 S Mason Rd\, St. Louis\, MO  6341
  4
 UID:cyc-soccer-fall-2026---34683697.teamsideline.com
@@ -715,8 +711,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs SHFL-S3FD1-Meredith1 (SANS-S3FD1-Cunnin
- gham2)
+SUMMARY:CYC Soccer vs. SHFL-S3FD1-Meredith1 (home game)
 LOCATION:St AnselmFld - Jr Sm\, K-3\, 500 S Mason Rd\, St. Louis\, MO  6341
  4
 UID:cyc-soccer-fall-2026---34683705.teamsideline.com
@@ -728,8 +723,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs SCLM-S3FD1-Schenk (SANS-S3FD1-Cunningha
- m2)
+SUMMARY:CYC Soccer at SCLM-S3FD1-Schenk (away game)
 LOCATION:St Clement Fld - Fld K-3\, 1510 Bopp Rd\, Des Peres\, MO  63131
 UID:cyc-soccer-fall-2026---34683703.teamsideline.com
 DESCRIPTION: Staff Notes:
@@ -740,8 +734,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs IW-S3FD1-Schwartzman1 (SANS-S3FD1-Cunni
- ngham2)
+SUMMARY:CYC Soccer vs. IW-S3FD1-Schwartzman1 (home game)
 LOCATION:St AnselmFld - Jr Sm\, K-3\, 500 S Mason Rd\, St. Louis\, MO  6341
  4
 UID:cyc-soccer-fall-2026---34683707.teamsideline.com
@@ -753,7 +746,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CYC Soccer - Fall 2026 - Vs SCA-S3FD1-Ford (SANS-S3FD1-Cunningham2)
+SUMMARY:CYC Soccer at SCA-S3FD1-Ford (away game)
 LOCATION:CVAC-SCA Fld - Fld B7 SCA\, 17925 North Outer 40 Road\, Chesterfie
  ld\, MO  63005
 UID:cyc-soccer-fall-2026---34683710.teamsideline.com
@@ -765,7 +758,7 @@ CLASS:PUBLIC
 X-CODEX-SOURCE:cyc-soccer-fall-2026
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260701T180000
 DTEND;TZID=America/Chicago:20260701T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -778,7 +771,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260708T180000
 DTEND;TZID=America/Chicago:20260708T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -791,7 +784,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260712T150000
 DTEND;TZID=America/Chicago:20260712T170000
 SUMMARY:Knights Basketball - DECLINED: Games
@@ -804,7 +797,7 @@ DESCRIPTION:3-4PM PreK\, Kindergarten\, 1st and 2nd grade girls\n4-5PM 1st
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260715T180000
 DTEND;TZID=America/Chicago:20260715T200000
 SUMMARY:Knights Basketball - DECLINED: Skills Training
@@ -817,7 +810,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260719T150000
 DTEND;TZID=America/Chicago:20260719T170000
 SUMMARY:Knights Basketball - Games
@@ -830,7 +823,7 @@ DESCRIPTION:3-4PM PreK and Kindergarten\n3-4PM 1st and 2nd grade girls\n4-5
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260722T180000
 DTEND;TZID=America/Chicago:20260722T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -843,7 +836,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260726T150000
 DTEND;TZID=America/Chicago:20260726T170000
 SUMMARY:Knights Basketball - Games
@@ -855,7 +848,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/b0d5ae2a-e2
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260729T180000
 DTEND;TZID=America/Chicago:20260729T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -868,7 +861,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260802T150000
 DTEND;TZID=America/Chicago:20260802T170000
 SUMMARY:Knights Basketball - Games
@@ -880,7 +873,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/a909ab76-58
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260803T090000
 DTEND;TZID=America/Chicago:20260803T150000
 SUMMARY:Knights Basketball - KBA Girls Summer Camp session 3
@@ -893,7 +886,7 @@ DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260804T090000
 DTEND;TZID=America/Chicago:20260804T150000
 SUMMARY:Knights Basketball - KBA Girls Summer Camp session 3
@@ -906,7 +899,7 @@ DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260805T090000
 DTEND;TZID=America/Chicago:20260805T150000
 SUMMARY:Knights Basketball - KBA Girls Summer Camp session 3
@@ -919,7 +912,7 @@ DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260805T180000
 DTEND;TZID=America/Chicago:20260805T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -932,7 +925,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260806T090000
 DTEND;TZID=America/Chicago:20260806T150000
 SUMMARY:Knights Basketball - KBA Girls Summer Camp session 3
@@ -945,7 +938,7 @@ DESCRIPTION:lunch provided along with camp T-shirt \nEvent Details on TeamB
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260809T150000
 DTEND;TZID=America/Chicago:20260809T170000
 SUMMARY:Knights Basketball - Games
@@ -957,7 +950,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/66627282-2a
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260812T180000
 DTEND;TZID=America/Chicago:20260812T200000
 SUMMARY:Knights Basketball - Skills Training
@@ -970,7 +963,7 @@ DESCRIPTION:6-7PM PK\,K and 1st grade\, 7-8PM 2nd grade\, Please bring  you
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260815T090000
 DTEND;TZID=America/Chicago:20260815T100000
 SUMMARY:Knights Basketball - Tryout
@@ -982,7 +975,7 @@ DESCRIPTION:Please bring a ball\nEvent Details on TeamBot: https://goteambo
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260816T150000
 DTEND;TZID=America/Chicago:20260816T170000
 SUMMARY:Knights Basketball - Games
@@ -994,7 +987,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/412d70fe-a4
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260823T150000
 DTEND;TZID=America/Chicago:20260823T170000
 SUMMARY:Knights Basketball - Games
@@ -1006,7 +999,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/0c30592b-a1
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260914T180000
 DTEND;TZID=America/Chicago:20260914T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1019,7 +1012,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/5fb7a18a-d2
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260919T090000
 DTEND;TZID=America/Chicago:20260919T100000
 SUMMARY:Knights Basketball - KBA 3v3 Games
@@ -1032,7 +1025,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/84f573ed-67
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260920T090000
 DTEND;TZID=America/Chicago:20260920T140000
 SUMMARY:Knights Basketball - KBA League
@@ -1045,7 +1038,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/841c6288-9c
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1058,7 +1051,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/0a12d2c0-b2
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260927T090000
 DTEND;TZID=America/Chicago:20260927T140000
 SUMMARY:Knights Basketball - KBA League
@@ -1071,7 +1064,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/5a81c72d-8f
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20260928T180000
 DTEND;TZID=America/Chicago:20260928T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1084,7 +1077,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/89fd6668-fe
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261003T090000
 DTEND;TZID=America/Chicago:20261003T100000
 SUMMARY:Knights Basketball - KBA 3v3 Games
@@ -1097,7 +1090,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/d91ded38-05
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261004T090000
 DTEND;TZID=America/Chicago:20261004T140000
 SUMMARY:Knights Basketball - KBA League
@@ -1110,7 +1103,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/9fccbf24-47
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261005T180000
 DTEND;TZID=America/Chicago:20261005T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1123,7 +1116,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/ff5668b5-af
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261010T090000
 DTEND;TZID=America/Chicago:20261010T100000
 SUMMARY:Knights Basketball - KBA 3v3 Games
@@ -1136,7 +1129,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/04fa7c87-4d
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261011T090000
 DTEND;TZID=America/Chicago:20261011T140000
 SUMMARY:Knights Basketball - KBA League
@@ -1149,7 +1142,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/eafbcb77-11
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261012T180000
 DTEND;TZID=America/Chicago:20261012T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1162,7 +1155,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/b86c4fab-ae
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261017T090000
 DTEND;TZID=America/Chicago:20261017T100000
 SUMMARY:Knights Basketball - KBA 3v3 Games
@@ -1175,7 +1168,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/967e9d22-a2
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261018T090000
 DTEND;TZID=America/Chicago:20261018T140000
 SUMMARY:Knights Basketball - KBA League
@@ -1188,7 +1181,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/52bb2735-bc
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261019T180000
 DTEND;TZID=America/Chicago:20261019T190000
 SUMMARY:Knights Basketball - KBA Drills & Skills
@@ -1201,7 +1194,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/c1dce988-48
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261024T090000
 DTEND;TZID=America/Chicago:20261024T100000
 SUMMARY:Knights Basketball - KBA Jamboree games/Pictures
@@ -1214,7 +1207,7 @@ DESCRIPTION:\nEvent Details on TeamBot: https://goteambot.com/e/ce009e69-e7
 X-CODEX-SOURCE:knights-basketball
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260901T222100Z
+DTSTAMP:20260901T222400Z
 DTSTART;TZID=America/Chicago:20261031T090000
 DTEND;TZID=America/Chicago:20261031T100000
 SUMMARY:Knights Basketball - KBA 3v3 Games
