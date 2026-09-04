@@ -647,6 +647,54 @@
     "source": "playmetrics-soccer",
     "summary": "West Ham Carshield Surf Cup - SG"
   },
+  "playmetrics-soccer--GenericCalendarEvent_2946399": {
+    "dtend": "20260912T101500",
+    "dtstart": "20260912T090000",
+    "fingerprint": "3b7d387c55621dc5a7ec404d5aaa9df5edf0dc81da3d55a2904c4afa9d976b68",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #1 - U9 To U14 - SG"
+  },
+  "playmetrics-soccer--GenericCalendarEvent_2946437": {
+    "dtend": "20260926T101500",
+    "dtstart": "20260926T090000",
+    "fingerprint": "15dfdaf83bcc6640ce68f7dfa959364c3ecfd6ff5ede75a86d443794598ccd5d",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #3 - U9 To U14 - SG"
+  },
+  "playmetrics-soccer--GenericCalendarEvent_2946445": {
+    "dtend": "20260919T101500",
+    "dtstart": "20260919T090000",
+    "fingerprint": "056a30273f74952c557ed29771c9d91b1058426756a5a16747d924c1f3ead683",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #2 - U9 To U14 - SG"
+  },
+  "playmetrics-soccer--GenericCalendarEvent_2946468": {
+    "dtend": "20261003T101500",
+    "dtstart": "20261003T090000",
+    "fingerprint": "d9d3d13a34c09c19ba17bd710aafe84875e16555a4d9e4fdda5ed87f24c4d384",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #4 - U9 To U14 - SG"
+  },
+  "playmetrics-soccer--GenericCalendarEvent_2946476": {
+    "dtend": "20261017T101500",
+    "dtstart": "20261017T090000",
+    "fingerprint": "df018687f9b216312d9ddace67e01845db06427ac0e25eeb36569037bd9f5f56",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #5 - U9 To U14 - SG"
+  },
+  "playmetrics-soccer--GenericCalendarEvent_2946515": {
+    "dtend": "20261024T221500",
+    "dtstart": "20261024T210000",
+    "fingerprint": "216e89fed1bbb391c09b59edf0a841b0291a648382e547d24708da62abe799ff",
+    "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Mo Tech Training #6 - U9 To U14 - SG"
+  },
   "playmetrics-soccer--Practice_12167209": {
     "dtend": "20260812T183000",
     "dtstart": "20260812T170000",
