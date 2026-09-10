@@ -444,6 +444,10 @@ def fetch_source(url: str) -> str:
         headers={
             "User-Agent": "Mozilla/5.0 (Codex Calendar Sync)",
             "Accept": "text/calendar,text/plain,application/octet-stream,*/*",
+            # Some providers cache calendar exports longer than their published
+            # update interval. Always request the current feed when syncing.
+            "Cache-Control": "no-cache",
+            "Pragma": "no-cache",
         },
     )
     with urlopen(request) as response:
