@@ -15,6 +15,8 @@ on:
 permissions:
   contents: write
   issues: write
+  pages: write
+  id-token: write
 
 jobs:
   normalize-calendar:
@@ -61,6 +63,7 @@ jobs:
             });
 
       - name: Commit calendar changes if needed
+        id: commit
         run: |
           if ! git diff --quiet; then
             git config user.name "github-actions[bot]"
@@ -68,4 +71,30 @@ jobs:
             git add calendar.ics calendar_state.json
             git commit -m "Sync calendar.ics"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      # Commits made with GITHUB_TOKEN do not trigger pages.yml. Publish from
+      # this job so the public subscription always matches the synced calendar.
+      - name: Build Pages artifact
+        if: ${{ github.event_name != 'schedule' || steps.commit.outputs.changed == 'true' }}
+        run: |
+          mkdir -p _site
+          cp calendar.ics _site/calendar.ics
+          cp site/index.html _site/index.html
+
+      - name: Configure Pages
+        if: ${{ github.event_name != 'schedule' || steps.commit.outputs.changed == 'true' }}
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: ${{ github.event_name != 'schedule' || steps.commit.outputs.changed == 'true' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy Pages
+        if: ${{ github.event_name != 'schedule' || steps.commit.outputs.changed == 'true' }}
+        uses: actions/deploy-pages@v4
