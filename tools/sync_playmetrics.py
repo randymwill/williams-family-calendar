@@ -195,6 +195,18 @@ def rewrite_cyc_soccer_summary(summary: str, location: str, description: str) ->
     return f"CYC Soccer at {opponent} (away game)"
 
 
+def rewrite_knights_basketball_summary(summary: str) -> str:
+    """Give confirmed KBA games a concise, opponent-first public title."""
+    match = re.match(
+        r"^KBA League Game\s*-\s*.+?\s+vs\.?\s+(.+?)\s*$",
+        summary,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return f"KBA League Game vs {match.group(1)}"
+    return summary
+
+
 def rewrite_summary(
     feed: dict[str, str],
     summary: str,
@@ -221,6 +233,9 @@ def rewrite_summary(
 
     if feed["source_id"] == "cyc-soccer-fall-2026":
         return rewrite_cyc_soccer_summary(summary, location, description)
+
+    if feed["source_id"] == "knights-basketball":
+        return rewrite_knights_basketball_summary(summary)
 
     if feed["source_id"] != "playmetrics-soccer":
         label = f"{feed['name']} - "
@@ -432,6 +447,33 @@ def should_import_event(block: str, feed: dict[str, str]) -> bool:
     return "SUMMARY:Default Description" not in block and "DESCRIPTION:Default Description" not in block
 
 
+def event_date(block: str) -> str:
+    """Return a VEVENT's local calendar date without depending on DTSTART params."""
+    match = re.search(r"^DTSTART(?:;[^:]*)?:(\d{8})", block, flags=re.MULTILINE)
+    return match.group(1) if match else ""
+
+
+def knights_events_without_replaced_placeholders(events: list[str]) -> list[str]:
+    """Drop a weekly KBA availability block once a real game exists that day."""
+    game_dates = {
+        event_date(event)
+        for event in events
+        if re.match(
+            r"^KBA League Game\s*-\s*.+?\s+vs\.?\s+.+$",
+            strip_participant_status(get_property(event, "SUMMARY")),
+            flags=re.IGNORECASE,
+        )
+    }
+    return [
+        event
+        for event in events
+        if not (
+            event_date(event) in game_dates
+            and strip_participant_status(get_property(event, "SUMMARY")) == "KBA League"
+        )
+    ]
+
+
 def is_legacy_playmetrics_event(block: str) -> bool:
     return LEGACY_PLAYMETRICS_URL in block and SOURCE_PREFIX not in block
 
@@ -477,11 +519,13 @@ def main() -> None:
             )
             continue
 
-        tagged = [
-            tag_event(event, feed)
-            for event in source_events
-            if should_import_event(event, feed)
+        importable_events = [
+            event for event in source_events if should_import_event(event, feed)
         ]
+        if feed["source_id"] == "knights-basketball":
+            importable_events = knights_events_without_replaced_placeholders(importable_events)
+
+        tagged = [tag_event(event, feed) for event in importable_events]
         merged_events.extend(tagged)
         summary_lines.append(f"{feed['name']}: {len(tagged)} events")
 
