@@ -191,6 +191,14 @@
     "source": "knights-basketball",
     "summary": "Knights Basketball - Skills Training"
   },
+  "knights-basketball--70f8f63f-22ec-41f8-9e86-61995c8c53d5": {
+    "dtend": "20261004T100000",
+    "dtstart": "20261004T090000",
+    "fingerprint": "03381cca9d640341b2975ae533b9996e33ed59464bb12186ff166c075372b50d",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
+    "source": "knights-basketball",
+    "summary": "Knights Basketball - KBA League Game - Cunningham vs. Dale Robards"
+  },
   "knights-basketball--721eb680-7276-473b-9367-bf51f5d142e7": {
     "dtend": "20260722T200000",
     "dtstart": "20260722T180000",
@@ -255,6 +263,14 @@
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA League"
   },
+  "knights-basketball--a3bfa099-fdfa-4fde-b031-d0b1c3312048": {
+    "dtend": "20261011T100000",
+    "dtstart": "20261011T090000",
+    "fingerprint": "001d9329c3dabe947a38112ccdcac7e65e7a63c9d321bc29461b113bf423fbf4",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
+    "source": "knights-basketball",
+    "summary": "Knights Basketball - KBA League Game - Cunningham vs. King/Hayes"
+  },
   "knights-basketball--a909ab76-58f4-4005-93bc-0312bac73d59": {
     "dtend": "20260802T170000",
     "dtstart": "20260802T150000",
@@ -262,6 +278,14 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Knights Basketball - Games"
+  },
+  "knights-basketball--aa4508b3-4e22-435b-bc92-0a5212d07d0d": {
+    "dtend": "20260927T100000",
+    "dtstart": "20260927T090000",
+    "fingerprint": "58cdf346b3f426ebc198efcb871933d5e3c447268c7a8fcaf4aa111550c85772",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
+    "source": "knights-basketball",
+    "summary": "Knights Basketball - KBA League Game - Cunningham vs. Gregory"
   },
   "knights-basketball--b0d5ae2a-e294-4600-bfda-879814274875": {
     "dtend": "20260726T170000",
@@ -278,6 +302,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA Drills & Skills"
+  },
+  "knights-basketball--c071107a-1401-41ab-a92d-6e18206b50c0": {
+    "dtend": "20260920T100000",
+    "dtstart": "20260920T090000",
+    "fingerprint": "e05b34871f7fad811c0c4511300bebea3cbd39c4e0165f4b0fd513c82be08f30",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 1",
+    "source": "knights-basketball",
+    "summary": "Knights Basketball - KBA League Game - Cunningham vs. King/Hayes"
   },
   "knights-basketball--c1dce988-4816-455a-9a1c-e49ad9253930": {
     "dtend": "20261019T190000",
@@ -326,6 +358,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "Knights Basketball - KBA 3v3 Games"
+  },
+  "knights-basketball--e22bf8a2-53fc-49a3-bec3-092daa619d80": {
+    "dtend": "20261018T110000",
+    "dtstart": "20261018T100000",
+    "fingerprint": "8812ba17d7f8e4b82a920201a4183cf1b3a4fca4ac418de4a8ca90435d7a0c82",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 3",
+    "source": "knights-basketball",
+    "summary": "Knights Basketball - KBA League Game - Cunningham vs. Shawhan"
   },
   "knights-basketball--eafbcb77-11e1-48c6-9f8d-7839ff4111d3": {
     "dtend": "20261011T140000",
