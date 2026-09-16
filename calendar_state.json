@@ -159,14 +159,6 @@
     "source": "knights-basketball",
     "summary": "Games"
   },
-  "knights-basketball--66e06a95-3361-41ae-8a56-ef153f56973a": {
-    "dtend": "20260715T200000",
-    "dtstart": "20260715T180000",
-    "fingerprint": "c8bb7adf35b3e5892f69ae2870e5e892292139c071f9941a13f25963be3e3246",
-    "location": "Westminster Christian Academy (back gym) Back Gym",
-    "source": "knights-basketball",
-    "summary": "DECLINED: Skills Training"
-  },
   "knights-basketball--6bbbbd1d-c73a-4cf4-b616-f0260e4ed098": {
     "dtend": "20260729T200000",
     "dtstart": "20260729T180000",
@@ -583,29 +575,37 @@
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2672339": {
-    "dtend": "20261002",
-    "dtstart": "20261002",
-    "fingerprint": "51e7828339ecfdd656845e5eb91faaddf1f63453c2cb7dee532005be677d1e86",
-    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
+  "playmetrics-soccer--Game_5215886": {
+    "dtend": "20261001T200500",
+    "dtstart": "20261001T190500",
+    "fingerprint": "7b560a7acfcaa4af25fe2b8ad0c5a829e19fc2b242869ebead0d497a044069b3",
+    "location": "530 N Eatherton Rd\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Carshield Surf Cup - SG"
+    "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2672340": {
-    "dtend": "20261003",
-    "dtstart": "20261003",
-    "fingerprint": "4cb4382f4d1ef7fc9b16373761e7e911a676ce612de243a1bec5b794c019631c",
-    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
+  "playmetrics-soccer--Game_5215889": {
+    "dtend": "20261003T132000",
+    "dtstart": "20261003T122000",
+    "fingerprint": "399e513c29c51a6b791864439eb5534cb682f829d1409f2c0ef060c481cf5a78",
+    "location": "530 N Eatherton Rd\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Carshield Surf Cup - SG"
+    "summary": "West Ham Game - SG"
   },
-  "playmetrics-soccer--GenericCalendarEvent_2672341": {
-    "dtend": "20261004",
-    "dtstart": "20261004",
-    "fingerprint": "8c190ca442a027c7e77dd8b236a5e0d6855d336a5a5015739b5127c280d7158d",
-    "location": "530 North Eatherton Road\\, Chesterfield\\, MO 63005\\, USA",
+  "playmetrics-soccer--Game_5215892": {
+    "dtend": "20261004T090000",
+    "dtstart": "20261004T080000",
+    "fingerprint": "ced7ef4202398114105711e69bd7824028a442a7c730191c90c1bdeebb079a1e",
+    "location": "530 N Eatherton Rd\\, Chesterfield\\, MO 63005\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Carshield Surf Cup - SG"
+    "summary": "West Ham Game - SG"
+  },
+  "playmetrics-soccer--Game_5215896": {
+    "dtend": "20261004T132000",
+    "dtstart": "20261004T122000",
+    "fingerprint": "a13c4d1a270ef4f7e5d634e3982759fcaa1e54f587d0311a5273f5f547d8a958",
+    "location": "530 N Eatherton Rd\\, Chesterfield\\, MO 63005\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Game - SG"
   },
   "playmetrics-soccer--GenericCalendarEvent_2715402": {
     "dtend": "20261128T193000",
@@ -622,14 +622,6 @@
     "location": "1 Soccer Park Road\\, Fenton\\, MO\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Team Photos - SG"
-  },
-  "playmetrics-soccer--GenericCalendarEvent_2939674": {
-    "dtend": "20261001T210000",
-    "dtstart": "20261001T180000",
-    "fingerprint": "92871b7369654e9b632a6330452b8eb8108f08fc1790d9020305c779de98759f",
-    "location": "TBD",
-    "source": "playmetrics-soccer",
-    "summary": "West Ham Carshield Surf Cup - SG"
   },
   "playmetrics-soccer--GenericCalendarEvent_2946399": {
     "dtend": "20260912T101500",
@@ -714,7 +706,7 @@
   "playmetrics-soccer--Practice_12167371": {
     "dtend": "20260909T183000",
     "dtstart": "20260909T170000",
-    "fingerprint": "684b0bcffbb283969f54f32800da331ef68dbd7c6841a1ce75cc5df32a8fbe69",
+    "fingerprint": "ec29321a127a183d4915857d01b308701d2ea46639b1ee6446368fc7fbb4f144",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
