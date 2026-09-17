@@ -327,6 +327,14 @@
     "source": "knights-basketball",
     "summary": "KBA League Game vs Shawhan"
   },
+  "knights-basketball--ee88ff94-51bf-4988-aac5-185f3f068d81": {
+    "dtend": "20260917T203000",
+    "dtstart": "20260917T193000",
+    "fingerprint": "743e0bffb61471dd4db23cc775f807cab2eac1ccc65223320970a44351daacfa",
+    "location": "Missouri Athletic Club (West) Main Court",
+    "source": "knights-basketball",
+    "summary": "KBA 3G Make Up Practice"
+  },
   "knights-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5": {
     "dtend": "20260812T200000",
     "dtstart": "20260812T180000",
@@ -528,9 +536,9 @@
     "summary": "West Ham Game - SG"
   },
   "playmetrics-soccer--Game_4618738": {
-    "dtend": "20260918T193000",
-    "dtstart": "20260918T183000",
-    "fingerprint": "1f9a170b5d03d8f7cd9d0d0577eddb007a40d16dca767754ffbbff4bb9057bb3",
+    "dtend": "20260918T200000",
+    "dtstart": "20260918T190000",
+    "fingerprint": "8fd54d40ad703e9c808ac635a08b130a8dd8d05b5433dac526df3e0ac9e12d66",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
