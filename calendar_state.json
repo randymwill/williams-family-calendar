@@ -615,6 +615,14 @@
     "source": "playmetrics-soccer",
     "summary": "West Ham Game - SG"
   },
+  "playmetrics-soccer--Game_5243994": {
+    "dtend": "20261123T203000",
+    "dtstart": "20261123T193000",
+    "fingerprint": "682fb9f3d92e6f780e2889301c03dc48e9d587d97a3ad1a1dfc17bd01dfbd8d3",
+    "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
+    "source": "playmetrics-soccer",
+    "summary": "West Ham Game - SG"
+  },
   "playmetrics-soccer--GenericCalendarEvent_2715402": {
     "dtend": "20261128T193000",
     "dtstart": "20261128T100000",
