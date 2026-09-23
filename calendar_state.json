@@ -175,14 +175,6 @@
     "source": "knights-basketball",
     "summary": "KBA League Game vs Dale Robards"
   },
-  "knights-basketball--721eb680-7276-473b-9367-bf51f5d142e7": {
-    "dtend": "20260722T200000",
-    "dtstart": "20260722T180000",
-    "fingerprint": "18916c613f28d202a6c3637a38cc07b6c2b75b79a2521bc764774e96770d4dab",
-    "location": "Westminster Christian Academy (back gym) Back Gym",
-    "source": "knights-basketball",
-    "summary": "Skills Training"
-  },
   "knights-basketball--8195956e-203a-4b96-957d-86e0004ed148": {
     "dtend": "20260805T150000",
     "dtstart": "20260805T090000",
@@ -206,6 +198,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA Drills & Skills"
+  },
+  "knights-basketball--8fb5444e-e69c-4ab9-8fd5-1440d060d9c6": {
+    "dtend": "20260930T203000",
+    "dtstart": "20260930T193000",
+    "fingerprint": "c7787832d1db0ac4209b7f567eab58f5ae4a9851581f7381aeb856befa8de9e6",
+    "location": "WCA - Westminster Christian Academy - Blue Gym ",
+    "source": "knights-basketball",
+    "summary": "Team Practice"
   },
   "knights-basketball--967e9d22-a2f8-405e-9fd8-28273d7e00f8": {
     "dtend": "20261017T100000",
