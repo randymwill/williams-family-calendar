@@ -52,7 +52,21 @@ jobs:
             const firstLine = body.split('\n').find(line => line.startsWith('Added:'));
             const secondLine = body.split('\n').find(line => line.startsWith('Updated:'));
             const thirdLine = body.split('\n').find(line => line.startsWith('Deleted:'));
-            const title = `Williams Family AI updated calendar changes detected (${firstLine}, ${secondLine}, ${thirdLine})`;
+            const count = [firstLine, secondLine, thirdLine]
+              .map(line => Number(line.split(':')[1].trim()))
+              .reduce((total, value) => total + value, 0);
+            const eventLine = body.split('\n').find(line => line.startsWith('- ['));
+            const eventTitle = eventLine
+              ?.replace(/^- \[[^\]]+\]\s*/, '')
+              .trim();
+            const changeType = firstLine !== 'Added: 0'
+              ? 'added'
+              : secondLine !== 'Updated: 0'
+                ? 'updated'
+                : 'removed';
+            const title = count === 1 && eventTitle
+              ? `Calendar ${changeType}: ${eventTitle}`
+              : `Calendar changes (${firstLine}, ${secondLine}, ${thirdLine})`;
 
             await github.rest.issues.create({
               owner: context.repo.owner,

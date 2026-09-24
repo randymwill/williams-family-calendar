@@ -1,8 +1,11 @@
 import hashlib
 import json
 import re
+from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional, Tuple
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 
 SOURCE_PREFIX = "X-CODEX-SOURCE:"
@@ -12,6 +15,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 FEEDS_PATH = REPO_ROOT / "feeds.json"
 STATE_PATH = Path("calendar_state.json")
 CHANGE_REPORT_PATH = Path("calendar_changes.md")
+CHICAGO_TIMEZONE = ZoneInfo("America/Chicago")
 
 
 def load_feeds() -> list[dict[str, str]]:
@@ -369,22 +373,73 @@ def write_state(state: dict[str, dict[str, str]]) -> None:
     )
 
 
+def parse_calendar_datetime(value: str) -> Tuple[Optional[datetime], bool]:
+    """Parse common iCalendar timestamps and identify all-day dates."""
+    value = value.strip()
+    if not value:
+        return None, False
+    if re.fullmatch(r"\d{8}", value):
+        return datetime.strptime(value, "%Y%m%d"), True
+    if value.endswith("Z"):
+        return datetime.strptime(value, "%Y%m%dT%H%M%SZ").replace(
+            tzinfo=timezone.utc
+        ).astimezone(CHICAGO_TIMEZONE), False
+    return datetime.strptime(value, "%Y%m%dT%H%M%S"), False
+
+
+def format_day(value: datetime) -> str:
+    return f"{value.strftime('%a, %b')} {value.day}"
+
+
+def format_time(value: datetime) -> str:
+    return value.strftime("%I:%M %p").lstrip("0")
+
+
+def describe_when(event: dict[str, str]) -> str:
+    start, start_is_all_day = parse_calendar_datetime(event.get("dtstart", ""))
+    end, end_is_all_day = parse_calendar_datetime(event.get("dtend", ""))
+    if start is None:
+        return "Time not provided"
+    if start_is_all_day:
+        return f"{format_day(start)} (all day)"
+    if end is None or end_is_all_day:
+        return f"{format_day(start)} at {format_time(start)}"
+    if start.date() == end.date():
+        return f"{format_day(start)}, {format_time(start)} to {format_time(end)}"
+    return (
+        f"{format_day(start)}, {format_time(start)} to "
+        f"{format_day(end)}, {format_time(end)}"
+    )
+
+
 def describe_event(event: dict[str, str]) -> str:
-    parts = [event["summary"] or "(No summary)"]
-    if event["dtstart"]:
-        parts.append(event["dtstart"])
-    if event["location"]:
-        parts.append(event["location"])
-    return " | ".join(parts)
+    return event["summary"] or "(No title)"
 
 
-def changed_fields(before: dict[str, str], after: dict[str, str]) -> list[str]:
-    fields = ("summary", "dtstart", "dtend", "location")
-    return [
-        f"{field}: {before.get(field, '') or '(blank)'} -> {after.get(field, '') or '(blank)'}"
-        for field in fields
-        if before.get(field, "") != after.get(field, "")
-    ]
+def event_details(event: dict[str, str]) -> list[str]:
+    details = [f"When: {describe_when(event)}"]
+    if event.get("location"):
+        details.append(f"Where: {event['location']}")
+    return details
+
+
+def update_details(before: dict[str, str], after: dict[str, str]) -> list[str]:
+    details: list[str] = []
+    if before.get("summary", "") != after.get("summary", ""):
+        details.append(
+            f"Title: {describe_event(before)} -> {describe_event(after)}"
+        )
+    if (
+        before.get("dtstart", "") != after.get("dtstart", "")
+        or before.get("dtend", "") != after.get("dtend", "")
+    ):
+        details.append(f"When: {describe_when(before)} -> {describe_when(after)}")
+    if before.get("location", "") != after.get("location", ""):
+        details.append(
+            f"Where: {before.get('location') or '(not provided)'} -> "
+            f"{after.get('location') or '(not provided)'}"
+        )
+    return details
 
 
 def write_change_report(
@@ -417,6 +472,7 @@ def write_change_report(
         for uid in added:
             event = current[uid]
             lines.append(f"- [{source_name(event['source'])}] {describe_event(event)}")
+            lines.extend(f"  - {detail}" for detail in event_details(event))
         lines.append("")
 
     if updated:
@@ -425,8 +481,7 @@ def write_change_report(
             before = previous[uid]
             after = current[uid]
             lines.append(f"- [{source_name(after['source'])}] {describe_event(after)}")
-            for field in changed_fields(before, after):
-                lines.append(f"  - {field}")
+            lines.extend(f"  - {detail}" for detail in update_details(before, after))
         lines.append("")
 
     if deleted:
@@ -434,6 +489,7 @@ def write_change_report(
         for uid in deleted:
             event = previous[uid]
             lines.append(f"- [{source_name(event['source'])}] {describe_event(event)}")
+            lines.extend(f"  - {detail}" for detail in event_details(event))
         lines.append("")
 
     CHANGE_REPORT_PATH.write_text("\n".join(lines), encoding="utf-8")
