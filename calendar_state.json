@@ -1,4 +1,100 @@
 {
+  "cyc-soccer-fall-2026---34683686.teamsideline.com": {
+    "dtend": "20260822T200000Z",
+    "dtstart": "20260822T190000Z",
+    "fingerprint": "56ed24c00e18046fcb9437feaea814bd7d4e03aef0fda6255a56cb04a8fce167",
+    "location": "Incarnate Word Field - Fld 2\\, 13416 Olive Boulevard\\, Chesterfield\\, MO  63017",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer at IW-S3FD1-Schwartzman1 (away game)"
+  },
+  "cyc-soccer-fall-2026---34683689.teamsideline.com": {
+    "dtend": "20260829T180000Z",
+    "dtstart": "20260829T170000Z",
+    "fingerprint": "534ab092d681092cf75db472db36ee1391d858b175b5fb3623da65c264ac696f",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. SCA-S3FD1-Ford (home game)"
+  },
+  "cyc-soccer-fall-2026---34683693.teamsideline.com": {
+    "dtend": "20260912T190000Z",
+    "dtstart": "20260912T180000Z",
+    "fingerprint": "d8926fc86f2c640022e3e4ef35a908443f207e7e79fd2e54e59caaf8140700d7",
+    "location": "CPOP Fld - Fld North\\, 417 Weidman Road\\, Ballwin\\, MO  63011",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer at CPOP-S3FD1-Wagner (away game)"
+  },
+  "cyc-soccer-fall-2026---34683697.teamsideline.com": {
+    "dtend": "20260919T180000Z",
+    "dtstart": "20260919T170000Z",
+    "fingerprint": "0749fd6ebca5b14e35b284c582dcad7b1d70045b036aa3ebc57a3cdffe8f0b93",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. SJM-S3FD1-Harter (home game)"
+  },
+  "cyc-soccer-fall-2026---34683703.teamsideline.com": {
+    "dtend": "20261003T210000Z",
+    "dtstart": "20261003T200000Z",
+    "fingerprint": "45ea349627b2d76545eb5ef111da86431b52ec00099111a6716af3f94e09f961",
+    "location": "St Clement Fld - Fld K-3\\, 1510 Bopp Rd\\, Des Peres\\, MO  63131",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer at SCLM-S3FD1-Schenk (away game)"
+  },
+  "cyc-soccer-fall-2026---34683705.teamsideline.com": {
+    "dtend": "20260926T180000Z",
+    "dtstart": "20260926T170000Z",
+    "fingerprint": "11d79c5206fecbfb321fbac9d48080b103c77ece6f8b8ebf1da97970cfe906c0",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. SHFL-S3FD1-Meredith1 (home game)"
+  },
+  "cyc-soccer-fall-2026---34683707.teamsideline.com": {
+    "dtend": "20261017T180000Z",
+    "dtstart": "20261017T170000Z",
+    "fingerprint": "25bb64a797d495e2b3b77792e4036aa2e1c47df4da3cf6ce4235b92b70231508",
+    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. IW-S3FD1-Schwartzman1 (home game)"
+  },
+  "cyc-soccer-fall-2026---34683710.teamsideline.com": {
+    "dtend": "20261024T150000Z",
+    "dtstart": "20261024T140000Z",
+    "fingerprint": "cdfff18188edcac045052745893f186ebb781d7014d41533b329fa219c6744f3",
+    "location": "CVAC-SCA Fld - Fld B7 SCA\\, 17925 North Outer 40 Road\\, Chesterfield\\, MO  63005",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer at SCA-S3FD1-Ford (away game)"
+  },
+  "cyc-soccer-fall-2026--1787395.teamsideline.com": {
+    "dtend": "20260819T001000Z",
+    "dtstart": "20260818T231000Z",
+    "fingerprint": "b78d93f0c195ecf9a9f23552bafcf48ee82596225028fb4d673e2bf3ba92b174",
+    "location": "JV priory field \\, Missouri  ",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer Practice"
+  },
+  "cyc-soccer-fall-2026--1818888.teamsideline.com": {
+    "dtend": "20260910T010000Z",
+    "dtstart": "20260910T000000Z",
+    "fingerprint": "795d1bfabe32426eeab0d36fd3da5ff5eeff4395e191ecce47f02d2e7028948f",
+    "location": "St. Ann of Normandy School\\, 7532 Natural Bridge Rd.\\, Normandy\\, MO  63121",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. Blessed Teresa of Calcutta (tournament game)"
+  },
+  "cyc-soccer-fall-2026--1818894.teamsideline.com": {
+    "dtend": "20260913T180000Z",
+    "dtstart": "20260913T170000Z",
+    "fingerprint": "ad40962f72e3bb8f69d898c6a901838bf48bbe5e0fe8f12ea51f03c4bc6cf75e",
+    "location": "St. Ann of Normandy School\\, 7532 Natural Bridge Rd.\\, Normandy\\, Missouri  63121",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer vs. Sacred Heart (tournament game)"
+  },
+  "cyc-soccer-fall-2026--1834047.teamsideline.com": {
+    "dtend": "20260925T000000Z",
+    "dtstart": "20260924T230000Z",
+    "fingerprint": "3ff3fc31a2e3fea7a8c91abafb71a78502f7d6e013282532684aae3342e67fe8",
+    "location": "St. Ann of Normandy School\\, 7532 Natural Bridge Rd.\\, Normandy",
+    "source": "cyc-soccer-fall-2026",
+    "summary": "CYC Soccer at Sprenke Championship Game! (away game)"
+  },
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
@@ -102,14 +198,6 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
-  },
-  "knights-basketball--9fb1ff90-77de-440c-8973-771e398cdd1c": {
-    "dtend": "20260806T150000",
-    "dtstart": "20260806T090000",
-    "fingerprint": "0630466a07ca7ff632c337c2453def232d41a38f1f5fbcd1a086678b44003e07",
-    "location": "Principia High School ",
-    "source": "knights-basketball",
-    "summary": "KBA Girls Summer Camp session 3"
   },
   "knights-basketball--a3bfa099-fdfa-4fde-b031-d0b1c3312048": {
     "dtend": "20261011T100000",
