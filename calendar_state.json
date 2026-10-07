@@ -98,10 +98,10 @@
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
-    "fingerprint": "8af5c8f0495b5caca4acfe56576eebab5de5491d5604a5b10b521660124e4225",
+    "fingerprint": "20cfb64379fe549fd2b083792138bf7330bd6fcb897befeaac6a7685609f2774",
     "location": "Principia High School ",
     "source": "knights-basketball",
-    "summary": "KBA 3v3 Games"
+    "summary": "DECLINED: KBA 3v3 Games"
   },
   "knights-basketball--0a12d2c0-b289-456d-bf9a-4e4bbdbb47ef": {
     "dtend": "20260921T190000",
@@ -119,6 +119,14 @@
     "source": "knights-basketball",
     "summary": "Games"
   },
+  "knights-basketball--0ff66f11-0efc-4948-baf5-3affe3b26937": {
+    "dtend": "20261007T203000",
+    "dtstart": "20261007T193000",
+    "fingerprint": "88584a6a89fd5a8d4084ee15eaf6149eb816a3ba79106cbe320fb0fb088c26a4",
+    "location": "WCA - Westminster Christian Academy - Blue Gym ",
+    "source": "knights-basketball",
+    "summary": "KBA 3G Cunningham Practice"
+  },
   "knights-basketball--1967640e-ef38-411f-a1a3-b414cdc5e4fa": {
     "dtend": "20261031T100000",
     "dtstart": "20261031T090000",
@@ -134,6 +142,14 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\, Des Peres\\, MO 63131 Fieldhouse",
     "source": "knights-basketball",
     "summary": "Games"
+  },
+  "knights-basketball--5319d21e-9b2a-44f1-b522-285c8d2c92bc": {
+    "dtend": "20261028T203000",
+    "dtstart": "20261028T193000",
+    "fingerprint": "d2f7051a918304f8ff7440f9a7d9e872cace0b4b6e2c704ec5172cdd3359a4a5",
+    "location": "WCA - Westminster Christian Academy - Blue Gym ",
+    "source": "knights-basketball",
+    "summary": "KBA 3G Cunningham Practice"
   },
   "knights-basketball--5fb7a18a-d23a-4a64-920a-6ddd312d846e": {
     "dtend": "20260914T190000",
@@ -207,6 +223,14 @@
     "source": "knights-basketball",
     "summary": "KBA League Game vs King/Hayes"
   },
+  "knights-basketball--a901fe07-a13a-4e6e-bc5a-49608ce25895": {
+    "dtend": "20261021T203000",
+    "dtstart": "20261021T193000",
+    "fingerprint": "48303f15b61102e632ec8b8cfadaefe3db59839d4135199f1ea0ef7e7da0d207",
+    "location": "WCA - Westminster Christian Academy - Blue Gym ",
+    "source": "knights-basketball",
+    "summary": "KBA 3G Cunningham Practice"
+  },
   "knights-basketball--aa4508b3-4e22-435b-bc92-0a5212d07d0d": {
     "dtend": "20260927T100000",
     "dtstart": "20260927T090000",
@@ -238,6 +262,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA Drills & Skills"
+  },
+  "knights-basketball--c5f28760-e921-4c32-be70-a1edaafe1689": {
+    "dtend": "20261014T203000",
+    "dtstart": "20261014T193000",
+    "fingerprint": "90abc6a16e6a7249936482e88d5c28794c445f99d467b4ede2e80b2374dacab6",
+    "location": "WCA - Westminster Christian Academy - Blue Gym ",
+    "source": "knights-basketball",
+    "summary": "KBA 3G Cunnningham Practice"
   },
   "knights-basketball--ca351567-6763-4cb4-929e-a52ab1054fa5": {
     "dtend": "20260815T100000",
