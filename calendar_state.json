@@ -210,10 +210,10 @@
   "knights-basketball--a3bfa099-fdfa-4fde-b031-d0b1c3312048": {
     "dtend": "20261011T100000",
     "dtstart": "20261011T090000",
-    "fingerprint": "edd0fadf50bfbcf548958d6f177d1a2983cddf2a46a8a00640f169a9966decf9",
+    "fingerprint": "e105dd9fa5554357197591bc7d26dfa9ac3c2e04d1918c3a0f0006ddfa37933d",
     "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
     "source": "knights-basketball",
-    "summary": "KBA League Game vs King/Hayes"
+    "summary": "DECLINED: KBA League Game - Cunningham vs. King/Hayes"
   },
   "knights-basketball--a901fe07-a13a-4e6e-bc5a-49608ce25895": {
     "dtend": "20261021T203000",
@@ -294,6 +294,14 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 3",
     "source": "knights-basketball",
     "summary": "KBA League Game vs Shawhan"
+  },
+  "knights-basketball--eafbcb77-11e1-48c6-9f8d-7839ff4111d3": {
+    "dtend": "20261011T140000",
+    "dtstart": "20261011T090000",
+    "fingerprint": "cd5b9c822327a96b0a87a076d121ee424d474ff9dda45d2ab9b58cc992da0809",
+    "location": "Principia High School ",
+    "source": "knights-basketball",
+    "summary": "KBA League"
   },
   "knights-basketball--ee88ff94-51bf-4988-aac5-185f3f068d81": {
     "dtend": "20260917T203000",
