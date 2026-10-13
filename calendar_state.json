@@ -311,14 +311,6 @@
     "source": "knights-basketball",
     "summary": "KBA 3G Make Up Practice"
   },
-  "knights-basketball--f5f0a4c5-e703-4b08-93c9-9a0ce30b1de5": {
-    "dtend": "20260812T200000",
-    "dtstart": "20260812T180000",
-    "fingerprint": "4a2a07ecb7efd785b02cf700c37e8cfbf5fc4b8d567654d34b3216241bef17cb",
-    "location": "PRINCIPIA Field House ",
-    "source": "knights-basketball",
-    "summary": "Skills Training"
-  },
   "knights-basketball--ff5668b5-af4a-4ed9-8a28-53e0a7a035c3": {
     "dtend": "20261005T190000",
     "dtstart": "20261005T180000",
@@ -656,9 +648,9 @@
     "summary": "West Ham Mo Tech Training #5 - U9 To U14 - SG"
   },
   "playmetrics-soccer--GenericCalendarEvent_2946515": {
-    "dtend": "20261024T221500",
-    "dtstart": "20261024T210000",
-    "fingerprint": "216e89fed1bbb391c09b59edf0a841b0291a648382e547d24708da62abe799ff",
+    "dtend": "20261024T101500",
+    "dtstart": "20261024T090000",
+    "fingerprint": "6392ce318cdb7bff687254861aabab69a19834b382fa2e48116a60b2acda44f3",
     "location": "World Wide Technology Soccer Park\\, Soccer Park Road\\, Fenton\\, MO\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Mo Tech Training #6 - U9 To U14 - SG"
