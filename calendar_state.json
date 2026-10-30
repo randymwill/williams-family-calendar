@@ -822,5 +822,13 @@
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
     "summary": "West Ham Practice - SG"
+  },
+  "vetta-soccer--1786142.600565@vetta": {
+    "dtend": "20261108T205500Z",
+    "dtstart": "20261108T201000Z",
+    "fingerprint": "7451da1772fa668f0514f461573c9216ae9d10286a4ededc43696db5f4b52aa7",
+    "location": "Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Gorillas (Hill/Hubbell) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
   }
 }
