@@ -167,6 +167,14 @@
     "source": "knights-basketball",
     "summary": "KBA League Game vs Dale Robards"
   },
+  "knights-basketball--77ab3b32-de81-49c2-bdc4-9dccbbd444f9": {
+    "dtend": "20261104T193000",
+    "dtstart": "20261104T180000",
+    "fingerprint": "0cbba7359bc749a63580dc53932fcdb2e6f5fb5a453c01fc7b0f4706213593f4",
+    "location": "Westminster (blue gym) ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
   "knights-basketball--84f573ed-672d-4fd1-86aa-9830a39e52ea": {
     "dtend": "20260919T100000",
     "dtstart": "20260919T090000",
@@ -190,6 +198,14 @@
     "location": "WCA - Westminster Christian Academy - Blue Gym ",
     "source": "knights-basketball",
     "summary": "Team Practice"
+  },
+  "knights-basketball--95ca2ddc-c4f0-4251-847d-029107ba97a6": {
+    "dtend": "20261103T193000",
+    "dtstart": "20261103T180000",
+    "fingerprint": "5372e6c185c4d56856e94df8dc92ac1fa18ea3677005b94c9901338e861a281b",
+    "location": "DeSmet Highschool - 233 North New Ballas Rd. 63141 ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
   },
   "knights-basketball--967e9d22-a2f8-405e-9fd8-28273d7e00f8": {
     "dtend": "20261017T100000",
