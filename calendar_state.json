@@ -95,6 +95,22 @@
     "source": "cyc-soccer-fall-2026",
     "summary": "CYC Soccer at Sprenke Championship Game! (away game)"
   },
+  "knights-basketball--0169a79e-78dc-4e4c-9b06-01cfabae4da3": {
+    "dtend": "20261110T193000",
+    "dtstart": "20261110T180000",
+    "fingerprint": "0334209ae43f263cb509073a345c08e209540d4780aadbc7e65392feb07e9952",
+    "location": "DeSmet Highschool - 233 North New Ballas Rd. 63141 ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
+  "knights-basketball--01bc68bc-62d4-446b-8ca4-4eca5a29d312": {
+    "dtend": "20261125T193000",
+    "dtstart": "20261125T180000",
+    "fingerprint": "42c61940c13aa7b345ca9e3c9f04c829c26696f3dabf232b12b0d2b008e86c17",
+    "location": "WESTMINISTER Blue Gym  ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
@@ -110,6 +126,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA Drills & Skills"
+  },
+  "knights-basketball--0c77d3e1-520b-419c-8b70-e9dfb985ae5e": {
+    "dtend": "20261108T130000",
+    "dtstart": "20261108T120000",
+    "fingerprint": "23a0d0d1a5bec40f61a4133b8a6c2aa71170f5f8917260a5441112266e18f6a7",
+    "location": "Lombardo Gym 2420 Hopewell Rd\\, Wentzville\\, MO 63385 Gym #2",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls vs Hot Shots 3rd Girls (Rank 5)"
   },
   "knights-basketball--0ff66f11-0efc-4948-baf5-3affe3b26937": {
     "dtend": "20261007T203000",
@@ -127,13 +151,29 @@
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
   },
+  "knights-basketball--1e3f4f55-0f51-40f2-bdb7-bf783ad0ac53": {
+    "dtend": "20261115T160000",
+    "dtstart": "20261115T150000",
+    "fingerprint": "ed7dfa0fbc873e6e52a7a3edea3a725e0996f7dcfdf6283e470c624133b0c4c6",
+    "location": "Kirkwood High School Gym Denver Miller Gym",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls @Hustle 4th Girls (Rank 4)"
+  },
+  "knights-basketball--27172330-2fd6-4a1e-a2cd-fea2da5890ac": {
+    "dtend": "20261117T193000",
+    "dtstart": "20261117T180000",
+    "fingerprint": "bd190daf91e7abccc4e804c7e657d75252e029c2afbb1f355d60492a91c20bad",
+    "location": "DeSmet Highschool - 233 North New Ballas Rd. 63141 ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
   "knights-basketball--4c4bc6a0-d8e1-4371-a9b5-9063117e1b30": {
     "dtend": "20261108T130000",
     "dtstart": "20261108T120000",
-    "fingerprint": "0b8c0c58272d2ac8848e56dfcc9e2618cdcc02545c9805e40d1b24b03ae780fa",
+    "fingerprint": "824226c31ebada3459cf25156a80d4b67d1069d2c2ae82dad97689eefb59b391",
     "location": "Lombardo All-American Athlete Center - 2420 Hopewell Rd\\, Wentzville\\, MO 63385 ",
     "source": "knights-basketball",
-    "summary": "Tournament game 1 - vs. Hot Shots 3rd Girls"
+    "summary": "CNR League game 1 - vs. Hot Shots 3rd Girls"
   },
   "knights-basketball--5319d21e-9b2a-44f1-b522-285c8d2c92bc": {
     "dtend": "20261028T203000",
@@ -142,6 +182,14 @@
     "location": "WCA - Westminster Christian Academy - Blue Gym ",
     "source": "knights-basketball",
     "summary": "KBA 3G Cunningham Practice"
+  },
+  "knights-basketball--58c336cc-781a-4b44-822c-08fcfb8bc3be": {
+    "dtend": "20261206T140000",
+    "dtstart": "20261206T130000",
+    "fingerprint": "4a4cf5e599b9ec9f188810f27598504baa66b8cb7f85cd201a87b17e614f67c2",
+    "location": "Orchard Farm High School   2555 Highway B. St. Charles\\, MO 63301 Gym #1",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls vsCrusaders 4th Girls (Rank 6)"
   },
   "knights-basketball--5fb7a18a-d23a-4a64-920a-6ddd312d846e": {
     "dtend": "20260914T190000",
@@ -175,6 +223,14 @@
     "source": "knights-basketball",
     "summary": "3G Cunningham Practice"
   },
+  "knights-basketball--8498f0e8-3ca5-4b02-a373-4e66476e9ac3": {
+    "dtend": "20261121T235900",
+    "dtstart": "20261121T000000",
+    "fingerprint": "ad62484ee1cd9ad262ed75d81acdc8d648b6fa321b60a39eb1b27e251560ad35",
+    "location": "tbd ",
+    "source": "knights-basketball",
+    "summary": "PLACEHOLDER - CNR Tournament"
+  },
   "knights-basketball--84f573ed-672d-4fd1-86aa-9830a39e52ea": {
     "dtend": "20260919T100000",
     "dtstart": "20260919T090000",
@@ -182,6 +238,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
+  },
+  "knights-basketball--864dacb9-d415-45da-9eec-0b4ca76437b5": {
+    "dtend": "20261220T150000",
+    "dtstart": "20261220T140000",
+    "fingerprint": "9c876b24a09e77fd2b52c856e18843f2cfd09126e6935658ac3a958988c4b348",
+    "location": "Fort Zumwalt West High 1251 Turtle Creek Dr.\\, O'Fallon\\, MO 63366 Gym #2",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls vsFort Zumwalt West Black 4th Girls (Rank 4)"
   },
   "knights-basketball--89fd6668-fe89-4465-b0c6-1dbda0e9defa": {
     "dtend": "20260928T190000",
@@ -215,6 +279,38 @@
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
   },
+  "knights-basketball--988e886b-5c14-4438-a411-d5c2625a7dd3": {
+    "dtend": "20261114T090000",
+    "dtstart": "20261114T080000",
+    "fingerprint": "33b7a86be5d7b6d94cc53c229e9a6973496dcb4200263df6fb46806f6dc3faff",
+    "location": "Beal Center - 150 N Eatherton Rd  Chesterfield\\, MO 63005 Gym #7",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls @Hustle 3rd Girls (Rank 5)"
+  },
+  "knights-basketball--9e4b51e3-718c-44ef-b239-6ec4e38e0413": {
+    "dtend": "20261124T193000",
+    "dtstart": "20261124T180000",
+    "fingerprint": "0a4e75207d7f9f1ce4b0aae185f57b035034dd97725aa96bcab12e2596566e79",
+    "location": "DeSmet Highschool - 233 North New Ballas Rd. 63141 ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
+  "knights-basketball--9e94f206-5a56-45f1-b4b2-d2e94b1905af": {
+    "dtend": "20261212T160000",
+    "dtstart": "20261212T150000",
+    "fingerprint": "9838b36dbb88526862af6c17f84a4e5a9bf12cc5b6070330d8d99f1c168f26d4",
+    "location": "Community Christian Church - 623 Meramec Station Road\\, Ballwin\\, MO 63021 Gym #1",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls @Mavericks 2035 Black 4th Girls (Rank 7)"
+  },
+  "knights-basketball--a35a11b7-b5a8-44de-8bd6-4b16a404f90c": {
+    "dtend": "20261111T193000",
+    "dtstart": "20261111T180000",
+    "fingerprint": "ba1a90239cccea420cdd28cb970a8bf626bbb8ab7a9c6e9db4243a9f90dd8ba4",
+    "location": "WESTMINISTER Blue Gym  ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
   "knights-basketball--a3bfa099-fdfa-4fde-b031-d0b1c3312048": {
     "dtend": "20261011T100000",
     "dtstart": "20261011T090000",
@@ -238,6 +334,14 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
     "source": "knights-basketball",
     "summary": "KBA League Game vs Gregory"
+  },
+  "knights-basketball--b306ede9-fa54-4eca-b80c-5f701dffa4b5": {
+    "dtend": "20261219T150000",
+    "dtstart": "20261219T140000",
+    "fingerprint": "d76bf1be571cc7d2f264ec4495c1d9981159993745e54e9e13b3c827c092cfb4",
+    "location": "Lombardo Gym 2420 Hopewell Rd\\, Wentzville\\, MO 63385 Gym #2",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls @Future Grizzlies Young 3rd Girls (Rank 5)"
   },
   "knights-basketball--b86c4fab-ae35-4d7d-911b-84858b4a0085": {
     "dtend": "20261012T190000",
@@ -295,6 +399,22 @@
     "source": "knights-basketball",
     "summary": "KBA League Game vs Shawhan"
   },
+  "knights-basketball--e2f74db1-f955-4858-9650-014bff62f23b": {
+    "dtend": "20261118T193000",
+    "dtstart": "20261118T180000",
+    "fingerprint": "505e3e7c8b30cf4617f7b8ec564c44d8bcbaa4be76b8eefde346caf9f8906590",
+    "location": "WESTMINISTER Blue Gym  ",
+    "source": "knights-basketball",
+    "summary": "3G Cunningham Practice"
+  },
+  "knights-basketball--e32177fb-4e91-4c44-81e9-99bbdd7e8eb6": {
+    "dtend": "20261206T130000",
+    "dtstart": "20261206T120000",
+    "fingerprint": "a05cc4a76a193caa9aae847509df12d9d5d2096c6b0ec2a8b8db72ea270df68d",
+    "location": "Orchard Farm High School   2555 Highway B. St. Charles\\, MO 63301 Gym #2",
+    "source": "knights-basketball",
+    "summary": "Knights Cunningham 3rd Girls vsWommack 4th Girls (Rank 5)"
+  },
   "knights-basketball--eafbcb77-11e1-48c6-9f8d-7839ff4111d3": {
     "dtend": "20261011T140000",
     "dtstart": "20261011T090000",
@@ -302,6 +422,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA League"
+  },
+  "knights-basketball--ee63247e-a6cd-4f3e-a433-12a4deb759d4": {
+    "dtend": "20261122T235900",
+    "dtstart": "20261122T000000",
+    "fingerprint": "6afc87fabd19640468812fc5ce605277dd09b29fc807a5b67b597376156a362e",
+    "location": "tbd ",
+    "source": "knights-basketball",
+    "summary": "PLACEHOLDER - CNR Tournament"
   },
   "knights-basketball--ee88ff94-51bf-4988-aac5-185f3f068d81": {
     "dtend": "20260917T203000",
