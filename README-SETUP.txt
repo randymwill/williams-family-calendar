@@ -11,6 +11,11 @@ Sports feed subscriptions now live in:
 
 feeds.json
 
+One-off family and school events that should persist through sports-feed syncs
+live in:
+
+manual-events.ics
+
 When adding or removing a raw sports feed:
 1. Edit feeds.json
 2. Run tools/sync_playmetrics.py

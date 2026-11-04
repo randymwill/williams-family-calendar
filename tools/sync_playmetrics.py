@@ -319,6 +319,8 @@ def source_name(source_id: str) -> str:
 
 
 def event_source(block: str) -> str:
+    if event_has_source(block, "manual"):
+        return "manual"
     for feed in FEEDS:
         if event_has_source(block, feed["source_id"]):
             return feed["source_id"]
@@ -554,15 +556,16 @@ def fetch_source(url: str) -> str:
 
 def main() -> None:
     calendar_path = Path("calendar.ics")
+    manual_events_path = Path("manual-events.ics")
     current_text = calendar_path.read_text(encoding="utf-8", errors="replace")
     header, current_events, footer = split_events(current_text)
 
-    # This published Git calendar is now sports-feed only. Older manual/family
-    # events live in Google Calendar or Dashboard Notes and should not persist
-    # here between feed refreshes.
-    kept_events: list[str] = []
+    manual_events: list[str] = []
+    if manual_events_path.exists():
+        manual_text = manual_events_path.read_text(encoding="utf-8", errors="replace")
+        _, manual_events, _ = split_events(manual_text)
 
-    merged_events = kept_events[:]
+    merged_events = manual_events[:]
     summary_lines: list[str] = []
 
     for feed in FEEDS:
@@ -595,7 +598,7 @@ def main() -> None:
     write_change_report(previous_state, current_state)
     write_state(current_state)
 
-    print(f"Kept {len(kept_events)} local events")
+    print(f"Kept {len(manual_events)} manual events")
     for line in summary_lines:
         print(line)
 
