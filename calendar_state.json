@@ -111,6 +111,14 @@
     "source": "knights-basketball",
     "summary": "3G Cunningham Practice"
   },
+  "knights-basketball--034a121b-7b5c-43be-a249-e1ae3bbb350d": {
+    "dtend": "20261128T113000",
+    "dtstart": "20261128T090000",
+    "fingerprint": "118cb6b7075eebd9f7599a0a3f8b80ead4fe157d9c6c8e0db6a0b2eeed7932a2",
+    "location": "Incarnate Word Academy ",
+    "source": "knights-basketball",
+    "summary": "IWA Dan Rolfes Practice"
+  },
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
@@ -318,6 +326,14 @@
     "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
     "source": "knights-basketball",
     "summary": "DECLINED: KBA League Game - Cunningham vs. King/Hayes"
+  },
+  "knights-basketball--a7f5e24c-2234-4af7-bcd9-50da11c9fb59": {
+    "dtend": "20261113T200000",
+    "dtstart": "20261113T180000",
+    "fingerprint": "fb38d6d101f5fc22b9620481a2d91a9f189d56b97ff8b0b229639df2d77cba65",
+    "location": "Principia High School ",
+    "source": "knights-basketball",
+    "summary": "Jay Blossom Principia Practice"
   },
   "knights-basketball--a901fe07-a13a-4e6e-bc5a-49608ce25895": {
     "dtend": "20261021T203000",
@@ -982,5 +998,13 @@
     "location": "Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021",
     "source": "vetta-soccer",
     "summary": "Vetta Soccer - G3 Gorillas (Hill/Hubbell) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1789740.600565@vetta": {
+    "dtend": "20261120T013000Z",
+    "dtstart": "20261120T004000Z",
+    "fingerprint": "b2e2e4821a0dc8fb8bde19e8dd1b25655b58f0d14e2f4393f58069d598fdf858",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Shamrocks (Bardol) 4 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
   }
 }
