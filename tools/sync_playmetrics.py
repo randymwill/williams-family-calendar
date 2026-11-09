@@ -201,6 +201,9 @@ def rewrite_cyc_soccer_summary(summary: str, location: str, description: str) ->
 
 def rewrite_knights_basketball_summary(summary: str) -> str:
     """Give confirmed KBA games a concise, opponent-first public title."""
+    if re.fullmatch(r"(?:KBA\s+)?3G\s+Cunn+ingham\s+Practice", summary, flags=re.IGNORECASE):
+        return "Knights Practice"
+
     match = re.match(
         r"^KBA League Game\s*-\s*.+?\s+vs\.?\s+(.+?)\s*$",
         summary,
