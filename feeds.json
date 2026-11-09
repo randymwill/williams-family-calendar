@@ -23,5 +23,10 @@
     "name": "Mustang Dream Team - Volleyball 2026",
     "url": "webcal://api.team-manager.gc.com/ics-calendar-documents/user/32c4eb6a-f3da-4fc5-8f25-1813a7f62ca0.ics?teamId=40beef76-f34d-4f9f-8585-641cbea35530&token=7c4331886111e02305f5a17b8007f05b0725d5c7ae434201ca105d60411cb032",
     "source_id": "mustang-dream-team-volleyball-2026"
+  },
+  {
+    "name": "Parkway Basketball",
+    "url": "webcal://www.teamsideline.com/Common/Calendar_ical.aspx?d=vseBS5X6j9rHlQ%2bsuRfgXWjT98vRaJGThzuqRoy47gVTahpLrSwHzRmL1TxzySFM",
+    "source_id": "parkway-basketball"
   }
 ]

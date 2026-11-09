@@ -211,6 +211,15 @@ def rewrite_knights_basketball_summary(summary: str) -> str:
     return summary
 
 
+def rewrite_parkway_basketball_summary(summary: str) -> str:
+    summary = re.sub(r"\s*\(3G Basketball All Team Group\)\s*$", "", summary).strip()
+    if summary == "3G Basketball Practice":
+        return "Parkway Basketball Practice"
+    if summary.startswith("Placeholder: Parkway Rockwood Basketball Tournamen"):
+        return "Parkway Rockwood Basketball Tournament"
+    return f"Parkway Basketball - {summary}"
+
+
 def rewrite_summary(
     feed: dict[str, str],
     summary: str,
@@ -240,6 +249,9 @@ def rewrite_summary(
 
     if feed["source_id"] == "knights-basketball":
         return rewrite_knights_basketball_summary(summary)
+
+    if feed["source_id"] == "parkway-basketball":
+        return rewrite_parkway_basketball_summary(summary)
 
     if feed["source_id"] != "playmetrics-soccer":
         label = f"{feed['name']} - "
@@ -498,6 +510,11 @@ def write_change_report(
 
 
 def should_import_event(block: str, feed: dict[str, str]) -> bool:
+    if feed["source_id"] == "parkway-basketball":
+        # The TeamSideline export also includes the retired CYC soccer schedule.
+        # Parkway's 3G basketball events identify their group in the summary.
+        return "3G Basketball" in get_property(block, "SUMMARY")
+
     if feed["source_id"] != "vetta-soccer":
         return True
 
