@@ -119,6 +119,14 @@
     "source": "knights-basketball",
     "summary": "IWA Dan Rolfes Practice"
   },
+  "knights-basketball--049b81cc-f71e-4af9-be95-c62e9b28d036": {
+    "dtend": "20261220T150000",
+    "dtstart": "20261220T140000",
+    "fingerprint": "86e026355754a5bf59ba817a1f279992daa004f9e820262e400cb05c4f557ed2",
+    "location": "Fort Zumwalt West High Gym 2 ",
+    "source": "knights-basketball",
+    "summary": "vs Fort Zumwalt West Black 4th Girls"
+  },
   "knights-basketball--04fa7c87-4df3-4587-86fa-7650efe06885": {
     "dtend": "20261010T100000",
     "dtstart": "20261010T090000",
@@ -159,14 +167,6 @@
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
   },
-  "knights-basketball--1e3f4f55-0f51-40f2-bdb7-bf783ad0ac53": {
-    "dtend": "20261115T160000",
-    "dtstart": "20261115T150000",
-    "fingerprint": "ed7dfa0fbc873e6e52a7a3edea3a725e0996f7dcfdf6283e470c624133b0c4c6",
-    "location": "Kirkwood High School Gym Denver Miller Gym",
-    "source": "knights-basketball",
-    "summary": "Knights Cunningham 3rd Girls @Hustle 4th Girls (Rank 4)"
-  },
   "knights-basketball--27172330-2fd6-4a1e-a2cd-fea2da5890ac": {
     "dtend": "20261117T193000",
     "dtstart": "20261117T180000",
@@ -174,6 +174,14 @@
     "location": "DeSmet Highschool - 233 North New Ballas Rd. 63141 ",
     "source": "knights-basketball",
     "summary": "Knights Practice"
+  },
+  "knights-basketball--3fc31e55-b976-4995-bff7-18c252ded814": {
+    "dtend": "20261115T140000",
+    "dtstart": "20261115T130000",
+    "fingerprint": "eb804ea386ecc7d66e4a2de9e6b048c72196fbd111ec79875f9af990d0548307",
+    "location": "Kirkwood High School Gym 1 ",
+    "source": "knights-basketball",
+    "summary": "@ Hustle 4th Girls"
   },
   "knights-basketball--4c4bc6a0-d8e1-4371-a9b5-9063117e1b30": {
     "dtend": "20261108T130000",
@@ -191,13 +199,13 @@
     "source": "knights-basketball",
     "summary": "Knights Practice"
   },
-  "knights-basketball--58c336cc-781a-4b44-822c-08fcfb8bc3be": {
-    "dtend": "20261206T140000",
-    "dtstart": "20261206T130000",
-    "fingerprint": "4a4cf5e599b9ec9f188810f27598504baa66b8cb7f85cd201a87b17e614f67c2",
-    "location": "Orchard Farm High School   2555 Highway B. St. Charles\\, MO 63301 Gym #1",
+  "knights-basketball--5e960864-f726-42dc-8fd3-749d1f771f9d": {
+    "dtend": "20261212T160000",
+    "dtstart": "20261212T150000",
+    "fingerprint": "33de9c24bb94ceea2bd719915bb7c2e3a3c6c9face210311a02a5b8fd6a3e110",
+    "location": "Community Christian Church Gym 1 ",
     "source": "knights-basketball",
-    "summary": "Knights Cunningham 3rd Girls vsCrusaders 4th Girls (Rank 6)"
+    "summary": "@ Mavericks 2035 Black 4th Girls"
   },
   "knights-basketball--5fb7a18a-d23a-4a64-920a-6ddd312d846e": {
     "dtend": "20260914T190000",
@@ -287,14 +295,6 @@
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
   },
-  "knights-basketball--988e886b-5c14-4438-a411-d5c2625a7dd3": {
-    "dtend": "20261114T090000",
-    "dtstart": "20261114T080000",
-    "fingerprint": "33b7a86be5d7b6d94cc53c229e9a6973496dcb4200263df6fb46806f6dc3faff",
-    "location": "Beal Center - 150 N Eatherton Rd  Chesterfield\\, MO 63005 Gym #7",
-    "source": "knights-basketball",
-    "summary": "Knights Cunningham 3rd Girls @Hustle 3rd Girls (Rank 5)"
-  },
   "knights-basketball--9e4b51e3-718c-44ef-b239-6ec4e38e0413": {
     "dtend": "20261124T193000",
     "dtstart": "20261124T180000",
@@ -342,6 +342,14 @@
     "location": "WCA - Westminster Christian Academy - Blue Gym ",
     "source": "knights-basketball",
     "summary": "Knights Practice"
+  },
+  "knights-basketball--a9cd2236-74b5-4be0-92eb-49f7d65553fb": {
+    "dtend": "20261114T090000",
+    "dtstart": "20261114T080000",
+    "fingerprint": "f490fe992b71df3708cbd0938e0931e7dbc98d9f8bf14ad1d2a959ff2d08911a",
+    "location": "Beal Center Gym 7 ",
+    "source": "knights-basketball",
+    "summary": "@ Hustle 3rd Girls"
   },
   "knights-basketball--aa4508b3-4e22-435b-bc92-0a5212d07d0d": {
     "dtend": "20260927T100000",
@@ -391,6 +399,14 @@
     "source": "knights-basketball",
     "summary": "Knights Practice"
   },
+  "knights-basketball--c8556374-ba21-4a47-a6b0-72024d90f075": {
+    "dtend": "20261108T130000",
+    "dtstart": "20261108T120000",
+    "fingerprint": "10ef8fe4d0722366397a1ece7db8e5fdc8930420f7e36fe14d4fec7a6324e9a6",
+    "location": "Lombardo Gym 2 ",
+    "source": "knights-basketball",
+    "summary": "vs Hot Shots 3rd Girls"
+  },
   "knights-basketball--ce009e69-e751-457c-84df-b08bd2cf5380": {
     "dtend": "20261024T100000",
     "dtstart": "20261024T090000",
@@ -406,6 +422,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA 3v3 Games"
+  },
+  "knights-basketball--df589fd9-8f1e-4385-b1dc-8bba3c21be64": {
+    "dtend": "20261206T130000",
+    "dtstart": "20261206T120000",
+    "fingerprint": "190cf55d71fc2d1f7778da373d1016b6dd62ce0b1293ec7b8bb1431310760d3d",
+    "location": "Orchard Farm High School Gym 2 ",
+    "source": "knights-basketball",
+    "summary": "vs Wommack 4th Girls"
   },
   "knights-basketball--e22bf8a2-53fc-49a3-bec3-092daa619d80": {
     "dtend": "20261018T110000",
@@ -423,14 +447,6 @@
     "source": "knights-basketball",
     "summary": "Knights Practice"
   },
-  "knights-basketball--e32177fb-4e91-4c44-81e9-99bbdd7e8eb6": {
-    "dtend": "20261206T130000",
-    "dtstart": "20261206T120000",
-    "fingerprint": "a05cc4a76a193caa9aae847509df12d9d5d2096c6b0ec2a8b8db72ea270df68d",
-    "location": "Orchard Farm High School   2555 Highway B. St. Charles\\, MO 63301 Gym #2",
-    "source": "knights-basketball",
-    "summary": "Knights Cunningham 3rd Girls vsWommack 4th Girls (Rank 5)"
-  },
   "knights-basketball--eafbcb77-11e1-48c6-9f8d-7839ff4111d3": {
     "dtend": "20261011T140000",
     "dtstart": "20261011T090000",
@@ -438,6 +454,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA League"
+  },
+  "knights-basketball--ed06896c-834e-414d-816d-126b9f0ff611": {
+    "dtend": "20261219T150000",
+    "dtstart": "20261219T140000",
+    "fingerprint": "d6f9e587980eab41710559770cb26ae252f80219b9c8f614237c297761b2c66c",
+    "location": "Lombardo Gym 2 ",
+    "source": "knights-basketball",
+    "summary": "@ Future Grizzlies Young 3rd Girls"
   },
   "knights-basketball--ee63247e-a6cd-4f3e-a433-12a4deb759d4": {
     "dtend": "20261122T235900",
@@ -454,6 +478,14 @@
     "location": "Missouri Athletic Club (West) Main Court",
     "source": "knights-basketball",
     "summary": "KBA 3G Make Up Practice"
+  },
+  "knights-basketball--f51cedb7-2ee9-459b-90e0-2e76e30f8ca1": {
+    "dtend": "20261206T140000",
+    "dtstart": "20261206T130000",
+    "fingerprint": "1d34b1bbb1f5a4931bf6a61049c2461692a8fcba6b22954be5d7b2426be6164a",
+    "location": "Orchard Farm High School Gym 1 ",
+    "source": "knights-basketball",
+    "summary": "vs Crusaders 4th Girls"
   },
   "knights-basketball--ff5668b5-af4a-4ed9-8a28-53e0a7a035c3": {
     "dtend": "20261005T190000",
@@ -1278,5 +1310,61 @@
     "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
     "source": "vetta-soccer",
     "summary": "Vetta Soccer - G3 Shamrocks (Bardol) 4 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1790542.600565@vetta": {
+    "dtend": "20261122T145000Z",
+    "dtstart": "20261122T140000Z",
+    "fingerprint": "36cb458b3cf860cf58703c7581775dbf90ccb6a08dfdffb66d5ea89ee81906f7",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Sparkle SC (Rhodes) 3 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1790923.600565@vetta": {
+    "dtend": "20261206T234000Z",
+    "dtstart": "20261206T225000Z",
+    "fingerprint": "004cec04e12ab4b17d80ebb4a233a5e0830c54e33ad5e2137fe36a2d9b78dd67",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 SGM Tigers (Schwarz) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1790991.600565@vetta": {
+    "dtend": "20261213T153500Z",
+    "dtstart": "20261213T145000Z",
+    "fingerprint": "906202ae7f21f07704a27a31b327a8dc13594240f10caada3e4a3e97d3ada4b9",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Mermaids (Pennington) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1791058.600565@vetta": {
+    "dtend": "20261223T225000Z",
+    "dtstart": "20261223T220000Z",
+    "fingerprint": "15b4e39a0baf4879f844ba86f2e4baccc1388576611f594961cfc88b4721292a",
+    "location": "Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Gorillas (Hill/Hubbell) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1791479.600565@vetta": {
+    "dtend": "20270103T203000Z",
+    "dtstart": "20270103T194000Z",
+    "fingerprint": "930bdc646b047c101688bf6df8ecb8934ea54d1f11519d3095876fdd6db295ab",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Sparkle SC (Rhodes) 3 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1791597.600565@vetta": {
+    "dtend": "20270109T014500Z",
+    "dtstart": "20270109T005500Z",
+    "fingerprint": "3bc3ba949b1ce8f0cf5db5d89d3f95fd52d3e56af4b6d0d71e7992cc646dea66",
+    "location": "Manchester (West County) on Manchester #1 [Lower Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 Shamrocks (Bardol) 4 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+  },
+  "vetta-soccer--1791701.600565@vetta": {
+    "dtend": "20270116T161500Z",
+    "dtstart": "20270116T153000Z",
+    "fingerprint": "6f254ea1dd336ecb802856418da17abf4a2e4b8d29243525a7002b97ba48935c",
+    "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
+    "source": "vetta-soccer",
+    "summary": "Vetta Soccer - G3 SGM Tigers (Schwarz) 5 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
   }
 }
