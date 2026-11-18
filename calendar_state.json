@@ -303,6 +303,14 @@
     "source": "knights-basketball",
     "summary": "Knights Practice"
   },
+  "knights-basketball--a36c67f5-a005-40bc-a402-2332e8d83783": {
+    "dtend": "20261121T180000",
+    "dtstart": "20261121T170000",
+    "fingerprint": "5bf1c5f1b17c309a208a524480b904cbc3c7f0cc4260d7e74341dc4c201211a8",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Court 1",
+    "source": "knights-basketball",
+    "summary": "CNR Tournament - Knights 3G Cunningham vs. Knights 3G King"
+  },
   "knights-basketball--a3bfa099-fdfa-4fde-b031-d0b1c3312048": {
     "dtend": "20261011T100000",
     "dtstart": "20261011T090000",
@@ -358,6 +366,14 @@
     "location": "Principia High School ",
     "source": "knights-basketball",
     "summary": "KBA Drills & Skills"
+  },
+  "knights-basketball--b9b47873-2d01-48b6-a237-550503a2cae7": {
+    "dtend": "20261121T170000",
+    "dtstart": "20261121T160000",
+    "fingerprint": "cec50b4617bc5d6d0986d8d501cfa1564a1b3ddf0f767c833e171f286a41701c",
+    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Court 1",
+    "source": "knights-basketball",
+    "summary": "CNR Tournament - Knights 3G Cunningham vs. Hustle 3G"
   },
   "knights-basketball--c071107a-1401-41ab-a92d-6e18206b50c0": {
     "dtend": "20260920T100000",
@@ -455,13 +471,13 @@
     "source": "knights-basketball",
     "summary": "PLACEHOLDER - CNR Tournament"
   },
-  "knights-basketball--ee88ff94-51bf-4988-aac5-185f3f068d81": {
-    "dtend": "20260917T203000",
-    "dtstart": "20260917T193000",
-    "fingerprint": "743e0bffb61471dd4db23cc775f807cab2eac1ccc65223320970a44351daacfa",
-    "location": "Missouri Athletic Club (West) Main Court",
+  "knights-basketball--f2b21c25-7e4f-48f0-943e-61ef7be1be60": {
+    "dtend": "20261122T120000",
+    "dtstart": "20261122T090000",
+    "fingerprint": "9ea7c09109135743da0b01a3f3c463f7d1f001f7649435fa833c735c1b1454cc",
+    "location": "Beal Center - 150 N Eatherton Rd  Chesterfield\\, MO 63005 Court 1",
     "source": "knights-basketball",
-    "summary": "KBA 3G Make Up Practice"
+    "summary": "CNR Championship Games Placeholder (TBD on Game Time)"
   },
   "knights-basketball--f51cedb7-2ee9-459b-90e0-2e76e30f8ca1": {
     "dtend": "20261206T140000",
@@ -1210,10 +1226,10 @@
   "playmetrics-soccer--Practice_12167620": {
     "dtend": "",
     "dtstart": "",
-    "fingerprint": "e611c2b29f3e37681b5b2187aa53c787bf98a42a80a56b3552acf37aba7ebef5",
+    "fingerprint": "7e300b57b7b0f5759a54e055d8ffbe1b72e923906c6b3ce8de69c6aa2befb32a",
     "location": "1 Soccer Park Rd\\, Fenton\\, MO 63026\\, USA",
     "source": "playmetrics-soccer",
-    "summary": "West Ham Practice - SG"
+    "summary": "CANCELED MO Girls 2017/2018 West Ham - Practice"
   },
   "playmetrics-soccer--Practice_12843124": {
     "dtend": "",
