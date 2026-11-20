@@ -223,14 +223,6 @@
     "source": "knights-basketball",
     "summary": "Knights Practice"
   },
-  "knights-basketball--8498f0e8-3ca5-4b02-a373-4e66476e9ac3": {
-    "dtend": "20261121T235900",
-    "dtstart": "20261121T000000",
-    "fingerprint": "ad62484ee1cd9ad262ed75d81acdc8d648b6fa321b60a39eb1b27e251560ad35",
-    "location": "tbd ",
-    "source": "knights-basketball",
-    "summary": "PLACEHOLDER - CNR Tournament"
-  },
   "knights-basketball--864dacb9-d415-45da-9eec-0b4ca76437b5": {
     "dtend": "20261220T150000",
     "dtstart": "20261220T140000",
@@ -367,14 +359,6 @@
     "source": "knights-basketball",
     "summary": "CNR Tournament - Knights 3G Cunningham vs. Hustle 3G"
   },
-  "knights-basketball--c071107a-1401-41ab-a92d-6e18206b50c0": {
-    "dtend": "20260920T100000",
-    "dtstart": "20260920T090000",
-    "fingerprint": "be64b807df17d1cc7099e1bee1c903414c70c45b32bd21a442c73730ed9b153f",
-    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 1",
-    "source": "knights-basketball",
-    "summary": "KBA League Game vs King/Hayes"
-  },
   "knights-basketball--c1dce988-4816-455a-9a1c-e49ad9253930": {
     "dtend": "20261019T190000",
     "dtstart": "20261019T180000",
@@ -454,14 +438,6 @@
     "location": "Lombardo Gym 2 ",
     "source": "knights-basketball",
     "summary": "@ Future Grizzlies Young 3rd Girls"
-  },
-  "knights-basketball--ee63247e-a6cd-4f3e-a433-12a4deb759d4": {
-    "dtend": "20261122T235900",
-    "dtstart": "20261122T000000",
-    "fingerprint": "6afc87fabd19640468812fc5ce605277dd09b29fc807a5b67b597376156a362e",
-    "location": "tbd ",
-    "source": "knights-basketball",
-    "summary": "PLACEHOLDER - CNR Tournament"
   },
   "knights-basketball--f2b21c25-7e4f-48f0-943e-61ef7be1be60": {
     "dtend": "20261122T120000",
@@ -1298,10 +1274,10 @@
   "vetta-soccer--1789740.600565@vetta": {
     "dtend": "20261120T013000Z",
     "dtstart": "20261120T004000Z",
-    "fingerprint": "b2e2e4821a0dc8fb8bde19e8dd1b25655b58f0d14e2f4393f58069d598fdf858",
+    "fingerprint": "4ba7968ecc5f9b4f1e376e40d89517d10bd531d81e464239310bc1999e80e83f",
     "location": "Manchester (West County) on Manchester #2 [Upper Field] 150 Enchanted Parkway  St. Louis MO 63021",
     "source": "vetta-soccer",
-    "summary": "Vetta Soccer - G3 Shamrocks (Bardol) 4 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
+    "summary": "Vetta Soccer - G3 Shamrocks (Bardol) 4 W 5-2 vs G3 Rainbow Unicorns (Cunnngham/Skinner) 3"
   },
   "vetta-soccer--1790542.600565@vetta": {
     "dtend": "20261122T145000Z",
