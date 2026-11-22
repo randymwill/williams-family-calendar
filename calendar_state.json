@@ -119,14 +119,6 @@
     "source": "knights-basketball",
     "summary": "DECLINED: KBA 3v3 Games"
   },
-  "knights-basketball--0a12d2c0-b289-456d-bf9a-4e4bbdbb47ef": {
-    "dtend": "20260921T190000",
-    "dtstart": "20260921T180000",
-    "fingerprint": "e9e6248afd9a2e0fd5365d5a21ed80c5b99da7cb8af8091f4a0b859e143b7a7f",
-    "location": "Principia High School ",
-    "source": "knights-basketball",
-    "summary": "KBA Drills & Skills"
-  },
   "knights-basketball--0c77d3e1-520b-419c-8b70-e9dfb985ae5e": {
     "dtend": "20261108T130000",
     "dtstart": "20261108T120000",
@@ -432,9 +424,9 @@
     "summary": "@ Future Grizzlies Young 3rd Girls"
   },
   "knights-basketball--f2b21c25-7e4f-48f0-943e-61ef7be1be60": {
-    "dtend": "20261122T120000",
-    "dtstart": "20261122T090000",
-    "fingerprint": "9ea7c09109135743da0b01a3f3c463f7d1f001f7649435fa833c735c1b1454cc",
+    "dtend": "20261122T230000",
+    "dtstart": "20261122T100000",
+    "fingerprint": "d0ef7eb9b307dcecb06d1cd7749aeb677e4fdea665db2b310a325f1b137bfca5",
     "location": "Beal Center - 150 N Eatherton Rd  Chesterfield\\, MO 63005 Court 1",
     "source": "knights-basketball",
     "summary": "CNR Championship Games Placeholder (TBD on Game Time)"
