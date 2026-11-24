@@ -183,14 +183,6 @@
     "source": "knights-basketball",
     "summary": "@ Mavericks 2035 Black 4th Girls"
   },
-  "knights-basketball--62e1f4f9-b9f2-4013-bf2b-50c22a050137": {
-    "dtend": "20260923T203000",
-    "dtstart": "20260923T190000",
-    "fingerprint": "835236137dbe5fd531b6d669fe9f1f10fe791ec79009aeb0c1f67a001d00d3d7",
-    "location": "Missouri Athletic Club (West) ",
-    "source": "knights-basketball",
-    "summary": "Knights Practice"
-  },
   "knights-basketball--70f8f63f-22ec-41f8-9e86-61995c8c53d5": {
     "dtend": "20261004T100000",
     "dtstart": "20261004T090000",
@@ -714,8 +706,8 @@
   "parkway-basketball--1859066.teamsideline.com": {
     "dtend": "20261201T011500Z",
     "dtstart": "20261201T001500Z",
-    "fingerprint": "77f706ae1bfc28a41ff901a19fd12cf294b2ee49730d50dabc73a28864ca0cf8",
-    "location": "Kehrs Mill Elementary\\, 2650 Kehrs Mill Rd\\, Chesterfield\\, MO  63017",
+    "fingerprint": "12ece67f07d6d90bd1df5c1808553f43840cf160c8c8ce91ac5e5319ffa79858",
+    "location": "Kehrs Mill Elementary\\, 2650 Kehrs Mill Rd\\, Chesterfield\\, Missouri  63017",
     "source": "parkway-basketball",
     "summary": "Parkway Basketball Practice"
   },
