@@ -1,12 +1,4 @@
 {
-  "cyc-soccer-fall-2026---34683689.teamsideline.com": {
-    "dtend": "20260829T180000Z",
-    "dtstart": "20260829T170000Z",
-    "fingerprint": "534ab092d681092cf75db472db36ee1391d858b175b5fb3623da65c264ac696f",
-    "location": "St AnselmFld - Jr Sm\\, K-3\\, 500 S Mason Rd\\, St. Louis\\, MO  63414",
-    "source": "cyc-soccer-fall-2026",
-    "summary": "CYC Soccer vs. SCA-S3FD1-Ford (home game)"
-  },
   "cyc-soccer-fall-2026---34683693.teamsideline.com": {
     "dtend": "20260912T190000Z",
     "dtstart": "20260912T180000Z",
@@ -294,14 +286,6 @@
     "location": "Beal Center Gym 7 ",
     "source": "knights-basketball",
     "summary": "@ Hustle 3rd Girls"
-  },
-  "knights-basketball--aa4508b3-4e22-435b-bc92-0a5212d07d0d": {
-    "dtend": "20260927T100000",
-    "dtstart": "20260927T090000",
-    "fingerprint": "256faadf063d82cd1bf6327b34122fa470531e5c7192eb521e321fe75d49732f",
-    "location": "PRINCIPIA  13201 Clayton Rd\\,  Town and Country\\, MO 63131 Ct. 2",
-    "source": "knights-basketball",
-    "summary": "KBA League Game vs Gregory"
   },
   "knights-basketball--b306ede9-fa54-4eca-b80c-5f701dffa4b5": {
     "dtend": "20261219T150000",
